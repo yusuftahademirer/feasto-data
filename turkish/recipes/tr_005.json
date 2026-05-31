@@ -1,0 +1,53 @@
+{
+  "id": "tr_005",
+  "name": "Ezogelin Çorbası",
+  "category": "corba",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "easy",
+  "tags": [
+    "çorba",
+    "bakliyat",
+    "klasik"
+  ],
+  "ingredients": [
+    {
+      "name": "Kırmızı Mercimek",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Pilavlık Bulgur",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Pirinç",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "2 diş"
+    },
+    {
+      "name": "Nane & Salça",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "2 yemek kaşığı"
+    }
+  ],
+  "instructions": [
+    "Tencerede tereyağı ve zeytinyağını ısıtıp ince doğranmış soğan ve sarımsakları kavurun.",
+    "Salça ve naneyi ekleyip kokusu çıkana kadar karıştırın.",
+    "Yıkanmış mercimek, bulgur ve pirinci tencereye ekleyin.",
+    "Sıcak su ekleyip tüm bakliyatlar açılıp yumuşayana kadar yaklaşık 30 dakika pişirin.",
+    "Kıvamı koyulaşınca tuz ve baharatlarını ekleyip 5 dakika daha kaynatıp sıcak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

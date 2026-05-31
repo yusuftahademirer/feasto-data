@@ -1,0 +1,41 @@
+{
+  "id": "701",
+  "name": "Chocolate Soufflé",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "hard",
+  "tags": [
+    "tatlı",
+    "çikolata",
+    "fransız"
+  ],
+  "ingredients": [
+    {
+      "name": "Bitter Çikolata (%70)",
+      "measure": "100g"
+    },
+    {
+      "name": "Yumurta",
+      "measure": "3 adet (sarıları ve beyazları ayrılmış)"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Toz Şeker",
+      "measure": "3 yemek kaşığı"
+    }
+  ],
+  "instructions": [
+    "Fırını 200 dereceye ısıtın. Sufle kaplarını tereyağı ile yağlayıp şekerle kaplayın.",
+    "Bitter çikolatayı tereyağı ile benmari usulü eritin, yumurta sarılarını ekleyip karıştırın.",
+    "Yumurta beyazlarını toz şekerle mikserde katı kar haline gelene kadar çırpın.",
+    "Yumurta köpüğünü çikolata karışımına 3 seferde, havasını söndürmeden spatula ile alttan üste karıştırarak ekleyin.",
+    "Karışımı kaplara bölüştürüp fırında 12-14 dakika pişirin. İçi akışkan kalmalıdır."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

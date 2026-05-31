@@ -1,0 +1,50 @@
+{
+  "id": "301",
+  "name": "Kung Pao Tavuğu",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1525755662778-989d0524087e?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "medium",
+  "tags": [
+    "tavuk",
+    "çin",
+    "acılı",
+    "wok"
+  ],
+  "ingredients": [
+    {
+      "name": "Tavuk Göğsü",
+      "measure": "400g (küp kesilmiş)"
+    },
+    {
+      "name": "Tuzsuz Yer Fıstığı",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "Kurutulmuş Kırmızı Biber",
+      "measure": "6-8 adet"
+    },
+    {
+      "name": "Soya Sosu",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Zencefil & Sarımsak Ezmesi",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Yeşil Soğan",
+      "measure": "3 dal"
+    }
+  ],
+  "instructions": [
+    "Tavukları mısır nişastası ve biraz soya sosuyla marine edin.",
+    "Wok tavada yağı kızdırıp kurutulmuş biberleri ve fıstıkları 1 dakika soteleyin, kenara alın.",
+    "Aynı tavada sarımsak ve zencefili kokusu çıkana kadar kavurun, ardından tavukları ekleyip yüksek ateşte pişirin.",
+    "Tavuklar pişince yeşil soğanları, sotelediğiniz fıstık ve biberleri ekleyin.",
+    "Soya sosu, sirke ve şekerden hazırladığınız sosu döküp kıvam alana kadar yüksek ateşte karıştırarak 2 dakika soteleyin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

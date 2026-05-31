@@ -1,0 +1,46 @@
+{
+  "id": "1001",
+  "name": "Spanish Paella",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "hard",
+  "tags": [
+    "deniz ürünü",
+    "pilav",
+    "ispanyol",
+    "safran"
+  ],
+  "ingredients": [
+    {
+      "name": "Bomba Pirinci",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Karışık Deniz Ürünleri",
+      "measure": "300g (Karides, Midye)"
+    },
+    {
+      "name": "Safran",
+      "measure": "1 tutam"
+    },
+    {
+      "name": "Tavuk Suyu",
+      "measure": "3 su bardağı"
+    },
+    {
+      "name": "Kırmızı Biber & Bezelye",
+      "measure": "Sebze için"
+    }
+  ],
+  "instructions": [
+    "Safranı sıcak tavuk suyunda bekleterek rengini salmasını sağlayın.",
+    "Geniş paella tavasında zeytinyağı ile biberleri ve tavuk/deniz ürünlerini hafifçe soteleyin.",
+    "Pirinci ekleyip 2 dakika kavurun.",
+    "Safranlı sıcak tavuk suyunu dökün, ateşi kısın ve pirinçler suyu çekene kadar karıştırmadan 15-18 dakika pişirin.",
+    "Üzerine limon dilimleri koyup 5 dakika dinlendirdikten sonra servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

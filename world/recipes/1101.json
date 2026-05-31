@@ -1,0 +1,48 @@
+{
+  "id": "1101",
+  "name": "Falafel Wraps",
+  "category": "middle-east",
+  "area": "Middle Eastern",
+  "thumbnailURL": "https://images.unsplash.com/photo-1547058886-d345c26b9100?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "nohut",
+    "vejetaryen",
+    "orta doğu"
+  ],
+  "ingredients": [
+    {
+      "name": "Kuru Nohut (Akşamdan ıslanmış)",
+      "measure": "2 su bardağı"
+    },
+    {
+      "name": "Taze Maydanoz & Kişniş",
+      "measure": "1 demet"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "4 diş"
+    },
+    {
+      "name": "Kimyon & Kişniş Tozu",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Lavaş Ekmek",
+      "measure": "4 adet"
+    },
+    {
+      "name": "Tahin Sosu",
+      "measure": "Yarım su bardağı"
+    }
+  ],
+  "instructions": [
+    "Islanmış nohutları, sarımsağı, baharatları ve yeşillikleri mutfak robotundan geçirerek hafif pürüzlü bir harç elde edin. 30 dakika buzdolabında dinlendirin.",
+    "Harçtan ceviz büyüklüğünde toplar yuvarlayın.",
+    "Kızgın derin yağda altın sarısı olana kadar kızartın.",
+    "Lavaşların içine falafel toplarını yerleştirin, marul, domates ve tahin sosu ekleyerek dürüm yapıp servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

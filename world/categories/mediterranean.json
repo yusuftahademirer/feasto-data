@@ -1,0 +1,22 @@
+{
+  "category": "mediterranean",
+  "page": 1,
+  "totalPages": 1,
+  "recipes": [
+    {
+      "id": "1401",
+      "name": "Hummus Plate",
+      "category": "mediterranean",
+      "area": "Mediterranean",
+      "thumbnailURL": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 20,
+      "difficulty": "easy",
+      "tags": [
+        "meze",
+        "nohut",
+        "akdeniz",
+        "sağlıklı"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "category": "french",
+  "page": 1,
+  "totalPages": 1,
+  "recipes": [
+    {
+      "id": "701",
+      "name": "Chocolate Soufflé",
+      "category": "french",
+      "area": "French",
+      "thumbnailURL": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 30,
+      "difficulty": "hard",
+      "tags": [
+        "tatlı",
+        "çikolata",
+        "fransız"
+      ]
+    }
+  ]
+}

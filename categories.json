@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ana-yemek",
+    "name": "Ana Yemek",
+    "nameEn": "Main Course",
+    "emoji": "🍖",
+    "cuisine": "turkish",
+    "recipeCount": 3
+  },
+  {
+    "id": "corba",
+    "name": "Çorba",
+    "nameEn": "Soup",
+    "emoji": "🍜",
+    "cuisine": "turkish",
+    "recipeCount": 2
+  },
+  {
+    "id": "tatli",
+    "name": "Tatlı",
+    "nameEn": "Dessert",
+    "emoji": "🍮",
+    "cuisine": "turkish",
+    "recipeCount": 2
+  },
+  {
+    "id": "salata",
+    "name": "Salata",
+    "nameEn": "Salad",
+    "emoji": "🥗",
+    "cuisine": "turkish",
+    "recipeCount": 1
+  },
+  {
+    "id": "kahvalti",
+    "name": "Kahvaltı",
+    "nameEn": "Breakfast",
+    "emoji": "🍳",
+    "cuisine": "turkish",
+    "recipeCount": 1
+  },
+  {
+    "id": "italian",
+    "name": "İtalyan",
+    "nameEn": "Italian",
+    "emoji": "🍝",
+    "cuisine": "world",
+    "recipeCount": 2
+  },
+  {
+    "id": "mexican",
+    "name": "Meksika",
+    "nameEn": "Mexican",
+    "emoji": "🌮",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "chinese",
+    "name": "Çin",
+    "nameEn": "Chinese",
+    "emoji": "🥡",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "indian",
+    "name": "Hint",
+    "nameEn": "Indian",
+    "emoji": "🍛",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "japanese",
+    "name": "Japon",
+    "nameEn": "Japanese",
+    "emoji": "🍣",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "american",
+    "name": "Amerikan",
+    "nameEn": "American",
+    "emoji": "🍔",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "french",
+    "name": "Fransız",
+    "nameEn": "French",
+    "emoji": "🥐",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "greek",
+    "name": "Yunan",
+    "nameEn": "Greek",
+    "emoji": "🫒",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "thai",
+    "name": "Tayland",
+    "nameEn": "Thai",
+    "emoji": "🍜",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "spanish",
+    "name": "İspanyol",
+    "nameEn": "Spanish",
+    "emoji": "🥘",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "middle-east",
+    "name": "Orta Doğu",
+    "nameEn": "Middle East",
+    "emoji": "🧆",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "korean",
+    "name": "Kore",
+    "nameEn": "Korean",
+    "emoji": "🥢",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "vietnamese",
+    "name": "Vietnam",
+    "nameEn": "Vietnamese",
+    "emoji": "🍲",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "mediterranean",
+    "name": "Akdeniz",
+    "nameEn": "Mediterranean",
+    "emoji": "🫙",
+    "cuisine": "world",
+    "recipeCount": 1
+  },
+  {
+    "id": "vegetarian",
+    "name": "Vejetaryen",
+    "nameEn": "Vegetarian",
+    "emoji": "🥗",
+    "cuisine": "world",
+    "recipeCount": 1
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "tr_009",
+  "name": "Menemen",
+  "category": "kahvalti",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1594179924451-7c7c907b8f27?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "kahvaltı",
+    "yumurta",
+    "pratik",
+    "klasik"
+  ],
+  "ingredients": [
+    {
+      "name": "Yumurta",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Domates",
+      "measure": "3 adet (kabuğu soyulmuş)"
+    },
+    {
+      "name": "Yeşil Biber",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Tuz & Karabiber & Pulbiber",
+      "measure": "İsteğe göre"
+    },
+    {
+      "name": "Kaşar Peyniri (Rendelenmiş)",
+      "measure": "Yarım su bardağı (isteğe bağlı)"
+    }
+  ],
+  "instructions": [
+    "Biberleri ince ince doğrayıp tereyağında hafifçe soteleyin.",
+    "Küçük küpler halinde doğranmış domatesleri ekleyin ve tencerenin kapağını kapatıp domatesler suyunu çekip yumuşayana kadar pişirin.",
+    "Tuz ve baharatları ekleyin.",
+    "Yumurtaları kırın ve hafifçe karıştırarak pişmeye bırakın. Çok kurutmadan nemli bir kıvamdayken ocaktan alın.",
+    "İsteğe bağlı olarak üzerine kaşar rendesi serperek sıcak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tr_004",
+  "name": "Mercimek Çorbası",
+  "category": "corba",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1547592165-e1d17f1a0655?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "easy",
+  "tags": [
+    "çorba",
+    "bakliyat",
+    "klasik",
+    "sağlıklı"
+  ],
+  "ingredients": [
+    {
+      "name": "Kırmızı Mercimek",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Havuç",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Patates",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Sıcak Su veya Et Suyu",
+      "measure": "6 su bardağı"
+    },
+    {
+      "name": "Limon",
+      "measure": "Servis için"
+    }
+  ],
+  "instructions": [
+    "Soğan, havuç ve patatesi küp küp doğrayın, zeytinyağında 5 dakika soteleyin.",
+    "Yıkanmış mercimekleri ekleyin.",
+    "Sıcak suyu ekleyip sebzeler yumuşayana kadar yaklaşık 25 dakika orta ateşte pişirin.",
+    "Çorbayı pürüzsüz olana kadar blenderdan geçirin.",
+    "Tereyağında pulbiber yakıp üzerinde gezdirin ve bol limonla servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

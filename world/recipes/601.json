@@ -1,0 +1,45 @@
+{
+  "id": "601",
+  "name": "Classic Cheeseburger",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "burger",
+    "amerikan",
+    "fastfood"
+  ],
+  "ingredients": [
+    {
+      "name": "Dana Burger Köftesi",
+      "measure": "180g"
+    },
+    {
+      "name": "Cheddar Peyniri",
+      "measure": "1 dilim"
+    },
+    {
+      "name": "Hamburger Ekmeği",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Karamelize Soğan & Marul",
+      "measure": "İsteğe göre"
+    },
+    {
+      "name": "Ketçap & Mayonez",
+      "measure": "Sos için"
+    }
+  ],
+  "instructions": [
+    "Döküm tavayı dumanı çıkana kadar yüksek ateşte ısıtın.",
+    "Köfteyi tavaya koyup spatulayla bastırarak her iki yüzünü 3-4 dakika pişirin.",
+    "Ocaktan almadan hemen önce köftenin üzerine cheddar peynirini koyup erimesi için kapağını kapatın.",
+    "Hamburger ekmeklerini tavada hafifçe kızartın.",
+    "Ekmeğin tabanına sos sürün, marul, köfte, peynir ve karamelize soğanı yerleştirip kapatın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

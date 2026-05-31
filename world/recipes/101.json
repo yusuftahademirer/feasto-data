@@ -1,0 +1,49 @@
+{
+  "id": "101",
+  "name": "Spaghetti Carbonara",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1612874742237-6526221588e3?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "makarna",
+    "italyan",
+    "klasik"
+  ],
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "measure": "400g"
+    },
+    {
+      "name": "Pancetta veya Bacon",
+      "measure": "150g"
+    },
+    {
+      "name": "Taze Yumurta",
+      "measure": "4 adet"
+    },
+    {
+      "name": "Pecorino veya Parmesan",
+      "measure": "100g"
+    },
+    {
+      "name": "Taze Çekilmiş Karabiber",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Tuz",
+      "measure": "Makarna suyu için"
+    }
+  ],
+  "instructions": [
+    "Makarnayı bol tuzlu kaynar suda al dente kıvamında haşlayın.",
+    "Pancettayı küp küp doğrayın ve geniş bir tavada kısık ateşte kendi yağıyla çıtırlaşana kadar kavurun.",
+    "Bir kasede yumurta sarılarını, rendelenmiş peyniri ve bol karabiberi çırparak krema kıvamına getirin.",
+    "Makarnayı süzün (suyundan yarım su bardağı ayırın) ve pancetta tavasına aktarın, ateşi kapatın.",
+    "Tava hafif soğuyunca yumurta karışımını ekleyin ve hızlıca karıştırın. Gerekirse makarna suyundan ekleyerek kremsi bir sos elde edin."
+  ],
+  "sourceURL": "https://www.food.com/recipe/spaghetti-carbonara-24825",
+  "youtubeURL": null
+}

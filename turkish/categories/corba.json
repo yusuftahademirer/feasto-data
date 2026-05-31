@@ -1,0 +1,36 @@
+{
+  "category": "corba",
+  "page": 1,
+  "totalPages": 1,
+  "recipes": [
+    {
+      "id": "tr_004",
+      "name": "Mercimek Çorbası",
+      "category": "corba",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1547592165-e1d17f1a0655?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 35,
+      "difficulty": "easy",
+      "tags": [
+        "çorba",
+        "bakliyat",
+        "klasik",
+        "sağlıklı"
+      ]
+    },
+    {
+      "id": "tr_005",
+      "name": "Ezogelin Çorbası",
+      "category": "corba",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 40,
+      "difficulty": "easy",
+      "tags": [
+        "çorba",
+        "bakliyat",
+        "klasik"
+      ]
+    }
+  ]
+}

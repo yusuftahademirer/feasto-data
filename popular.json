@@ -1,0 +1,175 @@
+[
+  {
+    "id": "tr_001",
+    "name": "Karnıyarık",
+    "category": "ana-yemek",
+    "area": "Turkish",
+    "thumbnailURL": "https://images.unsplash.com/photo-1598449356475-b9f71bc7d847?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 50,
+    "difficulty": "medium",
+    "tags": [
+      "patlıcan",
+      "kıyma",
+      "fırın yemekleri",
+      "akşam yemeği"
+    ]
+  },
+  {
+    "id": "tr_002",
+    "name": "İskender Kebabı",
+    "category": "ana-yemek",
+    "area": "Turkish",
+    "thumbnailURL": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 45,
+    "difficulty": "hard",
+    "tags": [
+      "kebap",
+      "döner",
+      "et yemekleri"
+    ]
+  },
+  {
+    "id": "tr_003",
+    "name": "Mantı",
+    "category": "ana-yemek",
+    "area": "Turkish",
+    "thumbnailURL": "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 90,
+    "difficulty": "hard",
+    "tags": [
+      "hamur işi",
+      "kıyma",
+      "yoğurtlu"
+    ]
+  },
+  {
+    "id": "tr_004",
+    "name": "Mercimek Çorbası",
+    "category": "corba",
+    "area": "Turkish",
+    "thumbnailURL": "https://images.unsplash.com/photo-1547592165-e1d17f1a0655?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 35,
+    "difficulty": "easy",
+    "tags": [
+      "çorba",
+      "bakliyat",
+      "klasik",
+      "sağlıklı"
+    ]
+  },
+  {
+    "id": "tr_005",
+    "name": "Ezogelin Çorbası",
+    "category": "corba",
+    "area": "Turkish",
+    "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 40,
+    "difficulty": "easy",
+    "tags": [
+      "çorba",
+      "bakliyat",
+      "klasik"
+    ]
+  },
+  {
+    "id": "tr_006",
+    "name": "Fırın Sütlaç",
+    "category": "tatli",
+    "area": "Turkish",
+    "thumbnailURL": "https://images.unsplash.com/photo-1579372786545-d24232daf58c?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 50,
+    "difficulty": "medium",
+    "tags": [
+      "sütlü tatlı",
+      "fırın",
+      "geleneksel"
+    ]
+  },
+  {
+    "id": "tr_007",
+    "name": "Baklava",
+    "category": "tatli",
+    "area": "Turkish",
+    "thumbnailURL": "https://images.unsplash.com/photo-1519676867240-f03562e64548?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 120,
+    "difficulty": "hard",
+    "tags": [
+      "şerbetli tatlı",
+      "fıstıklı",
+      "bayram"
+    ]
+  },
+  {
+    "id": "tr_008",
+    "name": "Çoban Salatası",
+    "category": "salata",
+    "area": "Turkish",
+    "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 15,
+    "difficulty": "easy",
+    "tags": [
+      "salata",
+      "taze",
+      "sağlıklı",
+      "pratik"
+    ]
+  },
+  {
+    "id": "tr_009",
+    "name": "Menemen",
+    "category": "kahvalti",
+    "area": "Turkish",
+    "thumbnailURL": "https://images.unsplash.com/photo-1594179924451-7c7c907b8f27?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 20,
+    "difficulty": "easy",
+    "tags": [
+      "kahvaltı",
+      "yumurta",
+      "pratik",
+      "klasik"
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Spaghetti Carbonara",
+    "category": "italian",
+    "area": "Italian",
+    "thumbnailURL": "https://images.unsplash.com/photo-1612874742237-6526221588e3?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 30,
+    "difficulty": "medium",
+    "tags": [
+      "makarna",
+      "italyan",
+      "klasik"
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Margherita Pizza",
+    "category": "italian",
+    "area": "Italian",
+    "thumbnailURL": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 45,
+    "difficulty": "medium",
+    "tags": [
+      "pizza",
+      "italyan",
+      "vejetaryen"
+    ]
+  },
+  {
+    "id": "201",
+    "name": "Tacos al Pastor",
+    "category": "mexican",
+    "area": "Mexican",
+    "thumbnailURL": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?q=80&w=640&auto=format&fit=crop",
+    "prepTime": 60,
+    "difficulty": "medium",
+    "tags": [
+      "taco",
+      "et",
+      "meksika",
+      "sokak lezzeti"
+    ]
+  }
+]

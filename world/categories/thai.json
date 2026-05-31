@@ -1,0 +1,21 @@
+{
+  "category": "thai",
+  "page": 1,
+  "totalPages": 1,
+  "recipes": [
+    {
+      "id": "901",
+      "name": "Pad Thai",
+      "category": "thai",
+      "area": "Thai",
+      "thumbnailURL": "https://images.unsplash.com/photo-1626804475315-9644b37a2f4b?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 30,
+      "difficulty": "medium",
+      "tags": [
+        "makarna",
+        "tayland",
+        "sokak lezzeti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "201",
+  "name": "Tacos al Pastor",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 60,
+  "difficulty": "medium",
+  "tags": [
+    "taco",
+    "et",
+    "meksika",
+    "sokak lezzeti"
+  ],
+  "ingredients": [
+    {
+      "name": "Domuz eti veya Kuzu Eti",
+      "measure": "500g"
+    },
+    {
+      "name": "Achiote Ezmesi",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Ananas Dilimleri",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Mısır Tortillası",
+      "measure": "8 adet"
+    },
+    {
+      "name": "Kişniş & İnce Doğranmış Soğan",
+      "measure": "Süslemek için"
+    },
+    {
+      "name": "Misket Limonu (Lime)",
+      "measure": "Servis için"
+    }
+  ],
+  "instructions": [
+    "Eti achiote ezmesi, sirke, sarımsak ve baharatlarla marine edip en az 2 saat bekletin.",
+    "Etleri tavada veya ızgarada yüksek ateşte iyice pişirin ve ince ince dilimleyin.",
+    "Ananas dilimlerini tavada karamelize olana kadar ızgaralayın ve küçük küpler halinde doğrayın.",
+    "Sıcak tortillaların içine eti ve ananası yerleştirin.",
+    "Üzerine kişniş, doğranmış soğan serpin ve lime dilimleriyle sıcak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

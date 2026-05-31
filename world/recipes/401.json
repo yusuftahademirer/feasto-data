@@ -1,0 +1,50 @@
+{
+  "id": "401",
+  "name": "Butter Chicken",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "tavuk",
+    "hint",
+    "baharatlı",
+    "köri"
+  ],
+  "ingredients": [
+    {
+      "name": "Tavuk Pirzola (Kemiksiz)",
+      "measure": "500g"
+    },
+    {
+      "name": "Garam Masala & Köri",
+      "measure": "2 tatlı kaşığı"
+    },
+    {
+      "name": "Domates Püresi",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Sıvı Krema",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Süzme Yoğurt (Marinasyon)",
+      "measure": "3 yemek kaşığı"
+    }
+  ],
+  "instructions": [
+    "Tavukları yoğurt, limon suyu, sarımsak, zencefil ve garam masala ile marine edip dinlendirin.",
+    "Marine edilen tavukları tavada yüksek ateşte kızarana kadar pişirip kenara alın.",
+    "Aynı tavada tereyağını eritin, soğanları kavurun, domates püresi ve baharatları ekleyip 10 dakika pişirin.",
+    "Sosu pürüzsüz olması için blenderdan geçirin.",
+    "Kızarmış tavukları ve kremayı sosa ekleyin, kısık ateşte 10 dakika daha pişirerek sıcak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

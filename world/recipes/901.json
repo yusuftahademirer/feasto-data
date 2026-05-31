@@ -1,0 +1,49 @@
+{
+  "id": "901",
+  "name": "Pad Thai",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626804475315-9644b37a2f4b?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "makarna",
+    "tayland",
+    "sokak lezzeti"
+  ],
+  "ingredients": [
+    {
+      "name": "Düz Pirinç Eriştesi (Noodle)",
+      "measure": "200g"
+    },
+    {
+      "name": "Karides veya Tavuk",
+      "measure": "150g"
+    },
+    {
+      "name": "Demirhindi (Tamarind) Ezmesi",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Yumurta",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Kırılmış Yer Fıstığı & Soya Filizi",
+      "measure": "Süslemek için"
+    },
+    {
+      "name": "Balık Sosu (Fish Sauce)",
+      "measure": "1.5 yemek kaşığı"
+    }
+  ],
+  "instructions": [
+    "Erişteleri ılık suda 30 dakika bekletip süzün.",
+    "Demirhindi ezmesi, balık sosu ve palmiye şekerini eriterek sosu hazırlayın.",
+    "Wok tavada karides veya tavukları soteleyip tavadan alın.",
+    "Aynı tavada yumurtaları kırıp karıştırarak pişirin, erişteleri ve sosu ekleyip 2 dakika hızlıca soteleyin.",
+    "Tavuk/karides ve soya filizini ekleyin, fıstık ve yeşil soğan serpiştirerek servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

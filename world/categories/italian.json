@@ -1,0 +1,35 @@
+{
+  "category": "italian",
+  "page": 1,
+  "totalPages": 1,
+  "recipes": [
+    {
+      "id": "101",
+      "name": "Spaghetti Carbonara",
+      "category": "italian",
+      "area": "Italian",
+      "thumbnailURL": "https://images.unsplash.com/photo-1612874742237-6526221588e3?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 30,
+      "difficulty": "medium",
+      "tags": [
+        "makarna",
+        "italyan",
+        "klasik"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Margherita Pizza",
+      "category": "italian",
+      "area": "Italian",
+      "thumbnailURL": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 45,
+      "difficulty": "medium",
+      "tags": [
+        "pizza",
+        "italyan",
+        "vejetaryen"
+      ]
+    }
+  ]
+}

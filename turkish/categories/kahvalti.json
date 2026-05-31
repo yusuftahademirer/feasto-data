@@ -1,0 +1,22 @@
+{
+  "category": "kahvalti",
+  "page": 1,
+  "totalPages": 1,
+  "recipes": [
+    {
+      "id": "tr_009",
+      "name": "Menemen",
+      "category": "kahvalti",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1594179924451-7c7c907b8f27?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 20,
+      "difficulty": "easy",
+      "tags": [
+        "kahvaltı",
+        "yumurta",
+        "pratik",
+        "klasik"
+      ]
+    }
+  ]
+}

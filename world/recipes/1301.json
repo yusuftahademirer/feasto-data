@@ -1,0 +1,49 @@
+{
+  "id": "1301",
+  "name": "Beef Pho",
+  "category": "vietnamese",
+  "area": "Vietnamese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 90,
+  "difficulty": "hard",
+  "tags": [
+    "çorba",
+    "noodle",
+    "vietnam"
+  ],
+  "ingredients": [
+    {
+      "name": "Pirinç Noodle",
+      "measure": "200g"
+    },
+    {
+      "name": "Dana Bonfile (Çok ince dilimlenmiş)",
+      "measure": "150g"
+    },
+    {
+      "name": "Yıldız Anason & Çubuk Tarçın",
+      "measure": "Baharat torbası için"
+    },
+    {
+      "name": "Dana Kemik Suyu",
+      "measure": "6 su bardağı"
+    },
+    {
+      "name": "Zencefil & Soğan",
+      "measure": "Fırınlanmış"
+    },
+    {
+      "name": "Taze Nane & Kişniş & Lime",
+      "measure": "Servis için"
+    }
+  ],
+  "instructions": [
+    "Fırınlanmış zencefil, soğan, yıldız anason ve tarçını kemik suyunda 1 saat kısık ateşte kaynatarak aromatik Pho suyunu hazırlayın.",
+    "Noodlelari haşlayıp süzün ve kaselere koyun.",
+    "Üzerine çiğ bonfile dilimlerini yerleştirin.",
+    "Kaynar derecedeki Pho suyunu etlerin üzerine dökün (sıcak su eti anında pişirecektir).",
+    "Üzerine soya filizi, taze otlar ve lime suyu sıkarak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

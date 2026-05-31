@@ -1,0 +1,50 @@
+{
+  "id": "tr_002",
+  "name": "İskender Kebabı",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "hard",
+  "tags": [
+    "kebap",
+    "döner",
+    "et yemekleri"
+  ],
+  "ingredients": [
+    {
+      "name": "Hazır Döner (Et)",
+      "measure": "400g"
+    },
+    {
+      "name": "Pide Ekmek",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Tuzsuz Tereyağı",
+      "measure": "4 yemek kaşığı"
+    },
+    {
+      "name": "Süzme Yoğurt",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Domates Salçası",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Yeşil Biber & Domates",
+      "measure": "Közlemek için"
+    }
+  ],
+  "instructions": [
+    "Pide ekmekleri küp küp doğrayıp fırında hafifçe çıtırdatın.",
+    "Sosu hazırlamak için salçayı 1 yemek kaşığı tereyağı ve biraz su ile kaynatın.",
+    "Et dönerleri tavada ısıtın.",
+    "Servis tabağının tabanına pideleri yayın, üzerine sıcak salçalı sosu gezdirin.",
+    "Üzerine et dönerleri yerleştirip tabağın kenarına süzme yoğurt koyun.",
+    "Tavada kızdırdığınız bol tereyağını kebabın üzerine dökün. Közlenmiş biber ve domatesle servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}
