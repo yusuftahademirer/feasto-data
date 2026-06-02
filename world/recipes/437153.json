@@ -1,0 +1,65 @@
+{
+  "id": "437153",
+  "name": "Aarti S Party Chai Tea",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 60,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cinnamon stick",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green cardamom pods",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whole cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Star anise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black tea leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whole milk",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan , bring the water , all of the spices and the ginger to a boil over medium heat",
+    "Turn off the heat and allow it to steep for 15 minutes",
+    "Bring the mixture back to a boil , then add the tea",
+    "Turn the heat off , and allow it to steep for 3 to 5 minutes depending on how strong you like your tea",
+    "Stir in the honey and add milk to your liking",
+    "Strain it into a bowl or pitcher and serve !",
+    "Enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/437153",
+  "youtubeURL": null
+}

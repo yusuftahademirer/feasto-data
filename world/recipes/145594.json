@@ -1,0 +1,51 @@
+{
+  "id": "145594",
+  "name": "Anko Manju",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Cake flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baking powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sweet bean paste",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Form 1-2 tablespoons of bean paste into balls",
+    "Mix together water , sugar , and baking powder",
+    "Sift and slowly stir flour into the mixture",
+    "Knead the dough on a floured board until it",
+    "Has the consistency and softness of an earlobe",
+    "Divide the dough into 12 pieces",
+    "Wrap the dough completely around each ball and place in a cloth lined steamer",
+    "Lightly spray water over the manju for a smoother finish",
+    "Steam over high heat for about 10 minutes"
+  ],
+  "sourceURL": "https://www.food.com/recipe/145594",
+  "youtubeURL": null
+}

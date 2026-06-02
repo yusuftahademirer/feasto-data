@@ -1,0 +1,81 @@
+{
+  "id": "413846",
+  "name": "Chunky Mediterranean Pasta Soup",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chorizo sausage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chopped tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Herbs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pasta",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spinach",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parmesan cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pesto sauce",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan , add the chorizo , and cook for 2 minutes",
+    "Add the chopped onion and garlic and season with salt and pepper",
+    "Cook gently over a low heat for 7-8 minutes , until soft",
+    "Add the tomatoes , broth and herbs , check the seasoning again and if necessary season with salt , pepper and a good pinch of sugar",
+    "Simmer with the lid on for a further 10 minutes or until soft",
+    "Add the uncooked pasta and continue to simmer for another 6-10 minutes stirring regularly or until the pasta is cooked",
+    "When you are ready to serve , add the spinach and boil for 1 minute or until the spinach is wilted",
+    "Taste and if necessary add seasoning",
+    "To serve: ladle the hot chunky soup into 6 warm bowls and sprinkle with some finely grated parmesan and a drizzle of pesto"
+  ],
+  "sourceURL": "https://www.food.com/recipe/413846",
+  "youtubeURL": null
+}

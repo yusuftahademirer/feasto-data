@@ -1,0 +1,77 @@
+{
+  "id": "473296",
+  "name": "Bahn Mi",
+  "category": "vietnamese",
+  "area": "Vietnamese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "White vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Daikon radish",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sandwich buns",
+      "measure": "As needed"
+    },
+    {
+      "name": "Roast pork",
+      "measure": "As needed"
+    },
+    {
+      "name": "Jalapeno",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cilantro",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mayonnaise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Bring the water , vinegar and sugar to a boil",
+    "Let liquid cool",
+    "Season shredded veggies with salt , mix , veggies in the liquid and let sit at",
+    "Room temp for 30 minutes",
+    "Make the sandwiches while the veggies soak",
+    "Preheat oven to 400 degrees f",
+    "Slice the baguettes open lengthwise , and slather the insides with mayonnaise",
+    "Arrange the baguettes on a baking sheet and bake until hot and crusty",
+    "While the bread is cooking , put the pork slices on a baking sheet and warm them in the oven with the bread",
+    "Put the sliced pork on the bread",
+    "Top with the slaw , sliced jalapeno and many sprigs of the cilantro"
+  ],
+  "sourceURL": "https://www.food.com/recipe/473296",
+  "youtubeURL": null
+}

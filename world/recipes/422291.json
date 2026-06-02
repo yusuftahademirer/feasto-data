@@ -1,0 +1,84 @@
+{
+  "id": "422291",
+  "name": "Leftover Roast  Mexican Casserole",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 120,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Cooked beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes and green chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Corn tortillas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheddar cheese",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Shred cooked meat and remove any bones or fat",
+    "Heat oil in a large skillet",
+    "Add onion and pepper and saute until tender",
+    "Add all ingredients except corn tortillas and cheese",
+    "Stir together",
+    "Bring to a boil",
+    "Reduce heat to medium or medium-low and boil for one hour , allowing most of the liquid to cook off",
+    "Watch and reduce heat if necessary",
+    "Preheat oven to 350",
+    "Spray a 9x13 pan with non-stick spray",
+    "Place 3 corn tortillas in the bottom of the pan , tearing to fit",
+    "Spoon 1 / 3 of the meat mixture over the tortillas",
+    "Spread to cover",
+    "Sprinkle with 1 / 3 of the cheese",
+    "Repeat steps 7-9 two times",
+    "Bake at 350 for 30 minutes",
+    "Can also be refrigerated in the morning and baked later that day",
+    "I haven't tried to freeze it yet"
+  ],
+  "sourceURL": "https://www.food.com/recipe/422291",
+  "youtubeURL": null
+}

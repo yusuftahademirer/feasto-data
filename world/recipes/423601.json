@@ -1,0 +1,42 @@
+{
+  "id": "423601",
+  "name": "Cinnamon Tea  Korea",
+  "category": "korean",
+  "area": "Korean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1632245889027-e406faaa19ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 27,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Cinnamon sticks",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Granulated sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pine nuts",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a saucepan , combine cinnamon , water & sugar",
+    "Bring to a boil , then turn heat to low & simmer for 20 minutes , before setting aside to cool",
+    "After tea has cooled , chill it in the refrigerator",
+    "To serve , remove cinnamon sticks & pour the cold tea into cups or glasses , then garnish with pine nuts"
+  ],
+  "sourceURL": "https://www.food.com/recipe/423601",
+  "youtubeURL": null
+}

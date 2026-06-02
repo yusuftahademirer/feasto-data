@@ -1,0 +1,65 @@
+{
+  "id": "380641",
+  "name": "Asian Peanut Vinaigrette",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1559314809-0d155014e29e?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Seasoned rice vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fish sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dark sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Creamy peanut butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Granulated garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red pepper flakes",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine the wet and dry ingredients in a mixing bowl",
+    "Wisk together until thoroughly mixed",
+    "Use immedately or refrigerate for up to 7 days"
+  ],
+  "sourceURL": "https://www.food.com/recipe/380641",
+  "youtubeURL": null
+}

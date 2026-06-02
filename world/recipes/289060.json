@@ -1,0 +1,64 @@
+{
+  "id": "289060",
+  "name": "Anchovy Stuffed Mushrooms",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Bread",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Button mushroom",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bacon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Anchovy fillets",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry breadcrumbs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees",
+    "Oil a large baking sheet",
+    "Soak bread in milk in a small bowl",
+    "Remove mushroom stems and chop finely",
+    "Put stems into a bowl with the bacon , anchovies , garlic , egg , salt and pepper",
+    "Squeeze soaked bread to remove excess milk",
+    "Add to bacon mixture and mix well",
+    "Divide bread mixture among mushrooms , piling mixture into small mounds",
+    "Sprinkle with breadcrumbs",
+    "Bake 20-30 minutes , until top of stuffing is crisp"
+  ],
+  "sourceURL": "https://www.food.com/recipe/289060",
+  "youtubeURL": null
+}

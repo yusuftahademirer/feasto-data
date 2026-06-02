@@ -1,0 +1,78 @@
+{
+  "id": "305392",
+  "name": "Ancient Bean Soup    Fasolada",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 190,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "White beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Beef broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bay leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Soak the beans in water over night",
+    "Then boil them with a bay leaf , in water just to cover for 5 minutes",
+    "Take the pot off the heat and cover for 1 hour",
+    "Pour the beans and bay leaf into the beef broth and slowly boil for 2 hours",
+    "Saute the onion in the lard and then add the parsley , the coriander , the salt and pepper",
+    "Add this to the beans",
+    "Add the honey and allow to boil slowly for a few more minutes",
+    "Before serving , add the garlic cloves that have been passed through a garlic press and mixed with the oil"
+  ],
+  "sourceURL": "https://www.food.com/recipe/305392",
+  "youtubeURL": null
+}

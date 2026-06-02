@@ -1,0 +1,75 @@
+{
+  "id": "187267",
+  "name": "Beef Egg Rolls",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Peanut oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cabbage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg roll wraps",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Saute garlic and ginger in oil til brown",
+    "Add onion and cabbage",
+    "Saute until the cabbage is wilted",
+    "Add mixture to the raw meat , carrots , soy sauce , pepper , and 2 eggs",
+    "Mix",
+    "Make an egg wash with the remaining egg",
+    "Brush the edges of the egg roll wrapper",
+    "Put 2t of the filling in the wrapper",
+    "Roll up and fry at 375 degrees til brown"
+  ],
+  "sourceURL": "https://www.food.com/recipe/187267",
+  "youtubeURL": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "79046",
+  "name": "15 Minute Chili And Rice Wraps",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 7,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "cuisine",
+    "preparation",
+    "north-american"
+  ],
+  "ingredients": [
+    {
+      "name": "Chili with beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "White minute rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour tortillas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sour cream",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Bring chili and water to boil in medium saucepan",
+    "Stir in rice",
+    "Cover",
+    "Cook over low heat for 5 minutes",
+    "Spoon approx 1 / 2 cup chili mixture onto each tortilla",
+    "Top with cheese and sour cream , and fold up"
+  ],
+  "sourceURL": "https://www.food.com/recipe/79046",
+  "youtubeURL": null
+}

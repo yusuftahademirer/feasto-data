@@ -1,0 +1,51 @@
+{
+  "id": "325509",
+  "name": "Berry French Toast  Oatmeal",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 12,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "preparation",
+    "for-1-or-2"
+  ],
+  "ingredients": [
+    {
+      "name": "Old fashioned oats",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Berries",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground flax seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar-free syrup",
+      "measure": "As needed"
+    },
+    {
+      "name": "I can't believe it's not butter spread",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Add 1 / 2 cup old-fashioned oats and 1 cup water into a large microwaveable bowl",
+    "Cook in microwave on 50% power for 6 minutes",
+    "Place frozen berries in small bowl and defrost in microwave until the juice from the berries is released",
+    "Add defrosted berries , sugar free syrup , butter spray , and flax seed together and stir well",
+    "Enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/325509",
+  "youtubeURL": null
+}

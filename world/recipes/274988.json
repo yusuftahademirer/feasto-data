@@ -1,0 +1,57 @@
+{
+  "id": "274988",
+  "name": "Thicker Than Pea Soup  Pea Soup",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 140,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "preparation",
+    "occasion",
+    "healthy"
+  ],
+  "ingredients": [
+    {
+      "name": "Split peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turnips",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Throw all the ingredients into a large pot , bring to a boil , then simmer for about 2 hours , or until the peas have completely softened",
+    "Make sure you stir this frequently as it will have a tendency to stick to the pot",
+    "Add more water if gets too thick"
+  ],
+  "sourceURL": "https://www.food.com/recipe/274988",
+  "youtubeURL": null
+}

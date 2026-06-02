@@ -1,0 +1,63 @@
+{
+  "id": "120383",
+  "name": "5 Layer Mexican Dip",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 200,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Refried black beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sour cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ripe olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tortilla chips",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In small bowl , mix beans , chili powder , and cumin",
+    "Spread this on the bottom of a 9-inch pie plate",
+    "Layer remaining ingredients on top of bean mixture",
+    "Cover and refrigerate until well chilled",
+    "Serve with your favorite tortilla chips"
+  ],
+  "sourceURL": "https://www.food.com/recipe/120383",
+  "youtubeURL": null
+}

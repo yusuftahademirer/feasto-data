@@ -1,0 +1,80 @@
+{
+  "id": "423516",
+  "name": "Chicken  And Lime Soup  Vegan",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "lactose",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "White onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Serrano peppers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable stock",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegan chicken",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green chili sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lime juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cayenne pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cilantro",
+      "measure": "As needed"
+    },
+    {
+      "name": "Corn tortillas",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan , add the onion , garlic , and hot pepper , and cook for about 5 minutes , or until lightly browned",
+    "Stir in the stock , chickette , tomato , hot sauce , lime juice , pepper , and cayenne",
+    "Simmer until the \"chicken\" is cooked , about 5 to 7 minutes",
+    "Stir in the cilantro and adjust the seasonings as needed",
+    "While the soup is cooking , preheat the oven to 350f spread the tortilla strips on a baking sheet and bake for about 8 to 10 minutes or until lightly browned and crispy",
+    "Top the soup with the tortilla strips"
+  ],
+  "sourceURL": "https://www.food.com/recipe/423516",
+  "youtubeURL": null
+}

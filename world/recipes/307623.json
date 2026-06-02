@@ -1,0 +1,57 @@
+{
+  "id": "307623",
+  "name": "Arakas Me Anitho  Greek Dilled Peas With Peppers",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Frozen peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh dill",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spring onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pimiento",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a large saucepan , cover , and bring to a boil over high heat",
+    "Reduce heat to low and cook for 30 minutes",
+    "Serve hot or warm"
+  ],
+  "sourceURL": "https://www.food.com/recipe/307623",
+  "youtubeURL": null
+}

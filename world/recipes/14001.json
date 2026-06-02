@@ -1,0 +1,82 @@
+{
+  "id": "14001",
+  "name": "Aash E Aab Leemoo",
+  "category": "middle-east",
+  "area": "Middle Eastern",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 55,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Herbs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground lamb",
+      "measure": "As needed"
+    },
+    {
+      "name": "Split peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh lime juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Marjoram",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mint",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooking oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Peel and slice two onions and fry in oil until slightly golden",
+    "Add 4-5 glasses of hot water , split-peas , salt and pepper and cook over low heat for about 10 minutes",
+    "Wash rice and add to the aash",
+    "Cook for another 15-20 minutes",
+    "Peel and grate two onions",
+    "Add to meat with salt and pepper and mix well",
+    "Shape into small balls and add to the aash",
+    "Wash herbs , chop finely , add to the aash , and cook for another 15-20 minutes",
+    "Add in lime juice , sugar , and marjoram",
+    "Mix well and cook for a few more minutes",
+    "Fry mint in oil for a few minutes",
+    "Add mint on top of the aash and serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/14001",
+  "youtubeURL": null
+}

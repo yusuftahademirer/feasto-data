@@ -1,0 +1,62 @@
+{
+  "id": "191043",
+  "name": "Asian Chopped Salad",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oriental style baked tofu",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Edamame",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot green wasabi peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Roasted soybeans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Asian-style dressing",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Squeeze diced cucumber to remove excess moisture",
+    "In separate bowl , combine tofu , red pepper , edamame , peas and soy nuts",
+    "Add cucumber , and sprinkle salad with ginger and sesame seeds",
+    "Toss with desired amount of your favorite oriental style salad dressing"
+  ],
+  "sourceURL": "https://www.food.com/recipe/191043",
+  "youtubeURL": null
+}

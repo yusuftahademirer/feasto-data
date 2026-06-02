@@ -1,0 +1,64 @@
+{
+  "id": "257409",
+  "name": "The Mooch     Zucchini Sandwich",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mayonnaise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parmesan cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whole wheat bread",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ghee",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Working in batches , pan fry the garlic and zucchini until lightly browned , turning once to brown both sides",
+    "While sauting the above , toast the bread",
+    "On each slice of bread spread layer of mayonnaise , salt and pepper to taste , and coat with layer of parmesan cheese",
+    "On one half of sandwich put sauted zucchini",
+    "On one half put fresh tomato slices",
+    "Put halves together and you have a marriage of flavor made in heaven"
+  ],
+  "sourceURL": "https://www.food.com/recipe/257409",
+  "youtubeURL": null
+}

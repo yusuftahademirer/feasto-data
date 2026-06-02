@@ -1,0 +1,42 @@
+{
+  "id": "166328",
+  "name": "Any Type  Nut Butter",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "preparation",
+    "occasion"
+  ],
+  "ingredients": [
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nuts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cream butter in a small bowl with an electric mixer",
+    "Transfer to blender or food processor",
+    "Add remaining ingredients and blend well",
+    "Place butter in plastic wrap and form into a log shape or place in a ramekin and cover tightly"
+  ],
+  "sourceURL": "https://www.food.com/recipe/166328",
+  "youtubeURL": null
+}

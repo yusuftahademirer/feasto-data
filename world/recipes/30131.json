@@ -1,0 +1,54 @@
+{
+  "id": "30131",
+  "name": "Momma S Special  Marinade",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Depending on how much meat i have i usually have to either double or triple this recipe the longer your meat marinates the better it tastes",
+    "This recipe was originally for salmon , but i think it can be used universally",
+    "I've also used this same recipe for steak and chicken",
+    "It is wonderful"
+  ],
+  "sourceURL": "https://www.food.com/recipe/30131",
+  "youtubeURL": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "82608",
+  "name": "Antipasti Di Tonno E Fagioli",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Tuna",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cannellini beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery rib",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whole grain mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried oregano",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Mix the vinegar , oil , oregano , mustard , , salt and pepper together in a bowl until combined and fairly viscous",
+    "If the dressing is too thick , thin it out with some of the reserved bean liquid",
+    "Mix the tuna , beans , red onion , celery and garlic into the dressing , breaking the tuna up",
+    "Refrigerate for at least an hour before serving , but serve at room temperature"
+  ],
+  "sourceURL": "https://www.food.com/recipe/82608",
+  "youtubeURL": null
+}

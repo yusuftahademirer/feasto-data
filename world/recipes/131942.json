@@ -1,0 +1,54 @@
+{
+  "id": "131942",
+  "name": "Frozen Mediterranean Delite",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 255,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Plain nonfat yogurt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pistachios",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pitted dates",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ouzo",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bittersweet chocolate",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Place the yogurt in a fine meshed strainer lined with cheesecloth and allow to drain for about two hours",
+    "Place half the pistachios and the sugar in a food processor or coffee grinder and grind to a powder",
+    "Roughly chop the remaining nuts",
+    "Combine the drained yogurt , nuts , dates and ouzo and mix well",
+    "Place in freezer",
+    "After one hour , remove from freezer and mix well",
+    "Return to freezer and freeze till firm",
+    "Divide into four portions and garnish with bittersweet chocolate shavings"
+  ],
+  "sourceURL": "https://www.food.com/recipe/131942",
+  "youtubeURL": null
+}

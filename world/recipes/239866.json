@@ -1,0 +1,72 @@
+{
+  "id": "239866",
+  "name": "Hindu  Spaghetti Casserole",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 65,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation",
+    "casseroles"
+  ],
+  "ingredients": [
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomato paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spaghetti",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Fry the chopped onion in one stick of butter until golden",
+    "Add the ground beef , the chopped garlic salt and pepper",
+    "Brown sufficiently and then add the tomato paste and the water",
+    "Cook for 20 minutes",
+    "Make a white sauce",
+    "Melt the stick of butter and add the flour",
+    "When it has cooked add milk to make a medium sauce",
+    "Cook the spaghetti according to package directions",
+    "In a buttered casserole put 1 / 2 of the pasta , top with a layer of meat sauce , add the other part of the pasta and top with the balance of the meat sauce",
+    "Top with the white sauce and bake at 350 for about 20 minutes or until bubbly"
+  ],
+  "sourceURL": "https://www.food.com/recipe/239866",
+  "youtubeURL": null
+}

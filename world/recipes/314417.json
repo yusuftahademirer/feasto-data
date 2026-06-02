@@ -1,0 +1,80 @@
+{
+  "id": "314417",
+  "name": "A Feel Good Meal",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Whole wheat pasta",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot red chili peppers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Zucchini",
+      "measure": "As needed"
+    },
+    {
+      "name": "Broccoli floret",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried oregano",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a large fry pan heat oil",
+    "Add veggies and stir fry for a couple minutes till desired tenderness",
+    "Add herbs and stir to combine",
+    "Add pasta and 1 / 2 cup pasta water",
+    "Adjust taste with salt and pepper if desired",
+    "If not watching your fat go ahead and drizzle olive oil over and or top with grated cheese"
+  ],
+  "sourceURL": "https://www.food.com/recipe/314417",
+  "youtubeURL": null
+}

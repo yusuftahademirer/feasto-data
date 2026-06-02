@@ -1,0 +1,76 @@
+{
+  "id": "169927",
+  "name": "Apple Raisin Salad",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Apple",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cabbage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mayonnaise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nuts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Orange juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Orange rind",
+      "measure": "As needed"
+    },
+    {
+      "name": "Paprika",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Seedless raisin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Soak raisins in hot water 10 minutes",
+    "Drain and chill",
+    "Mix cabbage , apples , raisins and nuts and chill",
+    "Mix mayonnaise , salt , sugar , lemon juice , orange juice , pepper and paprika thoroughly",
+    "Toss with chilled vegetables & fruits",
+    "Sprinkle with grated orange rind"
+  ],
+  "sourceURL": "https://www.food.com/recipe/169927",
+  "youtubeURL": null
+}

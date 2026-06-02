@@ -1,0 +1,75 @@
+{
+  "id": "240472",
+  "name": "Darn Good Bulgogi",
+  "category": "korean",
+  "area": "Korean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1553163147-622ab57b6874?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Brown sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sake",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red pepper flakes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame seeds",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Mix all of the above , then add the beef , which has been sliced thinly",
+    "Across the grain",
+    "Marinate for at least 30 minutes",
+    "Stir fry or grill the flesh of the pasture grazer until done",
+    "Eat"
+  ],
+  "sourceURL": "https://www.food.com/recipe/240472",
+  "youtubeURL": null
+}

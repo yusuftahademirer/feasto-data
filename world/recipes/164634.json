@@ -1,0 +1,66 @@
+{
+  "id": "164634",
+  "name": "Nat S King Cole  Coleslaw",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 80,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation",
+    "occasion"
+  ],
+  "ingredients": [
+    {
+      "name": "Rice vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Maple syrup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Gingerroot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green cabbage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red cabbage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Apple",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Whisk together vinegar , maple syrup , soy sauce , sesame oil , and gingerroot in a small bowl",
+    "In a large bowl , combine cabbage , onions , carrots and apple",
+    "Pour dressing over salad and mix well",
+    "Refrigerate for 1 hour before serving"
+  ],
+  "sourceURL": "https://www.food.com/recipe/164634",
+  "youtubeURL": null
+}

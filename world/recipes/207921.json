@@ -1,0 +1,67 @@
+{
+  "id": "207921",
+  "name": "Asian Mushroom Soup",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Dried shiitake mushrooms",
+      "measure": "As needed"
+    },
+    {
+      "name": "Star anise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tamari",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baby bok choy",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Gingerroot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mirin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spring onions",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cover shiitake in a bowl with 1 cup hot water",
+    "Let stand for 20 minutes",
+    "Add the soaking water to a saucepan with 6 cups water , 1 spring onion , ginger , star anise , mirin and tamari",
+    "Bring to the boil slowly and add the carrots and sliced shiitake",
+    "Cook gently for 10-15 minutes",
+    "Add bok choy and cook a further 2 minutes",
+    "Remove ginger and star anise",
+    "Place into serving bowls and add 1 tsp chopped coriander and 1 tsp chopped shallots",
+    "Serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/207921",
+  "youtubeURL": null
+}

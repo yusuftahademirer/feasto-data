@@ -1,0 +1,91 @@
+{
+  "id": "502389",
+  "name": "Baked Chicken Katsu",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Chicken cutlet",
+      "measure": "As needed"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ketchup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Paprika",
+      "measure": "As needed"
+    },
+    {
+      "name": "White pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Chicken:",
+    "Pound thin each chicken cutlet",
+    "Salt and pepper both sides",
+    "Place panko bread crumbs in a dry pan and toast until golden brown",
+    "Add only enough olive oil to bread crumbs so that they start to stick together",
+    "Prepare beaten eggs in one pan , and flour in another pan for dredging",
+    "Coat the chicken in flour , then the egg , then finally coat completely in toasted bread crumbs",
+    "Spray a grill pan or regular baking sheet with oil",
+    "Bake at 400 degrees for 25 minutes",
+    "Sauce:",
+    "Combine worcestershire sauce , ketchup , sugar , soy sauce , paprika , white pepper , and garlic powder in a pot and bring to boil for a few minutes , then let cool",
+    "If a thicker sauce is desired you can combine 1 / 4 cup of cold water with approximately 2 teaspoons of cornstarch and add it to the boiling pot",
+    "Serve the chicken with the katsu sauce and enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/502389",
+  "youtubeURL": null
+}

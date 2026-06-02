@@ -1,0 +1,66 @@
+{
+  "id": "243251",
+  "name": "From The Field  Green Beans  Fresh Herbs And Walnuts",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "lactose",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Kosher salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh green beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mixed herbs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Walnuts",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil",
+    "Add a pinch of salt and the beans",
+    "Cook for 5 minutes",
+    "Drain and set aside",
+    "While water is boiling , thinly slice both onions",
+    "Melt the butter and olive oil in a large skillet",
+    "Add onions and kosher salt and pepper",
+    "Allow the onions to caramelize for around 20-25 minutes",
+    "Add herbs and cook for an additional 5 minutes",
+    "Add green beans and walnuts",
+    "Mix well",
+    "Heat for an additional 2 minutes and serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/243251",
+  "youtubeURL": null
+}

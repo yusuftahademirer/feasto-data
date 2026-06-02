@@ -1,0 +1,54 @@
+{
+  "id": "209301",
+  "name": "5 Minute Crock Pot Burritos",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 31,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Pork sirloin roast",
+      "measure": "As needed"
+    },
+    {
+      "name": "Southwest seasoning",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chunky salsa",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour tortillas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheddar cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Rub southwest seasoning on both sides of pork and place in slow cooker",
+    "Pour 2 cups salsa over pork , cover and cook on low for 6 to 8 hours",
+    "Using two forks , shred pork",
+    "Meanwhile , wrap tortillas in aluminum foil and heat in a 350-degree oven for 20 minutes or until heated through",
+    "Spoon pork mixture onto center of each tortilla and top with additional salsa , cheese and cilantro",
+    "Broil 1 minute or until cheese is bubbly",
+    "Roll up like a burrito to eat",
+    "Serve with black beans and spanish rice"
+  ],
+  "sourceURL": "https://www.food.com/recipe/209301",
+  "youtubeURL": null
+}

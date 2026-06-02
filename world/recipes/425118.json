@@ -1,0 +1,55 @@
+{
+  "id": "425118",
+  "name": "Arakas   Greek Fresh Green Peas In Tomato Sauce",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 65,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Fresh peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh dill",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Rinse peas in cold water and drain",
+    "Sautee the onions in the olive oil",
+    "Add the tomatoes , peas , salt and the dill",
+    "Add the water and bring to a boil",
+    "Stir , cover and cook slowly for about 50 minutes"
+  ],
+  "sourceURL": "https://www.food.com/recipe/425118",
+  "youtubeURL": null
+}

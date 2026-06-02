@@ -1,0 +1,60 @@
+{
+  "id": "44045",
+  "name": "Mennonite  Corn Fritters",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Fresh corn",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baking powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fat",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine eggs , flour , baking powder , salt& pepper with the corn",
+    "Mix thoroughly",
+    "Add cream to mixture",
+    "Melt fat in frying pan& drop corn mixture by spoonfuls into the hot fat",
+    "Brown on both sides",
+    "Serve w / syrup"
+  ],
+  "sourceURL": "https://www.food.com/recipe/44045",
+  "youtubeURL": null
+}

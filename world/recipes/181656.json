@@ -1,0 +1,69 @@
+{
+  "id": "181656",
+  "name": "10 Minute Paella",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Small shrimp",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Minute rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cornstarch",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Diced tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepperoni",
+      "measure": "As needed"
+    },
+    {
+      "name": "Frozen green pea",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tabasco sauce",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Saute shrimp and garlic in oil until mostly cooked , about 2 minutes",
+    "Stir in cornstarch and cook 1 minute , stirring frequently",
+    "Add broth , tomatoes , peas , pepperoni and tobasco",
+    "Stir together",
+    "Add minute rice , stir and cover",
+    "Remove from heat and let stand 5 minutes",
+    "Fluff with fork and serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/181656",
+  "youtubeURL": null
+}

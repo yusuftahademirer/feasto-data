@@ -1,0 +1,71 @@
+{
+  "id": "20901",
+  "name": "30 Minute Chili",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Hamburger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Yellow onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cayenne pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pinto beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Crushed tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Beef broth",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Brown beef with onion and garlic in 5-quart dutch oven or large skillet over med high heat for 5 to 6 minutes",
+    "Add seasonings , and stir to combine , heat 1 minute",
+    "Stir in pinto beans , broth and tomatoes",
+    "Bring to boil , reduce heat and simmer for 15 minutes uncovered",
+    "Garnish with onion and cheddar cheese"
+  ],
+  "sourceURL": "https://www.food.com/recipe/20901",
+  "youtubeURL": null
+}

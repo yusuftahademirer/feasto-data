@@ -1,0 +1,63 @@
+{
+  "id": "440388",
+  "name": "Nachos  Casserole",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "weeknight",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Taco seasoning",
+      "measure": "As needed"
+    },
+    {
+      "name": "Refried beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tortilla chips",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat over to 350 degrees",
+    "Brown ground beef and drain",
+    "Add the two packets of taco seasoning to the beef",
+    "Fill each packet with water and add to the meat and seasoning mixture",
+    "Stir well",
+    "Let meat simmer about 15 minutes covered or until water has evaporated and mixture is not soupy",
+    "In casserole dish spread refried beans evenly on bottom of dish , fully covering",
+    "Sprinkle 1 cup of shredded cheese over refried beans",
+    "Next pour meat mixture over beans and cheese",
+    "Spread evenly",
+    "Cover with remaining cheese and top with green onions",
+    "Bake in oven about 15 minutes or until cheese is melted",
+    "Serve with tortilla chips and desired toppings"
+  ],
+  "sourceURL": "https://www.food.com/recipe/440388",
+  "youtubeURL": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "482653",
+  "name": "Almond Pudding",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 95,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Long grain rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cardamom",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Almonds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rose water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground nutmeg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Strawberries",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a heavy 3 quart saucepan , combine the milk or light cream , rice , and cardamom",
+    "Bring to boiling",
+    "Reduce heat",
+    "Cook , uncovered over low heat , stirring occasionally about 1 hour or until the milk mixture is reduced to about 2 cups",
+    "Remove from heat",
+    "Stir in the sugar and chopped almonds or pistachio nuts , continue stirring till the sugar has dissolved",
+    "Cool for 30 minutes",
+    "Stir pudding",
+    "Stir in the rose water , if desired",
+    "Spoon the mixture into 4 to 6 sherbet or dessert dishes",
+    "Chill in the refrigerator",
+    "To serve , sprinkle with ground nutmeg and garnish each serving with 2 whole strawberries"
+  ],
+  "sourceURL": "https://www.food.com/recipe/482653",
+  "youtubeURL": null
+}

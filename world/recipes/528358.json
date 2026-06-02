@@ -1,0 +1,105 @@
+{
+  "id": "528358",
+  "name": "Artichoke Pad Thai",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626804475315-9644b37a2f4b?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tamarind paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Peanut butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rice vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fish sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chinkiang vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Serrano pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Artichoke hearts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bean sprouts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg whites",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh cilantro",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lime",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cook rice noodles according to directions on package",
+    "Add oils to a medium sauce pan or skillet , then add garlic , ginger , and 3 chopped green onions and cook for 5 minutes , stirring frequently",
+    "Add rice noodles and blend thoroughly",
+    "Add all remaining ingredients except for egg whites and cilantro , and blend thoroughly",
+    "Heat for about 5 minutes while stirring",
+    "Blend egg whites in thoroughly and cook until opaque , about 2 minutes",
+    "Serve with lime wedge and cilantro"
+  ],
+  "sourceURL": "https://www.food.com/recipe/528358",
+  "youtubeURL": null
+}

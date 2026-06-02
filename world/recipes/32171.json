@@ -1,0 +1,49 @@
+{
+  "id": "32171",
+  "name": "Almond Cream With Fruit",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1508737027454-e6454ef45afd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 8,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "French vanilla instant pudding",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whipping cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Almond extract",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mixed fruit",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In lg bowl , combine pudding mix and milk",
+    "Beat on low for 2 minutes",
+    "In sm bowl , beat cream with extract until stiff",
+    "Fold into the pudding",
+    "Spoon into a 2 qt serving dish",
+    "Chill",
+    "Top with fruit before serving"
+  ],
+  "sourceURL": "https://www.food.com/recipe/32171",
+  "youtubeURL": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "54608",
+  "name": "Aligot",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lancashire cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Place garlic and butter in a pan on lowest heat possible for 30 mins",
+    "Meanwhile , boil the potatoes",
+    "With an electric hand whisk on slow , begin to break up the potatoes and add the butter and garlic , some pepper , and a handful of the cheese",
+    "Switch the speed to high , and add the cheese a handful at a time",
+    "Keep going and it will become loose and glossy eventually",
+    "Serve immediately"
+  ],
+  "sourceURL": "https://www.food.com/recipe/54608",
+  "youtubeURL": null
+}

@@ -1,0 +1,64 @@
+{
+  "id": "84233",
+  "name": "4 Cheese Mexican Tortilla Appetizers",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 18,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Flour tortillas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Refried beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Taco sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Four-cheese mexican blend cheese",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 f",
+    "Place tortillas on baking sheet",
+    "Bake for 3 to 4 minutes or until crisp",
+    "Spread refried beans evenly on tortillas",
+    "Spread 1 tablespoon taco sauce over beans",
+    "Top with bell peppers , green onions and crushed red pepper",
+    "Sprinkle with cheese",
+    "Bake for 7 to 8 minutes or until cheese is melted",
+    "Cut into wedges",
+    "A pizza cutter works great for this"
+  ],
+  "sourceURL": "https://www.food.com/recipe/84233",
+  "youtubeURL": null
+}

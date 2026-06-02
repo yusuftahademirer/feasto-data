@@ -1,0 +1,66 @@
+{
+  "id": "304187",
+  "name": "A Simple Greek  Salad",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cucumber",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Capers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Feta cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried oregano",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sea salt",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Slice the tomatoes , onion and cucumber",
+    "Combine",
+    "Sprinkle over the 1 tablespoon of oregano and pour over the olive oil",
+    "Add the capers",
+    "Toss the salad lightly",
+    "Just prior to serving sprinkle cubed feta cheese and olives over the top of the salad",
+    "Sprinkle with some extra dried oregano and sea salt if desired",
+    "You can drizzle over some extra olive oil if desired"
+  ],
+  "sourceURL": "https://www.food.com/recipe/304187",
+  "youtubeURL": null
+}

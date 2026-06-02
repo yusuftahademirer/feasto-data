@@ -1,0 +1,87 @@
+{
+  "id": "403162",
+  "name": "Beef Donburi California Style   Beef Rice Bowl",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 12,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mirin",
+      "measure": "As needed"
+    },
+    {
+      "name": "White wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sake",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooked rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pickled ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Shichimi togarashi",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cut beef into very thin bite size pieces",
+    "Cut onion into about 8 wedges",
+    "Heat vegetable oil in a frying pan and saute onion until transparent",
+    "Add beef and saute 2 minutes",
+    "Add sugar , soy sauce , mirin , white and red wine , sake , salt and water",
+    "When the liquid comes to a boil , reduce heat and cook while removing scum that floats up",
+    "Cook until the liquid is reduced by half",
+    "Put cooked rice into individual bowls and top with beef mixture along with sauce from the pan evenly",
+    "Top with pickled red ginger and shichimi togarashi or shichimi pepper"
+  ],
+  "sourceURL": "https://www.food.com/recipe/403162",
+  "youtubeURL": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": "66800",
+  "name": "35 Minute Teriyaki Meatballs",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Shallots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lean beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Snow peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cornflour",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Put a pan of water on to boil",
+    "In a bowl mix shallots with ginger , garlic , soy sauce and sugar",
+    "In another bowl , put minced beef and add half the soy mixture",
+    "Mix well to combine and shape into 20 meatballs",
+    "Add rice to the boiling water and put another pan of water on to boil",
+    "Prepare carrots and top and tail snow peas",
+    "Heat oil in a large frying pan and fry meatballs , turning them until they are browned and cooked through- about 10 minutes",
+    "Meanwhile , add carrot to the boiling water and cook for 5 minutes , then add snow peas and cook for a further 3 minutes",
+    "Mix water and corn flour into the remaining soy mixture and add to the meatballs , stirring constantly until sauce thickens and bubbles",
+    "Boil for a minute or so , then serve meatballs and sauce with drained rice and vegetables"
+  ],
+  "sourceURL": "https://www.food.com/recipe/66800",
+  "youtubeURL": null
+}

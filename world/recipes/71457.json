@@ -1,0 +1,65 @@
+{
+  "id": "71457",
+  "name": "Rise And Shine  German Fruit Pancake",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Powdered sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Apple pie filling",
+      "measure": "As needed"
+    },
+    {
+      "name": "Toasted almonds",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 450 degrees",
+    "With an electric mixer or wire whisk , beat eggs until frothy",
+    "Whisk in flour",
+    "Stir in milk and salt",
+    "Melt butter in a 10-inch oven-proof skillet",
+    "Pour mixture into hot skillet and place in preheated oven",
+    "Bake 15 minutes or until pancake is puffed and golden",
+    "The center will be shaped like a bowl",
+    "Remove from oven",
+    "Fill with fruit , dust with powdered sugar and sprinkle with almonds",
+    "Serve immediately"
+  ],
+  "sourceURL": "https://www.food.com/recipe/71457",
+  "youtubeURL": null
+}

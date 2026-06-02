@@ -1,0 +1,78 @@
+{
+  "id": "432965",
+  "name": "Very  Simple Fried Rice",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "White rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Corn kernel",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Whip eggs until they are frothy",
+    "Scramble , then set aside",
+    "Steam carrots until slightly soft",
+    "If using frozen peas & corn , run under hot water to thaw",
+    "Break up any clumps in the rice",
+    "Over medium-high heat , heat oil in a large pan or wok",
+    "Add rice and stir for about 1 minute , until heated through",
+    "Reduce heat to medium",
+    "Add soy sauce , garlic , salt & pepper",
+    "Stir-fry for 1 minute",
+    "Add onions , peas , corn , carrots and eggs",
+    "Stir-fry for 1 minute , until heated through"
+  ],
+  "sourceURL": "https://www.food.com/recipe/432965",
+  "youtubeURL": null
+}

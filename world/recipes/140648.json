@@ -1,0 +1,65 @@
+{
+  "id": "140648",
+  "name": "Baked Mediterranean Salmon",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Diced tomato",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kalamata olive",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Capers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salmon fillet",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine first 8 ingredients",
+    "Spread mixture over salmon",
+    "Bake at 350 for 30 minutes"
+  ],
+  "sourceURL": "https://www.food.com/recipe/140648",
+  "youtubeURL": null
+}

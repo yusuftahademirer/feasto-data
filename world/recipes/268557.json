@@ -1,0 +1,99 @@
+{
+  "id": "268557",
+  "name": "Achari Chicken",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "curries",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Skinless chicken breasts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Plain yogurt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mango powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flaked sea salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mustard oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fenugreek seeds",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok and gently saute onion until tender",
+    "Turn down the heat , add garlic and ginger and briefly saute , continually stirring",
+    "Add turmeric , chilli powder , ground cumin , coriander and pepper",
+    "Cook to toast",
+    "Then toss in tomato and briefly cook",
+    "Add chicken and cook",
+    "When chicken is almost ready , stir in yoghurt and briefly cook",
+    "Then add green chillies , mango powder , salt , mustard oil and fenugreek",
+    "Serve with steamed rice and your favourite indian bread on the side"
+  ],
+  "sourceURL": "https://www.food.com/recipe/268557",
+  "youtubeURL": null
+}

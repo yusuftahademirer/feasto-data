@@ -1,0 +1,72 @@
+{
+  "id": "251870",
+  "name": "Apple Rum Baklava",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation",
+    "pies-and-tarts"
+  ],
+  "ingredients": [
+    {
+      "name": "Apples",
+      "measure": "As needed"
+    },
+    {
+      "name": "Walnuts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Granulated sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Raisins",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rum",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cinnamon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Phyllo dough",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine first 6 ingredients in large bowl",
+    "Mix well",
+    "Trim 8 sheets phyllo dough to fit 10 x 15-inch baking pan",
+    "Keep unused phyllo covered with damp cloth",
+    "Arrange in baking pan , brushing each sheet generously with melted butter",
+    "Spread half the apple mixture over phyllo dough",
+    "Arrange 6 trimmed buttered sheets of phyllo dough over apple mixture",
+    "Spread with remaining apple mixture",
+    "Top with 8 buttered sheets phyllo dough",
+    "Tuck in the buttered phyllo neatly around",
+    "Cut into squares or diamond using a sharp knife",
+    "Bake at 350f for 40 minutes or until golden brown",
+    "Heat honey in small saucepan",
+    "Drizzle over hot baklava"
+  ],
+  "sourceURL": "https://www.food.com/recipe/251870",
+  "youtubeURL": null
+}

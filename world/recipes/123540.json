@@ -1,0 +1,67 @@
+{
+  "id": "123540",
+  "name": "Backyard Mediterranean Burgers",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Egg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Paprika",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cayenne",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground coriander",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Lightly oil grill",
+    "Heat barbecue to medium",
+    "Whisk egg in a large bowl",
+    "Crumble in beef",
+    "Sprinkle with onion , basil , cumin , paprika , cayenne , salt and ground coriander",
+    "Using your hands or a large wooden spoon , mix just until all ingredients are evenly distributed",
+    "Shape into 4 burgers about 3 / 4 inch thick",
+    "Grill with lid closed until firm when pressed and well done , 5 to 8 minutes per side",
+    "Serve in warm pitas topped with honey-mustard mayonnaise , cucumber , tomato and watercress or spinach"
+  ],
+  "sourceURL": "https://www.food.com/recipe/123540",
+  "youtubeURL": null
+}

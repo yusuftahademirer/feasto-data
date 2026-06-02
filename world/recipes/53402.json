@@ -1,0 +1,95 @@
+{
+  "id": "53402",
+  "name": "Killer  Lasagna",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 90,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Italian sausage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whole tomato",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomato paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ricotta cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cottage cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parmesan cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parsley flakes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lasagna noodle",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Brown the sausage and ground meat and drain all the fat",
+    "Add all the other ingredients for the meat filling and simmer on the stove , uncovered , for about 1 / 2 hour",
+    "I usually add a bay leaf or two",
+    "Mix up the cheese filling and set aside in fridge until ready to use",
+    "Put the noodles in salted water and cook until soft when poked with a fork",
+    "When the noodles are done , drain the noodles and rinse off with cold water so they can be handled easily",
+    "Spray the baking pan with a non-stick spray and put a layer of noodles down on the bottom of the pan",
+    "It is ok to cut some of the noodles to fit into the pan if they do not fit whole",
+    "Spread half the cheese filling over the noodels , then half of the mozarella cheese on top of that , then half of the meat sauce over the grated mozarella cheese",
+    "Repeat layers and then top with more mozarella cheese",
+    "Bake at 375 degrees for 30 minutes",
+    "Let stand for 10 minutes before cutting into it",
+    "Leftovers can be easily stored in the freezer"
+  ],
+  "sourceURL": "https://www.food.com/recipe/53402",
+  "youtubeURL": null
+}

@@ -1,0 +1,74 @@
+{
+  "id": "129919",
+  "name": "Wolf Creek Inn  Macaroni   Cheese",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 80,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Elbow macaroni",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "White pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tabasco sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheddar cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry breadcrumbs",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cook macaroni in boiling water , per pkg",
+    "Directions) drain & set aside",
+    "Melt butter in large skillet , add the flour a little at a time & cook over med",
+    "Low heat for about 2 minutes stirring constantly",
+    "Stir in the milk a little at a time & cook till it gets bubbly & smooth & slightly thick",
+    "Stir in the salt , pepper & mustard",
+    "Remove from the heat & add the tabasco sauce & cheese",
+    "Stir till smooth",
+    "Mix very well with the macaroni",
+    "Transfer to a 9x13 litely buttered casserole dish , top with the bread crumbs",
+    "Bake @ 350 deg",
+    "30-40 mins or till bubbly"
+  ],
+  "sourceURL": "https://www.food.com/recipe/129919",
+  "youtubeURL": null
+}

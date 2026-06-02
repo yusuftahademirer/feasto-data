@@ -1,0 +1,55 @@
+{
+  "id": "98357",
+  "name": "Free Toe  Pie",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Corn chips",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili with beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheddar cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sour cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salsa",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Start with loaf or casserole dish",
+    "Layer the ingredients as listed",
+    "Build 3 or 4 layers , depending upon the pan size",
+    "Finish with even more cheese on top",
+    "You can add hot sauce or other spices between the layers but do not add salt , as the corn chips have plenty !",
+    "Cover and bake for 15 to 20 minutes at 350f",
+    "Uncover and bake 5 minutes more to brown cheese on top",
+    "Serve promptly with sour cream and salsa on top",
+    "Can be made up to 24 hours ahead and stored the the fridge"
+  ],
+  "sourceURL": "https://www.food.com/recipe/98357",
+  "youtubeURL": null
+}

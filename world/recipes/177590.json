@@ -1,0 +1,64 @@
+{
+  "id": "177590",
+  "name": "Almond French Toast",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Half-and-half",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vanilla",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sliced almonds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Challah",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Put oven rack in middle position and preheat to 275f",
+    "Whisk together eggs , half and half , sugar , vanilla and salt in a large shallow dish until well combined",
+    "Spread almonds on a large plate",
+    "Soak 4 slices of bread in the egg mixture , turning over once , until saturated",
+    "Working with 1 slice at a time , remove the bread , letting the excess egg mixture drip off , then dredge in almonds to coat both sides , gently pressing to help adhere",
+    "Transfer to a plate or wax paper",
+    "Repeat procedure with remaining 4 slices",
+    "Heat 1 1 / 2 tbs butter in a 12-inch heavy skillet over medium heat until foam subsides , then cook 4 bread slices , turning over once , until almonds and bread are golden brown , 5-6 minute",
+    "Add the remaining 1 1 / 2 tbs butter and cook the remaining 4 slices in the same manner",
+    "Transfer the cooked french toast to a baking sheet and keep warm in the oven while cooking the last 4 pieces"
+  ],
+  "sourceURL": "https://www.food.com/recipe/177590",
+  "youtubeURL": null
+}

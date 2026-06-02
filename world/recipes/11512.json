@@ -1,0 +1,73 @@
+{
+  "id": "11512",
+  "name": "Aloo Curry  Potato Curry",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585938338392-50a59970d8ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Blend all the ingredients of puree to a smooth paste and keep aside",
+    "Heat oil in a non stick heavy base skillet and when medium hot put cloves",
+    "Now add all the spices and wait for 10 seconds",
+    "Add the puree and saute for 2-3 minutes till the raw smell is gone and oil appears on the sides of the skillet",
+    "Add 2 cups of water and the potatoes",
+    "Let it simmer for 15 minutes",
+    "Serve warm with rice , indian roti , paratha etc"
+  ],
+  "sourceURL": "https://www.food.com/recipe/11512",
+  "youtubeURL": null
+}

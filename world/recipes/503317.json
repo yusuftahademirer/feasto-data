@@ -1,0 +1,48 @@
+{
+  "id": "503317",
+  "name": "Bananas In Coconut Cream",
+  "category": "vietnamese",
+  "area": "Vietnamese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1503764728506-12411c7d7853?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bananas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ice cream",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut milk in a small saucepan and add the sugar and salt",
+    "Bring to a boil",
+    "Lower the heat and simmer for 2 minutes",
+    "Remove from the heat and stir in the banana slices",
+    "Bring back to a boil for a few seconds to coat the bananas",
+    "Serve with ice cream or whipped cream"
+  ],
+  "sourceURL": "https://www.food.com/recipe/503317",
+  "youtubeURL": null
+}

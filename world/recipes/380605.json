@@ -1,0 +1,118 @@
+{
+  "id": "380605",
+  "name": "Asian Slaw With Spicy Thai Vinaigrette",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1559314809-0d155014e29e?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Green cabbage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red cabbage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Napa cabbage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kosher salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ground black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rice wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh lime juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili-garlic sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Toasted sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Peanut oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Whisk all ingredients except oils in a large bowl",
+    "Slowly drizzle in oils while whisking",
+    "Taste and adjust seasoning with more salt and lime juice if needed",
+    "Combine the vegetables in a large bowl , season with salt and pepper",
+    "Toss to mix thoroughly",
+    "Pour in the thai vinaigrette to taste and toss to mix",
+    "Adjust , adding more if desired",
+    "Enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/380605",
+  "youtubeURL": null
+}

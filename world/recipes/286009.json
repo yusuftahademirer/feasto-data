@@ -1,0 +1,57 @@
+{
+  "id": "286009",
+  "name": "Millionaire Pound Cake",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 120,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation",
+    "occasion"
+  ],
+  "ingredients": [
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "All-purpose flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whole milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pure vanilla extract",
+      "measure": "As needed"
+    },
+    {
+      "name": "Almond extract",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Freheat the oven to 300 degrees",
+    "Grease a 10-inch tube pan with butter , dust the bottom and sides with flour , and set aside",
+    "In a large mixing bowl , cream the butter and sugar with an electric mixer and add the eggs one at a time , beating after each addition",
+    "Alternately add the flour and milk , stirring till the batter is smooth",
+    "Add the two extracts and stir till well blended",
+    "Scrape the batter into the prepared pan and bake till a cake tester or knife blade inserted in the center comes out clean , about 1 1 / 2 hours",
+    "Cool the cake in the pan on a rack for 5 minutes , then turn it out on the rack to cool completely"
+  ],
+  "sourceURL": "https://www.food.com/recipe/286009",
+  "youtubeURL": null
+}

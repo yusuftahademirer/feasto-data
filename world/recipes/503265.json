@@ -1,0 +1,66 @@
+{
+  "id": "503265",
+  "name": "Ajar  Thai Salad",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1559314809-0d155014e29e?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 190,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Rice vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cucumber",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chili pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mixed greens",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl , stir vinegar , sugar , salt , and pepper until sugar and salt are dissolved",
+    "Quarter cucumber lengthwise",
+    "Remove seeds",
+    "Cut quarters crossswise into 1 / 8 thick slices",
+    "Add cucumber , onion , cilantro and chili pepper to vinegar dressing",
+    "Toss until combined",
+    "Cover and marinate in the refrigerator for 3 hours , stirring occasionally",
+    "Serve on bed of greens"
+  ],
+  "sourceURL": "https://www.food.com/recipe/503265",
+  "youtubeURL": null
+}

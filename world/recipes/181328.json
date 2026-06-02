@@ -1,0 +1,72 @@
+{
+  "id": "181328",
+  "name": "Artichoke Hearts  La Grcque",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "White wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomato puree",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh thyme",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Caster sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Button mushrooms",
+      "measure": "As needed"
+    },
+    {
+      "name": "Artichoke hearts",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Make the dressing by combining 2 tablespoons of the olive oil with the vinegar , tomato pure , thyme , salt and pepper and whisking well",
+    "Blanch the onions in boiling water for 5 minutes and drain well",
+    "Heat 3 tablespoons of olive oil , add the blanched onions and sugar and cook for several minutes",
+    "Add the mushrooms and toss over a high heat for 30 seconds- to one minute",
+    "Add the mushroom mixture to the dressing , then add the artichoke hearts and mix well",
+    "Cover and chill before serving"
+  ],
+  "sourceURL": "https://www.food.com/recipe/181328",
+  "youtubeURL": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "38392",
+  "name": "Black Rice   Xoi Nep Than",
+  "category": "vietnamese",
+  "area": "Vietnamese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 280,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Black rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coconut",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Peanuts",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Soak rice in enough water to cover for at least 4 hours , then drain",
+    "Place rice and the 2 cups water in a non-stick saucepan over medium heat",
+    "Bring to a boil",
+    "Reduce heat and simmer until all water is absorbed , about 40 minutes",
+    "Alternatively , place rice in a rice steamer over boiling water and cook for 40 minutes or until tender",
+    "Fluff rice before serving",
+    "Garnish with coconut , sesame seeds , and / or peanuts , if desired"
+  ],
+  "sourceURL": "https://www.food.com/recipe/38392",
+  "youtubeURL": null
+}

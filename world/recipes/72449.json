@@ -1,0 +1,86 @@
+{
+  "id": "72449",
+  "name": "Gimme A Cheap Weeknight Dinner  Quick",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cream of potato soup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Frozen peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Frozen corn",
+      "measure": "As needed"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg noodles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Warm water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parmesan cheese",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Brown ground beef , along with garlic , celery and green onions",
+    "Add cream of potato soup and milk and bring just to a boil",
+    "Lower heat to a simmer and add worcestershire sauce , pepper and onion powder",
+    "In a pot of boiling water , cook egg noodles halfway",
+    "About 5-6 minutes",
+    "Drain noodles and add to skillet with ground beef mixture",
+    "Add peas , corn , cheese and water and stir well",
+    "Allow to simmer for 15 minutes , stirring occasionally"
+  ],
+  "sourceURL": "https://www.food.com/recipe/72449",
+  "youtubeURL": null
+}

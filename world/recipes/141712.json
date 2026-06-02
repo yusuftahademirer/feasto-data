@@ -1,0 +1,79 @@
+{
+  "id": "141712",
+  "name": "Twisted  Chicken Salad",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 150,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation",
+    "occasion"
+  ],
+  "ingredients": [
+    {
+      "name": "Corkscrew macaroni",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooked chicken",
+      "measure": "As needed"
+    },
+    {
+      "name": "Italian dressing",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hellmann's mayonnaise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Prepared mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cucumber",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion salt",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cook corkscrew macaroni",
+    "Mix cooked chicken and italian dressing with hot macaroni",
+    "Cool",
+    "Blend mayonnaise , lemon juice and mustard",
+    "Stir in onions , cucumbers , celery and pepper",
+    "Add to macaroni mixture",
+    "Salt to taste",
+    "Chill 2 or more hours to blend flavors",
+    "Even better the second day"
+  ],
+  "sourceURL": "https://www.food.com/recipe/141712",
+  "youtubeURL": null
+}

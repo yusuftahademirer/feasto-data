@@ -1,0 +1,75 @@
+{
+  "id": "330676",
+  "name": "Dwen Jang Gook",
+  "category": "korean",
+  "area": "Korean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1553163147-622ab57b6874?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Bean paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Korean red pepper paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Shiitake mushroom",
+      "measure": "As needed"
+    },
+    {
+      "name": "Zucchini",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Jalapenos",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Firm tofu",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Slice up all the veggies and cube tofu to similar sizes to ensure even cooking",
+    "Add all ingredients to pot and cover on high heat",
+    "Bring to a boil and reduce heat to a simmer",
+    "Let cook for 15-20 minutes",
+    "Add salt and pepper to taste"
+  ],
+  "sourceURL": "https://www.food.com/recipe/330676",
+  "youtubeURL": null
+}

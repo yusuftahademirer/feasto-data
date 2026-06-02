@@ -1,0 +1,62 @@
+{
+  "id": "292798",
+  "name": "Almond Hummus",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Almond butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon zest",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red pepper flakes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In food processor , pure all ingredients except water until smooth",
+    "Add water , a little at a time , and process until until you reach the desired consistency and the mixture is blended",
+    "Refrigerate , covered",
+    "Enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/292798",
+  "youtubeURL": null
+}

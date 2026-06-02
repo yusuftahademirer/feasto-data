@@ -1,0 +1,41 @@
+{
+  "id": "15211",
+  "name": "Potatoes  Pommes Anna",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1508737027454-e6454ef45afd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 55,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat oven to 375 degrees",
+    "Peel the potatoes and slice them thinly",
+    "Thickly butter a deep charlotte mould and line the sides with potato slices placed closely to gether and attached firmly to the butter",
+    "Cover the bottom also and sprinkle lightly with salt , freshly ground pepper and flecks of butter , cover with another layer of potatoes , seasoning and butter and so on until the tin is three-quarters full",
+    "Cover with buttered paper and cook for 45 minutes or until tender when pierced with a sharply pointed knife",
+    "To serve , pass the blade of a knife around the inside of the tin , hold a heated plate over it and invert , giving a sharp tap as the plate is set down to turn out the contents",
+    "The inside should be soft and the outside crust crisp and golden brown"
+  ],
+  "sourceURL": "https://www.food.com/recipe/15211",
+  "youtubeURL": null
+}

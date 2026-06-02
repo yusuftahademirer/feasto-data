@@ -1,0 +1,68 @@
+{
+  "id": "134911",
+  "name": "Alsace Onion Flan",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1508737027454-e6454ef45afd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 80,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Shortcrust pastry",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Unsalted butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bay leaf",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nutmeg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Double cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt & freshly ground black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large lidded frying pan , add the onions and bay leaf , season with salt and pepper",
+    "Cover the onions closely with a piece of buttered greaseproof paper then put the lid on the frying pan",
+    "Cook the onions over a low heat for about 30 minutes until they are soft and golden",
+    "Roll the pastry to inch thick on a lightly floured surface and use it to line an 8-9 inch diameter flan dish",
+    "Beat the eggs lightly in a large bowl and season with salt , pepper and nutmeg",
+    "Stir the cream and milk into the beaten egg mixture",
+    "Drain the coked onions in a colander , remove the bay leaf and spread the onions over the pastry case",
+    "Strain the egg mixture through a sieve over the onions",
+    "Bake the flan in the centre of an oven pre-heated to 400f / 200c / gas mark 6 for 35 40 minutes: when cooked the pastry should be golden and the filling set",
+    "The filling will sink slightly as the flan cools"
+  ],
+  "sourceURL": "https://www.food.com/recipe/134911",
+  "youtubeURL": null
+}

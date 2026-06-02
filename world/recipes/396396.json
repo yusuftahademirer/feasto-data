@@ -1,0 +1,75 @@
+{
+  "id": "396396",
+  "name": "Banh Mi Style Chicken Sandwich",
+  "category": "vietnamese",
+  "area": "Vietnamese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "French baguettes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Light mayonnaise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken breasts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chili sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Jalapeno",
+      "measure": "As needed"
+    },
+    {
+      "name": "English cucumber",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mint leaf",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cilantro leaf",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lettuce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Seasoned rice vinegar",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "To make sandwiches , spread both sides of the baguettes with mayonnasise and hot sauce",
+    "Arrange chicken over bottom halves and sprinkle with chili sauce",
+    "Add jalapenos , cucumber slices and herbs and then drizzle with more sauce",
+    "Toss lettuce and carrots with vinegar and then add to the sandwiches , topping with more chili sauce , if desired",
+    "Add top halves"
+  ],
+  "sourceURL": "https://www.food.com/recipe/396396",
+  "youtubeURL": null
+}

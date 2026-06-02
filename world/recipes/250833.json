@@ -1,0 +1,50 @@
+{
+  "id": "250833",
+  "name": "Old Ladies On A Bus    Chicken",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "lactose",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Chicken pieces",
+      "measure": "As needed"
+    },
+    {
+      "name": "Orange marmalade",
+      "measure": "As needed"
+    },
+    {
+      "name": "Barbecue sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Skin chicken , if desired",
+    "Arrange chicken on a foil-lined 13x9x2-inch baking pan",
+    "Set aside",
+    "In a small bowl , combine marmalade , barbecue sauce , worcestershire sauce , and lemon juice",
+    "Pour over chicken",
+    "Bake , uncovered , in a 350 degree oven for 45 minutes , spooning sauce over chicken occasionally",
+    "Increase oven temperature to 400 degrees",
+    "Bake for 15 minutes more or until chicken is tender and no longer pink"
+  ],
+  "sourceURL": "https://www.food.com/recipe/250833",
+  "youtubeURL": null
+}

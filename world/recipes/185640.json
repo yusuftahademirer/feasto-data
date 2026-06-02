@@ -1,0 +1,67 @@
+{
+  "id": "185640",
+  "name": "Avocado Sushi Salad",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rice vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Low sodium soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lime juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Avocados",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spinach leaves",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan , bring 2 cups of water to a boil",
+    "Add the rice and salt , cover and simmer for 17 minutes or until tender",
+    "Meanwhile , in a small saucepan , bring the vinegar , soy sauce , lime juice and sugar to a boil",
+    "Remove from the heat",
+    "Stir into the cooked rice",
+    "Transfer the seasoned rice to a bowl and let cool to room temperature",
+    "Stir the carrot and avocados into the rice",
+    "Dividing evenly , spoon the mixture into four 8-ounce ramekins or bowls and gently but firmly press down",
+    "Arrange the spinach on serving plates and invert the molded rice salads onto the spinach"
+  ],
+  "sourceURL": "https://www.food.com/recipe/185640",
+  "youtubeURL": null
+}

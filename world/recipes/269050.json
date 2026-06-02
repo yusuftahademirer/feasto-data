@@ -1,0 +1,79 @@
+{
+  "id": "269050",
+  "name": "Chicken Bake Mediterranean  Style",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken drumsticks",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken thighs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Small potato",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kalamata olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh rosemary",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry white wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flaked sea salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ground black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200c",
+    "Heat the oil in a 3l flameproof , ovenproof baking dish over medium heat",
+    "Add the chicken drumsticks and cook , turning occasionally , for 5 minutes or until browned all over",
+    "Transfer to a plate and cover with foil to keep warm",
+    "Repeat with the chicken thigh cutlets",
+    "Add the potato to the dish and cook , turning occasionally , for 5 minutes or until golden",
+    "Remove from heat",
+    "Add the chicken to the potato in the dish and top with tomato , olives and garlic",
+    "Sprinkle with rosemary",
+    "Pour over the wine",
+    "Season with salt and pepper",
+    "Bake in oven for 45 minutes or until the chicken is cooked through and potato is tender",
+    "Serve immediately"
+  ],
+  "sourceURL": "https://www.food.com/recipe/269050",
+  "youtubeURL": null
+}

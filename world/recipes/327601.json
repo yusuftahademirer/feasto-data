@@ -1,0 +1,50 @@
+{
+  "id": "327601",
+  "name": "Afghan Pesto",
+  "category": "middle-east",
+  "area": "Middle Eastern",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Fresh coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Raw peanuts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cardamom pod",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lime, juice of",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Aubergines",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Put the coriander , peanuts , cardamom seeds and lime juice in a blender or food processor and process until chopped and combined",
+    "With the motor running , drizzle in olive oil until the mixture has the consistency of a soft paste",
+    "Chargrill the aubergine slices on both sides on a griddle or chargrill pan until nicely coloured and tender",
+    "Spread a little of the pesto over the warm aubergine slices and serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/327601",
+  "youtubeURL": null
+}

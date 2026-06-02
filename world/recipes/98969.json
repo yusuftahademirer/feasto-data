@@ -1,0 +1,67 @@
+{
+  "id": "98969",
+  "name": "Banana Blossom Guinatan",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1559314809-0d155014e29e?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Banana blossom",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coconut milk",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Discard tough outer layers and slice the blossom thinly , first cutting it in two lengthways if it is large",
+    "Put the slices in a bowl , sprinkle with a tablespoon of salt , rubbing it well inches leave for 10-15 minutes , squeeze out juices , rinse under cold water and squeeze dry",
+    "Heat oil in a wok or frying pan and saute onion and garlic until golden brown",
+    "Add tomato , stir for 3 minutes",
+    "Add banana blossom and vinegar and bring to the boil",
+    "Simmer for 5 minutes",
+    "Taste and add salt and pepper as required",
+    "Cook until blossom is tender , then stir in coconut milk and remove from heat",
+    "Serve with rice"
+  ],
+  "sourceURL": "https://www.food.com/recipe/98969",
+  "youtubeURL": null
+}

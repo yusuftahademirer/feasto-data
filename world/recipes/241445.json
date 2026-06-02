@@ -1,0 +1,83 @@
+{
+  "id": "241445",
+  "name": "Better Than A Baked Potato  Soup",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Red potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sour cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Velveeta cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "White pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Liquid smoke",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheddar cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bacon",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Peel potatoes and cut into large chunks",
+    "Put potatoes in soup pot along with onion , celery , and chicken broth",
+    "If there is not enough broth to cover the veggies , add a little water",
+    "Cover , bring to a boil , and let simmer for approximately 20 minutes , until vegetables soften",
+    "If you like thicker soup , drain off some of the liquid",
+    "If you like thinner soup , leave it as is and proceed",
+    "Use a potato masher to mash up the spuds",
+    "Mash more or less depending on how creamy or chunky you like your soup",
+    "Add white pepper , salt , and liquid smoke to taste",
+    "Add sour cream and velveeta , heat and stir until cheese melts",
+    "Dip the soup into 4 bowls",
+    "Top each bowl with shredded cheddar cheese , chives , and bacon bits",
+    "Eat and smile :)"
+  ],
+  "sourceURL": "https://www.food.com/recipe/241445",
+  "youtubeURL": null
+}

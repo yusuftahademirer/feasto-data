@@ -1,0 +1,89 @@
+{
+  "id": "17265",
+  "name": "25 Pumpkin Pie",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 80,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Pie crusts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg white",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pumpkin puree",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dark brown sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cinnamon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nutmeg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Heavy cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Adjust an oven rack to lowest position and heat oven to 400f",
+    "Prepare pie crust for blind baking",
+    "Bake crust for 15 minutes",
+    "Remove parchment from crust , prick any bubbles with a sharp fork and bake shell for 8 to 10 minutes longer , or until bottom just begins to color",
+    "Remove crust from oven and brush lightly with egg white while still hot",
+    "Process pumpkin , sugar , spices and salt ingredients in a food processor fitted with steel blade for 1 minute",
+    "Transfer mixture to a 3-quart heavy saucepan",
+    "Bring it to a sputtering simmer over medium-high heat",
+    "Cook pumpkin , stirring constantly , until thick and shiny , about 5 minutes",
+    "As soon as pie shell comes out of oven , whisk heavy cream and milk into pumpkin and bring to a bare simmer",
+    "Process eggs in food processor until whites and yolks are mixed , about 5 seconds",
+    "Gradually pour hot pumpkin mixture through feed tube while still running",
+    "Process 30 seconds",
+    "Pour warm filling into hot pie shell",
+    "Put a crust shield on completed pie and bake about 25 minutes",
+    "Filling will be dry-looking and lightly cracked around the edge",
+    "The center will wiggle when pie is gently shaken",
+    "Cool on a wire rack to a warm room temperature",
+    "Serve with slightly sweetened whipped cream"
+  ],
+  "sourceURL": "https://www.food.com/recipe/17265",
+  "youtubeURL": null
+}

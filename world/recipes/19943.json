@@ -1,0 +1,45 @@
+{
+  "id": "19943",
+  "name": "Avocado And Prawns In Wasabi",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 5,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Avocados",
+      "measure": "As needed"
+    },
+    {
+      "name": "King prawns",
+      "measure": "As needed"
+    },
+    {
+      "name": "Light soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rice wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Wasabi",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cut each half of the avocados into 3 / 4 inch cubes",
+    "Cut the prawns into 1 inch pieces",
+    "Put the prawns and avocados into a bowl and toss well with the dressing , and serve at once"
+  ],
+  "sourceURL": "https://www.food.com/recipe/19943",
+  "youtubeURL": null
+}

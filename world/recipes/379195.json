@@ -1,0 +1,70 @@
+{
+  "id": "379195",
+  "name": "Bulgogi  Korean Grilled Or Broiled Beef",
+  "category": "korean",
+  "area": "Korean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1632245889027-e406faaa19ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 12,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Steamed rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Mix the 9 seasonings",
+    "Put the sliced beef and mix together thoroughly",
+    "Marinate 1 to 2 hours",
+    "Grill or broil until beef is cooked to your liking"
+  ],
+  "sourceURL": "https://www.food.com/recipe/379195",
+  "youtubeURL": null
+}

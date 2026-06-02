@@ -1,0 +1,87 @@
+{
+  "id": "131965",
+  "name": "Aphrodite S Faster Than Takeout Pizza",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sherry wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tahini",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flat bread",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kalamata olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Feta cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parmesan cheese",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Peel eggplant",
+    "Take seeds out of red pepper",
+    "Cut red pepper , eggplant and onion into large 2-3 sections",
+    "Put vegetables in bowl or microwave steamer and steam in the microwave until semi-tender , about 3 minutes",
+    "Whisk together the vinegar , oil , garlic , wine and sugar",
+    "When vegetables are cool enough to handle , shred into julienne strips",
+    "Add strips to sauce and let marinate at room temperature",
+    "When ready to make pizzas , preheat oven to 450 degrees",
+    "Drain marinade from vegetables",
+    "Throw out half of marinade and mix the other half with the tahini to make pizza sauce",
+    "Spread flat bread or pizza crust with the sauce",
+    "Load up with vegetables , then sprinkle with olives , then feta cheese , then parmesan cheese",
+    "Bake for 10 minutes or until edges start to turn brown"
+  ],
+  "sourceURL": "https://www.food.com/recipe/131965",
+  "youtubeURL": null
+}

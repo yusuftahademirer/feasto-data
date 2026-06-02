@@ -1,0 +1,81 @@
+{
+  "id": "59952",
+  "name": "Global Gourmet  Taco Casserole",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 55,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomato sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Taco sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tabasco sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot chili pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cornmeal",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whole kernel corn",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sliced ripe olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheddar cheese",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat oven to 375 degrees",
+    "Brown ground beef and onion over medium heat",
+    "Drain",
+    "Stir in tomato sauce , taco or other sauce , salt , pepper , tabasco , chiles , and cornmeal , adjusting for\"hot\" taste preference and desired thickness",
+    "Stir in more cornmeal , if desired",
+    "Stir in corn and olives",
+    "Transfer mixture to casserole dish",
+    "Cover and bake for 30 to 40 minutes , or until bubbly and heated through",
+    "Top with cheese immediately on removing from oven so cheese melts",
+    "Garnish with corn chips just before serving to keep them crisp",
+    "Serve with a cool fresh vegetable such as cucumber slices , avocado , or lettuce leaves , if desired"
+  ],
+  "sourceURL": "https://www.food.com/recipe/59952",
+  "youtubeURL": null
+}

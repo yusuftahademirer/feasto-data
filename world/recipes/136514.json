@@ -1,0 +1,57 @@
+{
+  "id": "136514",
+  "name": "Almond Kulfi",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585938338392-50a59970d8ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 250,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Ground almonds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sliced almonds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Blanched almonds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Evaporated milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Superfine sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vanilla extract",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chocolate",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Whisk the evaporated milk , sugar and vanilla extract for 1 minute",
+    "Add the ground almonds and whisk for a further minute",
+    "Stir in the flaked almonds",
+    "Pour the kulfi mixture into an 850ml plastic freezer container and freeze overnight",
+    "Half an hour before serving , remove the container from the freezer and place in the fridge to soften slightly",
+    "Cut the kulfi into slices and garnish each portion with a whole blanched almond",
+    "Sprinkle with grated chocolate , if using"
+  ],
+  "sourceURL": "https://www.food.com/recipe/136514",
+  "youtubeURL": null
+}

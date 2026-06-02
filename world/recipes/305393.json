@@ -1,0 +1,55 @@
+{
+  "id": "305393",
+  "name": "Ancient Sweet With Honey",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 65,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Almonds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Walnuts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Grind the sesame",
+    "Grease a cake pan and sprinkle with the ground sesame",
+    "Crush the almonds and walnuts well",
+    "Preheat the oven to 200 c",
+    "Beat the eggs with the honey and slowly add the flour and all the other ingredients , including any left over sesame , beating constantly",
+    "Place batter in pan",
+    "Bake for 45 minutes , leaving the oven door open a bit for the first 10 minutes",
+    "When done remove from the oven and take the cake out of the pan",
+    "Cover with a towel until cool"
+  ],
+  "sourceURL": "https://www.food.com/recipe/305393",
+  "youtubeURL": null
+}

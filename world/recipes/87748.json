@@ -1,0 +1,76 @@
+{
+  "id": "87748",
+  "name": "All Purpose Stir Fry Sauce  Brown Garlic Sauce",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rice wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "White pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooking oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Minced ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cornstarch",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a bowl , combine soy sauce , broth , rice wine , sugar , sesame oil and white pepper",
+    "Dissolve the cornstarch in 1 / 4 cup water",
+    "Heat a pan over high heat",
+    "Add the cooking oil , swirling to coat",
+    "Add the garlic and ginger",
+    "Cook , stirring , until fragrant , about 15 seconds",
+    "Add the soy sauce mixture",
+    "Bring to a boil",
+    "Reduce heat to medium and cook for 1 minute",
+    "Add the cornstarch solution and cook , stirring , until the sauce boils and thickens"
+  ],
+  "sourceURL": "https://www.food.com/recipe/87748",
+  "youtubeURL": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "24137",
+  "name": "Voodoo   Calamari Ink  Pasta",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 160,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Squid",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spaghetti",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry white wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomato sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Separate tentacls and the body of the calamri , then gut them , setting aside the ink sak",
+    "Wash calamari under cold water , dice the body into rings , and chop the tentacles",
+    "Heat garlic in oil without browning",
+    "Add parsley , ground pepper",
+    "Cover and let it simmer for 45min",
+    "Check from time to time",
+    "If it's sticking , add some hot water",
+    "Once it has simmered , mix the tomato sauce with the white wine and add it to the pot",
+    "Simmer for 20 minutes more , uncovered , then dilute the sauce with a little hot water and simmer for a half hour more , covered",
+    "30 minutes before meal , cook pasta al dante",
+    "Now you can add the ink to the sauce , as much as you like",
+    "Serve sauce over pasta with the rest of the white wine"
+  ],
+  "sourceURL": "https://www.food.com/recipe/24137",
+  "youtubeURL": null
+}

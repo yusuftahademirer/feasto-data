@@ -1,0 +1,71 @@
+{
+  "id": "173292",
+  "name": "Bulgogi  Korean Marinated Beef",
+  "category": "korean",
+  "area": "Korean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1553163147-622ab57b6874?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 80,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Rib eye",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spring onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lettuce leaf",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooked rice",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Mix soy sauce , sesame oil , sugar and garlic together",
+    "Taste and adjust for seasonings",
+    "Add black pepper , sesame seeds and sliced green onions",
+    "Marinate beef at least one hour",
+    "Grill a few miniutes on each side",
+    "It should be cooked through thoroughly but not dry",
+    "Serve with rice , sam and kochujang",
+    "In each lettue leaf , put a little bit of rice , some bulgogi and some hot bean paste",
+    "Roll like a little taco"
+  ],
+  "sourceURL": "https://www.food.com/recipe/173292",
+  "youtubeURL": null
+}

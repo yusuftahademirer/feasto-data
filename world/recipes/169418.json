@@ -1,0 +1,58 @@
+{
+  "id": "169418",
+  "name": "A Lighter Croque Monsieur",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "French bread",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Reduced-fat ham",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lowfat swiss cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nonfat milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg whites",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooking spray",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cut a slit in each bread slice to form a pocket",
+    "Spread 1 teaspoon honey mustard into each bread pocket",
+    "Divide ham and cheese evenly among bread pockets",
+    "Combine milk and egg whites in a shallow bowl , stirring with a whisk",
+    "Dip sandwiches , 1 at a time , in milk mixture , turning to coat",
+    "Heat a large nonstick skillet coated with cooking spray over medium-high heat",
+    "Add 2 sandwiches and cook 3 minutes on each side or until sandwiches are golden brown",
+    "Repeat the procedure with the remaining sandwiches"
+  ],
+  "sourceURL": "https://www.food.com/recipe/169418",
+  "youtubeURL": null
+}

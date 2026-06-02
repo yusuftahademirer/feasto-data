@@ -1,0 +1,53 @@
+{
+  "id": "327271",
+  "name": "Basic Sea Vegetable Broth",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 85,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kelp",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried shiitake mushrooms",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Miso",
+      "measure": "As needed"
+    },
+    {
+      "name": "Scallions",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a 2 quart saucepan",
+    "Add the kelp or kombu and dried mushrooms",
+    "Let simmer for about 1 hour",
+    "Remove the sea vegetable and mushrooms , dice , and return to pot",
+    "Add ginger and simmer for 15 minutes",
+    "Stir in the miso and garnish with the scallions",
+    "Serve as is , or use as stock"
+  ],
+  "sourceURL": "https://www.food.com/recipe/327271",
+  "youtubeURL": null
+}

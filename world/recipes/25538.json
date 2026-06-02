@@ -1,0 +1,58 @@
+{
+  "id": "25538",
+  "name": "Wild Game   Moose Sloppy Joes",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Ground moose",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Brown sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Prepared mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ketchup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Barbecue sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Brown moose and onion in skillet and drain",
+    "Add other ingredients and simmer for 5 minutes",
+    "Serve over buns or any other type of bread",
+    "You can also use venison / red deer hamburg in this recipe"
+  ],
+  "sourceURL": "https://www.food.com/recipe/25538",
+  "youtubeURL": null
+}

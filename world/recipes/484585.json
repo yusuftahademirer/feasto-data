@@ -1,0 +1,71 @@
+{
+  "id": "484585",
+  "name": "Aloo  Chops",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 60,
+  "difficulty": "hard",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "cuisine",
+    "preparation",
+    "indian"
+  ],
+  "ingredients": [
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Minced beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Raisins",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Potato",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a frying pan , add the onion and ginger and fry until golden",
+    "Add the ground coriander and beef and fry until brown",
+    "Add the raisins and salt to taste and simmer for about 20 minutes , until the meat is cooked",
+    "Spoon out any fat in the pan",
+    "Stir in the chopped coriander and leave to cool",
+    "Divide the mashed potato into 8 portions",
+    "With well floured hands , flatten a portion on one palm , put 3 teaspoons of the meat mixture in the centre and fold the potato over it",
+    "Form gently into a round patty shape",
+    "Dip the 'chops' lightly in flour and shallow fry a few at a time in hot oil , until crisp and golden , turning carefully to brown the underside"
+  ],
+  "sourceURL": "https://www.food.com/recipe/484585",
+  "youtubeURL": null
+}

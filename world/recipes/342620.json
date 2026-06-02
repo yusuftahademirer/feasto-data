@@ -1,0 +1,71 @@
+{
+  "id": "342620",
+  "name": "Secret Ingredient  Bbq Meatloaf",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Barbecue sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sweet onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Seasoning salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "French-fried onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooking spray",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees",
+    "While oven is preheating , mix in a large bowl all ingredients except for the 1 / 8 cup of bbq sauce",
+    "Spray a 2 quart baking dish with the cooking spray",
+    "Pour meatloaf into dish , and free form into a loaf shape",
+    "Bake for 45 minutes , then drain if needed",
+    "Take remaining bbq sauce and spread over top and sides",
+    "Return meatloaf to over and bake for 10 to 15 minutes",
+    "Let meatloaf \"rest \" for 10 minutes , serve and enjoy",
+    ":)"
+  ],
+  "sourceURL": "https://www.food.com/recipe/342620",
+  "youtubeURL": null
+}

@@ -1,0 +1,92 @@
+{
+  "id": "33606",
+  "name": "Italian Sandwich  Pasta Salad",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Tri-color spiral pasta",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dill pickles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ripe olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sweet pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water chestnut",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ham",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cider vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Italian seasoning",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cook pasta and set aside",
+    "Place onions , dill pickles , olives , water chestnuts , chives and peppers in a bowl",
+    "Add oil , vinegar and spices",
+    "Marinate for 15-20 minutes or so",
+    "Add pasta , tomatoes , meat and cheese and toss lightly",
+    "Serve cold"
+  ],
+  "sourceURL": "https://www.food.com/recipe/33606",
+  "youtubeURL": null
+}

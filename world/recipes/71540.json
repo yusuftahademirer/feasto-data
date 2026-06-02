@@ -1,0 +1,77 @@
+{
+  "id": "71540",
+  "name": "Bulgogi  Korean Marinated Bbq Meat",
+  "category": "korean",
+  "area": "Korean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1553163147-622ab57b6874?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 120,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Sirloin tip steaks",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame seed oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Roasted sesame seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sticky rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Romaine lettuce",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cut the meat into thin bit-size 1\" x 2\" wide strips",
+    "Combine the remaining ingredients in a separate bowl",
+    "Add the meat to the marinade , one slice at a time",
+    "Blend thoroughly",
+    "Let stand for at least one hour in the refrigerator",
+    "Barbecue beef over hot coals until done , but do not overcook",
+    "Serve hot by placing a piece of meat and some\"sticky-rice\" in a lettuce leaf-- roll up the lettuce leaf and eat"
+  ],
+  "sourceURL": "https://www.food.com/recipe/71540",
+  "youtubeURL": null
+}

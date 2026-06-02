@@ -1,0 +1,71 @@
+{
+  "id": "376813",
+  "name": "Magic  Chicken Noodle Soup",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken bouillon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery ribs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken",
+      "measure": "As needed"
+    },
+    {
+      "name": "Diced onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Wide egg noodles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oregano",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Put water in a tall pot and heat to a boil",
+    "Add the chicken bullion , diced onions , oregano , garlic powder , and pepper",
+    "-slice carrots and add to the boiling water",
+    "- slice celery",
+    "-cut chicken into bite size pieces",
+    "Add carrots to the pot and allow them to boil for about 5 minutes before adding the celery , chicken , and about half the package of wide egg noodles and allow to boil until the noodles are tender",
+    "Now it's ready to serve",
+    "I love serving it with some buttered dinner rolls on the side",
+    "Remember , you can adjust the seasoning and amount of veggies to your taste"
+  ],
+  "sourceURL": "https://www.food.com/recipe/376813",
+  "youtubeURL": null
+}

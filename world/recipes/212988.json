@@ -1,0 +1,77 @@
+{
+  "id": "212988",
+  "name": "Aash E Gandom",
+  "category": "middle-east",
+  "area": "Middle Eastern",
+  "thumbnailURL": "https://images.unsplash.com/photo-1547058886-d345c26b9100?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "cuisine",
+    "preparation",
+    "healthy",
+    "asian"
+  ],
+  "ingredients": [
+    {
+      "name": "Wheat",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spinach",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chickpeas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black-eyed peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lentils",
+      "measure": "As needed"
+    },
+    {
+      "name": "Split peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooking oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Soak peas , beans , lentils and wheat in water for 4-5 hours",
+    "Peel and chop onions and fry in oil until slightly golden",
+    "Add hot water , peas , beans , lentils , wheat , turmeric , salt and pepper , and cook over low heat for about one hour , stirring frequently",
+    "Wash and chop spinach and add to the aash",
+    "Cook for another 10-15 minutes",
+    "Fry one spoonful of flour in oil for a few minutes and add to the aash",
+    "Stir and cook for a few more minutes"
+  ],
+  "sourceURL": "https://www.food.com/recipe/212988",
+  "youtubeURL": null
+}

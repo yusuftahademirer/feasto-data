@@ -1,0 +1,54 @@
+{
+  "id": "5234",
+  "name": "Akoori   Indian Scrambled Eggs",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585938338392-50a59970d8ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger-garlic paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Dice onion finely",
+    "Dice tomato into small pieces",
+    "Fry onion in oil until it brown",
+    "Add ginger-garlic paste and tomato and fry for about 30 seconds",
+    "Add eggs and salt",
+    "Turn down heat to low",
+    "Scramble the eggs by stirring until desired consistency is achieved",
+    "Enjoy while hot !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/5234",
+  "youtubeURL": null
+}

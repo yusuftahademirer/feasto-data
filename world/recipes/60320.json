@@ -1,0 +1,99 @@
+{
+  "id": "60320",
+  "name": "Arroz Con Pollo  Baked Chicken And Rice",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 80,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Chicken",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bay leaf",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh oregano",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red cayenne pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Saffron",
+      "measure": "As needed"
+    },
+    {
+      "name": "Long grain rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Frozen green peas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pimientos",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Sprinkle chicken with salt and pepper",
+    "In large oven proof skillet , heat oil over medium heat",
+    "Add chicken , brown on all sides , turning as needed for about 20 minutes",
+    "Remove chicken",
+    "Add onion , green pepper , tomatoes , garlic and rice",
+    "Saute 5 minutes , stirring frequently , until lightly browned",
+    "Stir in broth , bay leaf , oregano , cayenne pepper and saffron",
+    "Bring to a boil",
+    "If skillet isn't oven proof or large enough , transfer to a 13 x 9 x 2 baking dish",
+    "Arrange chicken on top",
+    "Cover with lid or aluminum foil",
+    "Bake in 375 oven for 25 minutes or until chicken and rice are both tender",
+    "Add peas , and pimento or red peppers on top"
+  ],
+  "sourceURL": "https://www.food.com/recipe/60320",
+  "youtubeURL": null
+}

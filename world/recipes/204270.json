@@ -1,0 +1,47 @@
+{
+  "id": "204270",
+  "name": "Company  Green Beans",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whole tomatoes",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cut bacon slices cross-ways into 1 / 2 inch pieces",
+    "Fry bacon in a sauce pan until just crisp",
+    "Remove bacon from pan and let drain on paper towels",
+    "Pour off all but a couple teaspoons of bacon fat",
+    "Add onion to pan and cook just until translucent and soft",
+    "If using whole tomatoes , cut them up using a sharp knife while they're still in the can",
+    "Add tomatoes to the pan along with the drained can of green beans",
+    "Add bacon and heat until all ingredients are thoroughly heated",
+    "Serve in small bowls because it's kind of \"soupy\""
+  ],
+  "sourceURL": "https://www.food.com/recipe/204270",
+  "youtubeURL": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "285568",
+  "name": "Philly  Roll Sushi",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "cuisine",
+    "preparation",
+    "asian"
+  ],
+  "ingredients": [
+    {
+      "name": "Cream cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Smoked salmon",
+      "measure": "As needed"
+    },
+    {
+      "name": "English cucumber",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nori",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sushi rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Place one full sheet of sushi nori on a bamboo rolling mat , shiny side down",
+    "Cover the sheet lightly with the prepared sushi rice- leaving the remaining inch and a half of nori bare lengthwise away from you",
+    "Place your toppings lengthwise onto the center of your rice",
+    "Fold your mat over , centering your ingredients with respect to your rice sheet to the far edge of your rice",
+    "With even pressure , tighten your roll by pressing and pulling on your mat",
+    "Finish your rolling by rolling your tightened roll over the last flap of nori",
+    "Repeat the tightening process if necessary",
+    "Repeat the process for the 2nd roll",
+    "Cut each roll into eight pieces",
+    "Best served while very fresh !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/285568",
+  "youtubeURL": null
+}

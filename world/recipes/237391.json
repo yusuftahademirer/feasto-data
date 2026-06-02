@@ -1,0 +1,72 @@
+{
+  "id": "237391",
+  "name": "15 Minute Chicken Liver Pate",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1508737027454-e6454ef45afd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Chicken liver",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Heavy cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Brandy",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Thyme",
+      "measure": "As needed"
+    },
+    {
+      "name": "Marjoram",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sage",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cook onion and garlic in 1 tbsp of the butter until soft",
+    "Add chicken livers , herbs , salt and pepper and cook until livers are pink inside",
+    "Add brandy , cream and the rest of the butter",
+    "Puree until smooth in a food processor",
+    "Transfer to terrine , cover and chill",
+    "Serve with crostini and crackers"
+  ],
+  "sourceURL": "https://www.food.com/recipe/237391",
+  "youtubeURL": null
+}

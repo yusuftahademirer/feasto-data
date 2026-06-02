@@ -1,0 +1,64 @@
+{
+  "id": "42043",
+  "name": "6 Step Chicken Tikka",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 140,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Chicken",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red food coloring",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cumin powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Low-fat plain yogurt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green chili",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger-garlic paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Limes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cut the chicken and make deep cuts on the pieces",
+    "Mix all the ingredients",
+    "Marinate the chicken for a minimum of 2 hours",
+    "Deep fry",
+    "Drain on paper towels",
+    "Serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/42043",
+  "youtubeURL": null
+}

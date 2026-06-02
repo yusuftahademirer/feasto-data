@@ -1,0 +1,67 @@
+{
+  "id": "76170",
+  "name": "Apple  Mixed W Fress  Spinach Middle Eastern Salad",
+  "category": "middle-east",
+  "area": "Middle Eastern",
+  "thumbnailURL": "https://images.unsplash.com/photo-1547058886-d345c26b9100?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Spinach leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red apples",
+      "measure": "As needed"
+    },
+    {
+      "name": "Raisins",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cider vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chutney",
+      "measure": "As needed"
+    },
+    {
+      "name": "Curry powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "For salad: combine spinach , apple , raisins , and green onion in large bowl",
+    "Refrigerate for 5 minutes",
+    "For dressing: combine vegetable oil , vinegar , chutney , curry powder , mustard , and salt in small bowl",
+    "Pour over salad",
+    "Toss well to coat"
+  ],
+  "sourceURL": "https://www.food.com/recipe/76170",
+  "youtubeURL": null
+}

@@ -1,0 +1,69 @@
+{
+  "id": "336744",
+  "name": "Egg  Cellent Noodles",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepperoni",
+      "measure": "As needed"
+    },
+    {
+      "name": "Italian seasoning",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Roma tomato",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Spray oven-proof skillet with cooking spray and pre-heat oven to 350 degrees",
+    "Prepare ramen noodles according to directions",
+    "Drain noodles and spread into the bottom of skillet",
+    "In mixing bowl , beat eggs",
+    "Stir in pepper , olives , italian seasoning , and garlic powder",
+    "Pour egg mixture over noodles",
+    "Place pepperoni slices evenly over eggs and noodles",
+    "Bake in oven for 15 minutes",
+    "Remove skillet from oven",
+    "Top with mozzarella cheese and tomato slices",
+    "Return to oven and bake for 5 minutes or until cheese is melted and eggs are done"
+  ],
+  "sourceURL": "https://www.food.com/recipe/336744",
+  "youtubeURL": null
+}

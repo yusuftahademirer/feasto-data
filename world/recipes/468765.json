@@ -1,0 +1,43 @@
+{
+  "id": "468765",
+  "name": "3 Ingredient Fabulous Salsa    Delicious  Fresh And So Easy",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Jalapenos",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Core the tomatoes",
+    "Dig the cloves from the head of garlic",
+    "Chop the stem off the jalapeos",
+    "Throw the cored tomatoes , the cloves of garlic , and the stemless jalapeos into a pot of water",
+    "Bring it to a boil , and turn down to medium / high heat",
+    "Turn burner off when tomatoes start to peel , usually in 30-40 minutes on the stove",
+    "Drain tomatoes , garlic , and jalapeo and let cool",
+    "Throw ingredients into a blender or food processor and pulsate until desired consistency",
+    "Add salt if desired"
+  ],
+  "sourceURL": "https://www.food.com/recipe/468765",
+  "youtubeURL": null
+}

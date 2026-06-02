@@ -1,0 +1,52 @@
+{
+  "id": "170993",
+  "name": "Ancient Greek Fish With Coriander",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Coriander seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cod fish fillets",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "White wine vinegar",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375f",
+    "Place the coriander seeds in a baking pan and bake them for 10 minutes",
+    "Let them cool for 5 minutes",
+    "Mash them with mortar & pestle together with the salt",
+    "In small bowl , whisk together olive oil and vinegar",
+    "Dredge cod fillets in oil mixture",
+    "Toss fillets with the coriander mixture and place them in a baking pan",
+    "Cover the pan and place it in the oven",
+    "Bake the fish for 20 25 minutes",
+    "Remove from the oven , sprinkle with vinegar and serve hot"
+  ],
+  "sourceURL": "https://www.food.com/recipe/170993",
+  "youtubeURL": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": "242831",
+  "name": "Sloughed  Tortellini Salad",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation",
+    "salads"
+  ],
+  "ingredients": [
+    {
+      "name": "Cheese-filled tortellini",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh spinach",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ripe olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baby shrimp",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sour cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mayonnaise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Caesar salad dressing",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ground pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cook and drain tortellini as directed on package",
+    "Rinse with cold water",
+    "Drain",
+    "Place spinach in boiling water",
+    "Cover and cook 1 minute",
+    "Drain",
+    "Immediately rinse with cold water",
+    "Drain",
+    "Place tortellini , spinach , onions , olives , bell pepper and shrimp in large glass or plastic bowl",
+    "Toss lightly",
+    "Mix remaining ingredients",
+    "Toss with tortellini mixture",
+    "Cover and refrigerate at least 1 hour to blend flavors but no longer than 24 hours"
+  ],
+  "sourceURL": "https://www.food.com/recipe/242831",
+  "youtubeURL": null
+}

@@ -1,0 +1,62 @@
+{
+  "id": "22404",
+  "name": "Bbq Thai Peppered Chicken",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626804475315-9644b37a2f4b?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black peppercorns",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Thick soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Prick the thighs all over",
+    "Blend the garlic , ginger , coriander and peppercorns to a paste",
+    "And rub into the chicken",
+    "Wrap in plastic and place in fridge for at least 2 hours",
+    "Mix soysauce& oil",
+    "Baste the chicken with the soy mixture",
+    "Bbq over medium heat until the outside is crisp and the inside is cooked",
+    "Brush with soy while cooking"
+  ],
+  "sourceURL": "https://www.food.com/recipe/22404",
+  "youtubeURL": null
+}

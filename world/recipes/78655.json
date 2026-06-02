@@ -1,0 +1,93 @@
+{
+  "id": "78655",
+  "name": "My Muffuletta Sandwich",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Ciabatta",
+      "measure": "As needed"
+    },
+    {
+      "name": "Provolone cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Genoa salami",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ham",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sweet onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kalamata olive",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Capers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Brine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oregano leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Mix everything in food processor",
+    "Chop fine for spread",
+    "Refrigerate until ready to use"
+  ],
+  "sourceURL": "https://www.food.com/recipe/78655",
+  "youtubeURL": null
+}

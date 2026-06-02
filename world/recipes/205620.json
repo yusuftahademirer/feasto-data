@@ -1,0 +1,79 @@
+{
+  "id": "205620",
+  "name": "Andalucian Gazpacho",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 135,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spring onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cucumber",
+      "measure": "As needed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sherry wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hard-boiled eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Crusty bread",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Blend tomatoes , spring onions , garlic , and cucumber into a smooth puree",
+    "Slowly drizzle in olive oil , pulsing in between additions",
+    "Add vinegar , pulse once more",
+    "Season with salt and pepper to taste",
+    "For an authentic flavour , you might want to add a little more minced garlic rather than a large amount of salt and pepper",
+    "Transfer to bowl",
+    "Cover and chill for at least two hours to allow all the flavours to blend",
+    "Heat a thin layer of olive oil over medium heat and fry the bread cubes for a few minutes until golden and crisp",
+    "Drain on kitchen towels",
+    "Ladle the gazpacho into bowls",
+    "Drizzle with olive oil and grind fresh black pepper on top",
+    "Set all of the toppings into separate small bowls so that guests may serve themselves however much they like",
+    "Enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/205620",
+  "youtubeURL": null
+}

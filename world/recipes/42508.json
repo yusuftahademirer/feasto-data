@@ -1,0 +1,62 @@
+{
+  "id": "42508",
+  "name": "1 00 Tangy Chicken Recipe",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 280,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Chicken",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cider vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot red pepper sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Barbecue sauce",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine vinegar , worcestershire , chili powder , salt , pepper , and hot pepper sauce in a small bowl",
+    "You'll have mixed all ingredients except bbq sauce",
+    "Place chicken pieces in a large plastic bag and pour mixture over chicken",
+    "Marinate in refrigerator for at least 4 hours , turning several times",
+    "Spray grill with non stick cooking spray",
+    "Grill chicken pieces over medium heat in covered grill for 30-45 minutes",
+    "Turn occasionally while grilling",
+    "Baste with your favorite bbq sauce for the last 10 minutes of grilling time"
+  ],
+  "sourceURL": "https://www.food.com/recipe/42508",
+  "youtubeURL": null
+}

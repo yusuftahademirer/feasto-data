@@ -1,0 +1,81 @@
+{
+  "id": "244722",
+  "name": "Cod With Mediterranean Salsa",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 18,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Kalamata olive",
+      "measure": "As needed"
+    },
+    {
+      "name": "Plum tomato",
+      "measure": "As needed"
+    },
+    {
+      "name": "Shallot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Capers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Orange zest",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cod fish fillet",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooking spray",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Mix all salsa ingredients together and adjust salt and pepper to taste",
+    "Pat fish dry and season with salt and lemon pepper",
+    "Spray a non-stick skillet with cooking spray and heat over medium high heat",
+    "Add olive oil to pan and heat until hot",
+    "Cook fillets 4 minutes on each side or until done",
+    "Do not overcook",
+    "Serve with salsa spooned over top"
+  ],
+  "sourceURL": "https://www.food.com/recipe/244722",
+  "youtubeURL": null
+}

@@ -1,0 +1,57 @@
+{
+  "id": "153592",
+  "name": "Angel Hair Pasta With Spinach  Tomatoes And Onion",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Angel hair pasta",
+      "measure": "As needed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Yellow onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh spinach",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cook pasta per pkg",
+    "While it cooks , heat oil in a skillet and saute the onion and garlic over medium heat for 2 minute",
+    "Add tomatoes to the onion / garlic mixture , along with salt and pepper to taste and cook 3 min more , stirring",
+    "Then add spinach and toss until wilted",
+    "Drain pasta and place in a large pasta bowl",
+    "Add the skillet mixture to the pasta and toss to coat",
+    "Sprinkle with parmesan and serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/153592",
+  "youtubeURL": null
+}

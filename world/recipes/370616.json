@@ -1,0 +1,78 @@
+{
+  "id": "370616",
+  "name": "Asparagus Omelette",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 55,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Manchego cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Wash the asparagus and trim them into 1-inch pieces",
+    "Bring water to a boil in a saucepan and add the asparagus pieces",
+    "Cook for about 2 to 3 minutes or until tender",
+    "Drain the asparagus and set aside",
+    "Heat the olive oil over low heat in a 12-inch skillet",
+    "Add the chopped onion and garlic and cook until tender",
+    "Stir in the asparagus , salt , pepper , and grated cheese",
+    "Reduce the heatt to low and pour the beaten eggs into the skillet",
+    "Do not stir the mixture",
+    "Cook , covered , until the omelette sets , around 15 to 20 minutes",
+    "Slice into four portions and sprinkle with lemon juice",
+    "Garnish with sliced tomato and serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/370616",
+  "youtubeURL": null
+}

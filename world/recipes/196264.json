@@ -1,0 +1,59 @@
+{
+  "id": "196264",
+  "name": "Zucchini Mix  In Tomato Sauce",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 60,
+  "difficulty": "hard",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "preparation",
+    "low-protein"
+  ],
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery",
+      "measure": "As needed"
+    },
+    {
+      "name": "Zucchini",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Chop or partially puree tomatoes to your liking",
+    "Heat oil in large pan",
+    "Add onion and celery , saute for about 10 minutes or until onion and celery are soft",
+    "Add zucchini and cook until soft",
+    "Add tomatoes , sugar and salt",
+    "Bring to boil , and turn down to a simmer",
+    "Simmer for 30 minutes",
+    "Cool and pack into freezer containers",
+    "Freeze up to 3 months"
+  ],
+  "sourceURL": "https://www.food.com/recipe/196264",
+  "youtubeURL": null
+}

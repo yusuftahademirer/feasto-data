@@ -1,0 +1,57 @@
+{
+  "id": "91981",
+  "name": "Alsatian Tarte Flambee",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1508737027454-e6454ef45afd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Frozen puff pastry",
+      "measure": "As needed"
+    },
+    {
+      "name": "Quark",
+      "measure": "As needed"
+    },
+    {
+      "name": "Heavy cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nutmeg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bacon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "On a lightly floured surface , roll the pastry to 1 / 8-inch thickness",
+    "Cut into disks about 3-1 / 4 to 4 inches in diameter and place on a wax paper-lined baking sheet",
+    "Leave in freezer until dough is frozen",
+    "Mix together quark , cream , nutmeg , salt and pepper",
+    "Preheat oven to 400f",
+    "Remove crusts from freezer",
+    "Poke pastry with a fork",
+    "Spread cheese mixture equally on each crust",
+    "Sprinkle with onion and bacon",
+    "Bake on bottom rack of oven for ten minutes , or until bottoms of pizzas are a dark , golden brown",
+    "Serve warm"
+  ],
+  "sourceURL": "https://www.food.com/recipe/91981",
+  "youtubeURL": null
+}

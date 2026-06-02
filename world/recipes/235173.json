@@ -1,0 +1,85 @@
+{
+  "id": "235173",
+  "name": "Hot Tamale  Burgers",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 60,
+  "difficulty": "hard",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Short-grain brown rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Corn kernel",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chipotle chile in adobo",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Yellow cornmeal",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cilantro",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh lime juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lime zest",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Bring rice and 3 cups water to a boil in medium sauce pan",
+    "Reduce heat to low , cover and simmer 40 minutes or until water is absorbed by rice",
+    "Meanwhile , heat oil in large skillet over medium heat",
+    "Add onion , bell pepper , corn , chipotle , adobo sauce , garlic , cumin and salt",
+    "Saut 2 minutes , then reduce heat to low",
+    "Cover and cook 15 minutes or until vegetables are tender , stirring once or twice",
+    "Whisk 1 / 2 cup cornmeal in bowl add to skillet mixture and cover and cook on low for 10 minutes more",
+    "Stirring once or twice",
+    "Remove from heat , and stir in hot rice , cilantro , lime juice and zest",
+    "Cool 20 minutes",
+    "Wet hands and shape mixture into 8 burgers",
+    "Refrigerate 30 minutes",
+    "Prepare grill to medium heat",
+    "Brush burgers and grill rack with olive oil",
+    "Grill 7 minutes per side or until crusty on the outside"
+  ],
+  "sourceURL": "https://www.food.com/recipe/235173",
+  "youtubeURL": null
+}

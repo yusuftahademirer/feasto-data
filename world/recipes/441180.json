@@ -1,0 +1,92 @@
+{
+  "id": "441180",
+  "name": "Achari Fish",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585938338392-50a59970d8ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "cuisine",
+    "preparation",
+    "asian"
+  ],
+  "ingredients": [
+    {
+      "name": "Cod",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fennel seed",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fenugreek seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mustard seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Wash the fish well in salt water",
+    "Apply the lemon juice to the fish and set aside for approximately 1 hour",
+    "Fry the onions till they are light golden in color",
+    "Remove with a slotted spoon and crush",
+    "In the same oil put the red chillies , onion seeds , turmeric powder , red chilly powder and garlic",
+    "Stir and fry for a few minutes till the oil separates",
+    "Add the tomatoes and again stir and cook till the oil separates",
+    "Add the fish",
+    "Coarsely grind together the aniseed , coriander seeds , fenugreek seeds and mustard seeds",
+    "Add this to the fish along with the green chillies and cook over a low heat till the fish is done , about 10 minute min"
+  ],
+  "sourceURL": "https://www.food.com/recipe/441180",
+  "youtubeURL": null
+}

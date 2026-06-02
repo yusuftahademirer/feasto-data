@@ -1,0 +1,72 @@
+{
+  "id": "320972",
+  "name": "Chicken Mediterranean For Two",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 135,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation",
+    "for-1-or-2"
+  ],
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Diced tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kalamata olive",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried parsley flakes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried oregano",
+      "measure": "As needed"
+    },
+    {
+      "name": "Feta cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Penne pasta",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine first 3 ingredients in a heavy-duty zip-lock plastic bag",
+    "Seal and chill 2 hours",
+    "Cook this chicken mixture in a large skillet over medium-high heat for about 8 minutes or until the chicken is done",
+    "Remove from skillet and set aside",
+    "To the empty skillet , add the tomatoes and their juice , olives , parsley , basil , and oregano",
+    "Reduce heat , simmer , stirring often for about 7 minutes",
+    "Return chicken to skillet",
+    "Sprinkle with the feta cheese , remove from heat",
+    "Cover and let stand for 5 minutes so the cheese can melt a little",
+    "Pour over cooked , hot pasta and serve immediately"
+  ],
+  "sourceURL": "https://www.food.com/recipe/320972",
+  "youtubeURL": null
+}

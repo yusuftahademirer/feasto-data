@@ -1,0 +1,53 @@
+{
+  "id": "216873",
+  "name": "1 2 3 Rice And Chili Burritos",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Chili with beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Instant rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salsa",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tortillas",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat chili in saucepan",
+    "Once heated , add uncooked rice and water",
+    "Stir together and let simmer over medium heat about 10-15 minutes until rice is cooked",
+    "Don't forget to stir !",
+    "Once cooked throughout , turn heat down",
+    "Place about 1 / 3 cup mixture on tortilla and top with 1-2 tablespoons shredded cheese and a few tablespoons salsa and roll up",
+    "Once all burritos have been made , zap in microwave for 30-60 seconds to melt cheese and reheat"
+  ],
+  "sourceURL": "https://www.food.com/recipe/216873",
+  "youtubeURL": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "168590",
+  "name": "Amigos  Crisp Chicken Burritos",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 12,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Canned chicken",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cream cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour tortillas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooking oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Let cream cheese come to room temperature",
+    "Drain the canned chicken",
+    "Mix cream cheese , green chiles , green onion and chicken until well blended",
+    "Cut two sides of the tortillas so you have two straight sides on each side",
+    "Spread chicken mixture thinly on 3 / 4 of the tortilla",
+    "Roll tortilla up starting with the end you spread the chicken mixture on",
+    "Seal the plain end with water",
+    "Heat oil to about 375-400 degrees",
+    "Drop burritos into hot oil and fry for about 2 minutes",
+    "Keep turning so they fry evenly",
+    "When they start to turn golden , they are done",
+    "Drain on a paper plate covered with a paper towel",
+    "These are so easy and goes great with salsa , guacamole , or ranch dressing"
+  ],
+  "sourceURL": "https://www.food.com/recipe/168590",
+  "youtubeURL": null
+}

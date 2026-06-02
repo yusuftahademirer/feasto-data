@@ -1,0 +1,67 @@
+{
+  "id": "44666",
+  "name": "Ali Baba S Oven Fries",
+  "category": "middle-east",
+  "area": "Middle Eastern",
+  "thumbnailURL": "https://images.unsplash.com/photo-1547058886-d345c26b9100?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 47,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground fenugreek",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cinnamon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cayenne pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees f",
+    "Lightly oil a large baking pan",
+    "Mix the spices , oil and lemon juice together in a small bowl",
+    "Toss the potatoes with this mixture until evenly coated",
+    "Spread the potatoes onto the baking sheet and bake in the preheated oven for 30-35 minutes or until nicely browned and crispy , turning once halfway during cooking"
+  ],
+  "sourceURL": "https://www.food.com/recipe/44666",
+  "youtubeURL": null
+}

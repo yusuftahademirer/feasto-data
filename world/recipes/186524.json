@@ -1,0 +1,64 @@
+{
+  "id": "186524",
+  "name": "Baked Mediterranean Tilapia",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 42,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Tilapia fillets",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vidalia onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kalamata olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ground black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Defrost tilapia and preheat oven to 375 degrees",
+    "Peel and slice onions 1 / 4\" thick , keeping the rings together",
+    "Transfer sliced onion with a pancake turner to a skillet",
+    "Saute onion in olive oil over medium heat , 2-3 minutes on each side , or until onions are translucent",
+    "In a 13\"x9\"x2\" roasting pan , arrange half of the onion slices to cover the bottom",
+    "Place fish on top of onions",
+    "Sprinkle olives , garlic , basil and pepper over the fish",
+    "Top with remaining onion slices and sliced tomatoes",
+    "Salt and pepper to taste",
+    "Place pan with fish in center of oven , uncovered , and bake for 12-15 minutes , or until fish is opaque"
+  ],
+  "sourceURL": "https://www.food.com/recipe/186524",
+  "youtubeURL": null
+}

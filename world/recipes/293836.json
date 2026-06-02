@@ -1,0 +1,62 @@
+{
+  "id": "293836",
+  "name": "Near East  Rice Pilaf  Low Fat",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Canola oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Orzo pasta",
+      "measure": "As needed"
+    },
+    {
+      "name": "Long-grain rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken soup powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a non-stick pot , heat oil",
+    "Add orzo and sautee until browned",
+    "Add the rice",
+    "To the 3 cups of boiled water , add the chicken soup mix , garlic powder , turmeric , black pepper , and turmeric",
+    "Add seasoned water mixture to the pot , cover , and simmer for 20 minutes until all water has evaporated",
+    "Don't open lid",
+    "Remove from heat after 20 minutes and allow to rest 10minutes",
+    "Fluff with fork"
+  ],
+  "sourceURL": "https://www.food.com/recipe/293836",
+  "youtubeURL": null
+}

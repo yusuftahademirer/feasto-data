@@ -1,0 +1,80 @@
+{
+  "id": "106333",
+  "name": "3 Onion  Mushroom And Garlic Soup",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1508737027454-e6454ef45afd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 55,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Leeks",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried porcini mushrooms",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Beef base",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Scallion",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Melt butter and olive oil in a large pot",
+    "Saut leeks , onions , salt , pepper , sugar , 8-10 minutes adding garlic and cook 3 more minutes",
+    "Add strained chopped mushrooms , water , beef base , strained liquid from mushrooms and parsley",
+    "Bring to a boil lower heat to a simmer and cook for 20 more minutes",
+    "If desired , toast bread in over and top with your favorite cheese and place on top of soup and serve topped with a garnish of scallions and pepper",
+    "For vegetarian use only the vegetable base"
+  ],
+  "sourceURL": "https://www.food.com/recipe/106333",
+  "youtubeURL": null
+}

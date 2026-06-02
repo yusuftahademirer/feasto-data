@@ -1,0 +1,60 @@
+{
+  "id": "353212",
+  "name": "30 Minute Braised Chicken",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Boneless skinless chicken thighs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Apples",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried apricots",
+      "measure": "As needed"
+    },
+    {
+      "name": "White wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh parsley",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Place a heavy pan over high heat , then add the onion with the oil",
+    "Stir well and cook for 2 minutes , then add the garlic",
+    "Add the chicken , then cook for a few minutes , turning each piece until they all have a little colour",
+    "Add the chopped apples and dried apricots , stir well , pour in the wine , then bring to a boil",
+    "Simmer , covered , for 20 minutes , until the chicken is tender",
+    "Sprinkle with the parsley"
+  ],
+  "sourceURL": "https://www.food.com/recipe/353212",
+  "youtubeURL": null
+}

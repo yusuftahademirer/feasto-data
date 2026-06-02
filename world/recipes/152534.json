@@ -1,0 +1,66 @@
+{
+  "id": "152534",
+  "name": "Big Mac  Pizza",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "preparation",
+    "appetizers"
+  ],
+  "ingredients": [
+    {
+      "name": "Thousand island dressing",
+      "measure": "As needed"
+    },
+    {
+      "name": "Prepared pizza crust",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lean ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Colby-monterey jack cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bacon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dill pickle",
+      "measure": "As needed"
+    },
+    {
+      "name": "Prepared mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lettuce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat oven 400",
+    "Spread dressing over pizza crust using less or more depending on your taste",
+    "Spread hamburger on top",
+    "Top with the cheese and bacon",
+    "Bake about 8 min until cheese is melted",
+    "Top with lettuce , pickles , tomatoe , onion , and mustard",
+    "Cut into slices and serve immediately",
+    "I cut the pizza right after it comes out of the oven and let everybody top it themselves , with their favorite toppings"
+  ],
+  "sourceURL": "https://www.food.com/recipe/152534",
+  "youtubeURL": null
+}

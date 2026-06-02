@@ -1,0 +1,66 @@
+{
+  "id": "369344",
+  "name": "Apple And Walnut Salad  Tapas",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Granny smith apple",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Scallions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Golden raisins",
+      "measure": "As needed"
+    },
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery",
+      "measure": "As needed"
+    },
+    {
+      "name": "Walnuts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mayonnaise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cilantro",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine apples and lemon juice",
+    "Then add all other ingredients except cilantro",
+    "Mix thoroughly",
+    "Before serving sprinkle with cilantro"
+  ],
+  "sourceURL": "https://www.food.com/recipe/369344",
+  "youtubeURL": null
+}

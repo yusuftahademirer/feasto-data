@@ -1,0 +1,77 @@
+{
+  "id": "254919",
+  "name": "Authentic Japanese Gyoza",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Gyoza wrapper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground pork",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cabbage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh gingerroot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sake",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame seed oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Shred cabbage and cut nira fine",
+    "Combine cabbage , nira , pork , ground fresh ginger root , garlic and seasonings",
+    "Mix well by hand",
+    "Put 1 tablespoons of mixture on a gyoza wrapper",
+    "Wet the edge of wrapper with water using your finger",
+    "Pinch edges firmly and crip togther to seal",
+    "Grease skillet with vegetable oil , arrange gyoza in a single layer in the pan",
+    "Cook well over low heat",
+    "When bottom of goyza become slightly brown , add 1 / 4 cup of water",
+    "Cover , cook for a couple minutes",
+    "Serve with your favorite gyoza sauce"
+  ],
+  "sourceURL": "https://www.food.com/recipe/254919",
+  "youtubeURL": null
+}

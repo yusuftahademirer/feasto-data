@@ -1,0 +1,76 @@
+{
+  "id": "162834",
+  "name": "7 Layer Mexican Appetizer",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Refried beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Avocados",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lime",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sour cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Taco seasoning",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sharp cheddar cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nacho chip",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Layer #1: spread the entire can of refried beans on a dinner-sized plate / platter",
+    "Layer #2: mash the avocados with a little fresh lime juice & salt to taste",
+    "Spread avocado evenly over refried beans",
+    "Layer #3: mix the taco xeasoning into the container of sour cream",
+    "Spread this evenly over the avocado layer",
+    "Layer #4: chopped green onion",
+    "Layer #5: sliced black olives",
+    "Layer #6: chopped tomatoes--i like to remove the seeds before chopping so it does not turn into 7-layer soup",
+    "Layer #7: freshly grated sharp cheddar cheese",
+    "Serve with nacho chips--i like to get the nacho chips from a local mexican restaurant"
+  ],
+  "sourceURL": "https://www.food.com/recipe/162834",
+  "youtubeURL": null
+}

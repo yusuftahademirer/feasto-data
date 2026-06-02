@@ -1,0 +1,47 @@
+{
+  "id": "112386",
+  "name": "1 Minute Chili Cheese Burritos",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 3,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Fat-free refried beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot taco sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Taco cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour tortillas",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Take one flour tortilla , put it on a microwaveable plate and spread a layer of refried beans in the middle of the tortilla leaving lots of room free on the sides for easy rolling",
+    "I put on about 2t , my husband maybe 3t of beans",
+    "Pour a strip of taco sauce long ways down the beans , about 1-2t",
+    "Grab a handful of cheese and put on top of the beans and sauce , about 1 / 4 cup",
+    "Microwave 30 seconds on high",
+    "Roll it up like a burrito and microwave 20-30 seconds more",
+    "Repeat for remaining tortillas , or for however many you can eat",
+    "All ingredients can stay in fridge for later",
+    "Enjoy while piping hot !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/112386",
+  "youtubeURL": null
+}

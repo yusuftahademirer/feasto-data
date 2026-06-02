@@ -1,0 +1,11 @@
+/popular.json
+  Cache-Control: public, max-age=3600
+
+/categories.json
+  Cache-Control: public, max-age=86400
+
+/categories/*.json
+  Cache-Control: public, max-age=86400
+
+/recipes/*.json
+  Cache-Control: public, max-age=604800

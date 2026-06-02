@@ -1,0 +1,92 @@
+{
+  "id": "181041",
+  "name": "Canh Bun Tau  Fish And Cellophane Noodle Soup",
+  "category": "vietnamese",
+  "area": "Vietnamese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1503764728506-12411c7d7853?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "White fish fillet",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Peanut oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sweet basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried shrimp paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon, juice of",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fish sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cellophane noodles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spring onions",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Chop fish coarsely and cover with ginger , salt and pepper",
+    "Set aside",
+    "Heat oils in large saucepan and fry garlic and onions until light brown , then add turmeric , basil , and shrimp paste",
+    "Add water , lemon juice , nuoc mam and bring to a boil",
+    "Add fish and cook for 4 minutes",
+    "Add noodles and serve in individual bowls with chopped spring onions"
+  ],
+  "sourceURL": "https://www.food.com/recipe/181041",
+  "youtubeURL": null
+}

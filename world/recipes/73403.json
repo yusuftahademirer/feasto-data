@@ -1,0 +1,56 @@
+{
+  "id": "73403",
+  "name": "Eggplant  Aubergine    Mediterranean Style",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Nicoise olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sea salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried oregano",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggplants",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Trim ends of eggplants and cut into inch slices",
+    "Sprinkle with salt and set aside for about 30 minutes",
+    "Rinse and dry eggplants and brush with oil",
+    "Grill or broil , turning once , until dark golden brown on both sides",
+    "Arrange eggplant on a serving dish and just before serving , sprinkle with vinegar , olives , parsley , oregano , salt and pepper",
+    "May be served warm or hot"
+  ],
+  "sourceURL": "https://www.food.com/recipe/73403",
+  "youtubeURL": null
+}

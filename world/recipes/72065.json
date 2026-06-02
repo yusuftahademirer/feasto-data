@@ -1,0 +1,63 @@
+{
+  "id": "72065",
+  "name": "30 Minute Chicken Tamales",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Masa harina flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Corn oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baking powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green tomatillo sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Corn husk",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in warm water until soft",
+    "Using an electric mixer , blend the masa flour , corn oil , salt , baking powder and the chicken broth to obtain a consistent mixture",
+    "Shred the chicken and marinate in the green salsa or tomatillo sauce",
+    "Spread masa evenly over corn husks , and spread a spoonful of marinated chicken on top of the masa",
+    "Fold the sides of the corn husk to center over the masa so that they overlap to make a long package",
+    "Fold the empty part of the husk under so that it rests against the side of the tamale with a seam",
+    "Place the tamales in a steamer and cook tamales for 35-40 minutes",
+    "Check every 20 minutes",
+    "The tamale is cooked when it separates easily from the corn husk"
+  ],
+  "sourceURL": "https://www.food.com/recipe/72065",
+  "youtubeURL": null
+}

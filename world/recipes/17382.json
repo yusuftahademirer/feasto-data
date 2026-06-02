@@ -1,0 +1,80 @@
+{
+  "id": "17382",
+  "name": "Aloo Gobi   Cauliflower And Potatoes",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585938338392-50a59970d8ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "curries",
+    "lactose",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course"
+  ],
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "measure": "As needed"
+    },
+    {
+      "name": "Boiling potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fenugreek seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fennel seed",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whole cumin seed",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried hot red chili pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground turmeric",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garam masala",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large 12 to 14 inch skillet",
+    "When the oil is smoking , scatter in the fenugreek , fennel , cumin and red peppers",
+    "Stir once and add the cauliflower and potatoes",
+    "Stir lightly until coated with spices and oil",
+    "Turn heat down to medium",
+    "Add turmeric , ground coriander , salt and pepper",
+    "Saut for 810 minutes",
+    "Add cup water and cover immediately",
+    "Turn heat very low and steam vegetables for 7-10 minutes",
+    "Sprinkle the garam masala over the vegetables , stir once and serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/17382",
+  "youtubeURL": null
+}

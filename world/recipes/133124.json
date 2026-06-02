@@ -1,0 +1,81 @@
+{
+  "id": "133124",
+  "name": "Daikon Radish With Chicken Korean Style",
+  "category": "korean",
+  "area": "Korean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1553163147-622ab57b6874?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Daikon radish",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken legs with thigh",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili flakes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken stock",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sake",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mirin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Peel daikon and cut into 1 / 2 inch half moons",
+    "Cut chicken into 1 / 2- 1 inch pieces",
+    "Heat oil",
+    "Add daikon and chicken and saut over high heat",
+    "Stir in crushed garlic and chili flakes / pepper",
+    "Add all ingredients for the cooking sauce",
+    "Cook over medium heat , constantly skimming",
+    "When the sauce has nearly evaporated , sprinkle sesame oil",
+    "Remove from heat and serve",
+    "Great with rice",
+    "Even better the day after !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/133124",
+  "youtubeURL": null
+}

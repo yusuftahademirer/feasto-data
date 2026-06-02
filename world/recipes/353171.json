@@ -1,0 +1,52 @@
+{
+  "id": "353171",
+  "name": "Puddingkuchen   Custard Bake",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation",
+    "occasion"
+  ],
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fruit",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine eggs , sugar , flour and milk",
+    "Grease a stoneware dish with all the butter",
+    "Pour in the dough and add fruit , raisins or almonds to taste",
+    "Bake in the cold oven at 180c for about 60 minutes or until custard has set",
+    "You might need to cover the dish after 40 minutes or so",
+    "Allow to stand and set for at least 10 minutes before serving"
+  ],
+  "sourceURL": "https://www.food.com/recipe/353171",
+  "youtubeURL": null
+}

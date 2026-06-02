@@ -1,0 +1,47 @@
+{
+  "id": "316470",
+  "name": "Creamsicle  Smoothie",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Mangoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oranges",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vanilla bean",
+      "measure": "As needed"
+    },
+    {
+      "name": "Strawberries",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ice cubes",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Peel mangoes and remove as much flesh around pit as you can",
+    "Peel oranges",
+    "If you have a good blender , don't worry about the orange seeds , they'll get blended up just fine , as well as the vanilla bean",
+    "Put all ingredients in blender , blend to desired consistency and consume !",
+    "Makes 3 large servings"
+  ],
+  "sourceURL": "https://www.food.com/recipe/316470",
+  "youtubeURL": null
+}

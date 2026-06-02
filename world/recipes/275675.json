@@ -1,0 +1,65 @@
+{
+  "id": "275675",
+  "name": "She Crab  Cream Of Crab Soup",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Cream of mushroom soup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cream of celery soup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Half-and-half",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sherry wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Crabmeat",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Old bay seasoning",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in double boiler",
+    "Simmer until heated through",
+    "Enjoy"
+  ],
+  "sourceURL": "https://www.food.com/recipe/275675",
+  "youtubeURL": null
+}

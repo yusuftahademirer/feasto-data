@@ -1,0 +1,58 @@
+{
+  "id": "74379",
+  "name": "Almond Rice Cookies",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground almonds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg white",
+      "measure": "As needed"
+    },
+    {
+      "name": "Clear honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Almond extract",
+      "measure": "As needed"
+    },
+    {
+      "name": "Blanched almonds",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325f",
+    "Mix the rice , ground almonds , and sugar",
+    "Thoroughly beat in the egg white , honey , and almond essence",
+    "Line a cookie sheet with waxed paper",
+    "Place teaspoons of the mixture well apart on the paper , and press a split almond on top of each",
+    "Bake in the oven for 15-20 minutes , until the cookies are light golden brown",
+    "Leave them to cool slightly on the cookie sheet , then lift them off the waxed paper",
+    "When cool , store in an airtight tin"
+  ],
+  "sourceURL": "https://www.food.com/recipe/74379",
+  "youtubeURL": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "304629",
+  "name": "A Different Greek Salad",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Romaine lettuce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh dill",
+      "measure": "As needed"
+    },
+    {
+      "name": "Scallion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt & freshly ground black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kalamata olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Feta cheese",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cut the romaine leaves crosswise into 1 / 2-inch strips",
+    "Rub a salad bowl with cut garlic",
+    "Add the romaine , dill and scallions",
+    "At this point , salad could be covered and put in refrigerator until ready to serve",
+    "Just before serving , squeeze the lemon juice to taste over the salad and pour the oil on top",
+    "Season the salad generously with salt and pepper and toss well to mix",
+    "Garnish the salad with the olives and feta and serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/304629",
+  "youtubeURL": null
+}

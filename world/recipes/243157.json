@@ -1,0 +1,90 @@
+{
+  "id": "243157",
+  "name": "Crack  Lasagna",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation",
+    "occasion"
+  ],
+  "ingredients": [
+    {
+      "name": "Sweet italian sausage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Broccoli rabe",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pesto sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Low fat cottage cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ricotta cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg",
+      "measure": "As needed"
+    },
+    {
+      "name": "No-boil lasagna noodles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pine nuts",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Brown and crumble sausage in a skillet",
+    "Wash and chop greens",
+    "Remove sausage from pan and drain on paper towels",
+    "Wipe out skillet",
+    "Heat olive oil in skillet and saute garlic",
+    "Add greens to skillet",
+    "Cook uncovered till wilted down",
+    "Add 1 / 3 cup water to skillet",
+    "Cook on low heat covered till greens are tender",
+    "Add the sausage back into the cooked greens",
+    "Set aside 1 / 2 cup to 1 cup of the greens sausage mixture for the top",
+    "Mix cottage cheese , ricotta , pesto and egg together",
+    "Salt and pepper to taste",
+    "Line the bottom of a lasagna pan with the lasagna noodles",
+    "Put half of the sausage / greens mixture on top of noodles followed by ricotta mixture",
+    "Layer with more lasagna noodles",
+    "Top with sausage / greens mixture followed by remaining ricotta mixture",
+    "Place another layer of noodles on top",
+    "Cover with monzerella cheese , reserved sausage / greens mixture and pine nuts if desired",
+    "Bake for 1 / 2 hour till melty and bubbly"
+  ],
+  "sourceURL": "https://www.food.com/recipe/243157",
+  "youtubeURL": null
+}

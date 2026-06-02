@@ -1,0 +1,54 @@
+{
+  "id": "407396",
+  "name": "5 Can Chicken Tortilla Soup",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "weeknight",
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Corn",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Diced tomatoes with green chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooked chicken",
+      "measure": "As needed"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Corn tortilla strips",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Throw all ingredients into a pot , heat , and serve !",
+    "Sour cream , salsa , green onion , and hot sauce are also great toppings",
+    "I was told canned chicken may be substituted for fresh chicken , although i have not tried it that way before",
+    "You may use chicken boullion cubes and water instead of chicken broth"
+  ],
+  "sourceURL": "https://www.food.com/recipe/407396",
+  "youtubeURL": null
+}

@@ -45,7 +45,7 @@
     "nameEn": "Italian",
     "emoji": "🍝",
     "cuisine": "world",
-    "recipeCount": 2
+    "recipeCount": 50
   },
   {
     "id": "mexican",
@@ -53,7 +53,7 @@
     "nameEn": "Mexican",
     "emoji": "🌮",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "chinese",
@@ -61,7 +61,7 @@
     "nameEn": "Chinese",
     "emoji": "🥡",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "indian",
@@ -69,7 +69,7 @@
     "nameEn": "Indian",
     "emoji": "🍛",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "japanese",
@@ -77,7 +77,7 @@
     "nameEn": "Japanese",
     "emoji": "🍣",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "american",
@@ -85,7 +85,7 @@
     "nameEn": "American",
     "emoji": "🍔",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "french",
@@ -93,7 +93,7 @@
     "nameEn": "French",
     "emoji": "🥐",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "greek",
@@ -101,7 +101,7 @@
     "nameEn": "Greek",
     "emoji": "🫒",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "thai",
@@ -109,7 +109,7 @@
     "nameEn": "Thai",
     "emoji": "🍜",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "spanish",
@@ -117,7 +117,7 @@
     "nameEn": "Spanish",
     "emoji": "🥘",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "middle-east",
@@ -125,7 +125,7 @@
     "nameEn": "Middle East",
     "emoji": "🧆",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "korean",
@@ -133,7 +133,7 @@
     "nameEn": "Korean",
     "emoji": "🥢",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "vietnamese",
@@ -141,7 +141,7 @@
     "nameEn": "Vietnamese",
     "emoji": "🍲",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "mediterranean",
@@ -149,7 +149,7 @@
     "nameEn": "Mediterranean",
     "emoji": "🫙",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   },
   {
     "id": "vegetarian",
@@ -157,6 +157,6 @@
     "nameEn": "Vegetarian",
     "emoji": "🥗",
     "cuisine": "world",
-    "recipeCount": 1
+    "recipeCount": 50
   }
 ]

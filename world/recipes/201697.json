@@ -1,0 +1,47 @@
+{
+  "id": "201697",
+  "name": "Cheese  Sauce  Dairy Free",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "lactose",
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Rice milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nutritional yeast flakes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cornstarch",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry mustard",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat \"milk\" or broth on med",
+    "Heat",
+    "Take a couple tbsp of the hot liquid and mix it with the cornstarch until it dissolves",
+    "Set aside",
+    "Add yeast flakes and spices to hot liquid",
+    "Stir until dissolved",
+    "Add cornstarch to mixture and let it bubble on low heat until it reaches the thickness you want",
+    "You can use more or less liquid , depending on just how thick you want it to be",
+    "Enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/201697",
+  "youtubeURL": null
+}

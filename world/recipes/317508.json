@@ -1,0 +1,50 @@
+{
+  "id": "317508",
+  "name": "Cheeeezy  Potatoes",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 65,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Frozen southern style hash brown potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sour cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cream of mushroom soup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheddar cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Poppy seed",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a very large mixing bowl , mix sour cream and soup together",
+    "Add potatoes",
+    "Add in 1 cup of shredded cheese",
+    "Add in poppy seeds",
+    "Mix all together",
+    "Pour into 9 x 13 baking pan",
+    "Top with remaining cheese",
+    "Bake at 350f for 1 hour"
+  ],
+  "sourceURL": "https://www.food.com/recipe/317508",
+  "youtubeURL": null
+}

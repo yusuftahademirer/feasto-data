@@ -1,0 +1,75 @@
+{
+  "id": "425294",
+  "name": "Akoori   Parsi Scrambled Eggs",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585938338392-50a59970d8ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spring onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ghee",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cumin",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Beat eggs and milk together adding salt and pepper",
+    "Heat the ghee in fry pan and add the spring onions chillies and ginger and saute until soft",
+    "Add the turmeric , coriander and tomato and fry a further 2 minutes",
+    "Turn heat low and add the eggs and cumin and cook as for scrambled eggs but do not cook to dry , the eggs should just be cooked",
+    "Serve with chapatis and sprinkle with chopped coriander"
+  ],
+  "sourceURL": "https://www.food.com/recipe/425294",
+  "youtubeURL": null
+}

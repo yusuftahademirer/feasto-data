@@ -1,0 +1,42 @@
+{
+  "id": "321728",
+  "name": "Almendras Saladas  Salted Almonds   Tapas",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 5,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Blanched almonds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sea salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sweet paprika",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Pour 1 inch depth of olive oil into a saucepan and heat to 380 degrees",
+    "Fry the almonds until lightly golden",
+    "Drain , sprinkle with the salt and paprika and mix well",
+    "Place in small bowl for tapas serving"
+  ],
+  "sourceURL": "https://www.food.com/recipe/321728",
+  "youtubeURL": null
+}

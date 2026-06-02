@@ -1,0 +1,58 @@
+{
+  "id": "8559",
+  "name": "Chinese  Chop Suey",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Celery",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground pork",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Beef broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooking oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hamburger buns",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Brown ground meat and onion in a large pot",
+    "Add 1 / 4 cup of soy sauce",
+    "Thinly slice the entire bunch of celery , including the leaves",
+    "Add beef broth and celery",
+    "Bring to a boil",
+    "Reduce heat and simmer until celery is tender",
+    "Add more soy sauce if needed , to taste",
+    "Serve as an open face sandwich over a hamburger bun"
+  ],
+  "sourceURL": "https://www.food.com/recipe/8559",
+  "youtubeURL": null
+}

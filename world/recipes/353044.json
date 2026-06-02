@@ -1,0 +1,58 @@
+{
+  "id": "353044",
+  "name": "Greens To Go  Smoothie",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 6,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Banana",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Apple",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coconut milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flax seed oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oat bran",
+      "measure": "As needed"
+    },
+    {
+      "name": "Greens",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Add all ingredients , except greens to a blender",
+    "Stuff the rest of the blender with greens - about three to five good handfuls - they shrink when blended ! lettuce , romaine , spinach , chard , kale , collards , parsley , or whatever you have in the fridge or garden",
+    "Blend until smooth",
+    "You could use more fruit than greens and slowly add more greens as you get used to them"
+  ],
+  "sourceURL": "https://www.food.com/recipe/353044",
+  "youtubeURL": null
+}

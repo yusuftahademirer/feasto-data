@@ -1,0 +1,79 @@
+{
+  "id": "437642",
+  "name": "Achaari Chicken",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585938338392-50a59970d8ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "curries",
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken breast",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nigella seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mustard seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fennel seed",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried red chili pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomato puree",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kosher salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh cilantro",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a large skillet , heat oil over medium high heat",
+    "Add mustard seeds , nigella seeds , fennel seeds , and dried peppers and saute a few minutes until fragrant",
+    "Add onions and cook until they begin to soften , about 5 minutes",
+    "Remove onions and set aside",
+    "Add chicken and brown on all sides",
+    "Lower heat , add tomato puree and cook until cooked through , about 3 minutes",
+    "Return onions , season with salt , chili powder , and turmeric",
+    "Simmer 5 minutes",
+    "Garnish with cilantro"
+  ],
+  "sourceURL": "https://www.food.com/recipe/437642",
+  "youtubeURL": null
+}

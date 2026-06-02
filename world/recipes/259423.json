@@ -1,0 +1,80 @@
+{
+  "id": "259423",
+  "name": "Beef Tomato",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Boneless round steak",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green peppers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Round onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cornstarch",
+      "measure": "As needed"
+    },
+    {
+      "name": "Wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Catsup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Put meat in marinade for 30 minutes",
+    "Brown meat in 2 t hot oil and turn into bowl",
+    "Add 1 t oil to pan and when hot put in vegetables and stir=fry until veges are just tender",
+    "Do not overcook",
+    "Put beef back in pan and add gravy ingredients",
+    "Cook for 1 minute"
+  ],
+  "sourceURL": "https://www.food.com/recipe/259423",
+  "youtubeURL": null
+}

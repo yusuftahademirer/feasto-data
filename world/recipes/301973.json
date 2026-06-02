@@ -1,0 +1,77 @@
+{
+  "id": "301973",
+  "name": "Aegean Pasta Salad",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pine nuts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon zest",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil-cured olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Medium shrimp",
+      "measure": "As needed"
+    },
+    {
+      "name": "Feta cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt & freshly ground black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat large pot of water to boiling",
+    "Salt water",
+    "Add past and cook according to package directions until tender but still firm to the bite",
+    "Drain , cool under cold running water , and drain again",
+    "Toast pine nuts in a small skillet over low heat until golden",
+    "Transfer pasta to large bowl",
+    "In small bowl , combine oil , vinegar , and lemon zest",
+    "Pour over pasta and toss to coat",
+    "Add nuts , olives , and parsley and combine thoroughly",
+    "Gently stir in tomatoes , shrimp , and cheese , season to taste with salt and pepper",
+    "You can serve at once , or you can refrigerate and serve cold"
+  ],
+  "sourceURL": "https://www.food.com/recipe/301973",
+  "youtubeURL": null
+}

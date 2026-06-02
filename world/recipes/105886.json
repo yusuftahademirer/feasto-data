@@ -1,0 +1,102 @@
+{
+  "id": "105886",
+  "name": "Aloo Dum",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "cuisine",
+    "preparation",
+    "occasion"
+  ],
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Khoya",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh curds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garam masala",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground nutmeg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Jeera seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Jeera powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chilies",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Boil potatoes and peel them",
+    "Prick the potatoes as much as you can with out breaking them",
+    "Sprinkle salt over potatoes",
+    "Take a non-stick pan , put 2 tablespoons butter in it",
+    "Then put the potatoes in , sprinkle a pinch of tumuric powder , and roast it until potatoes are golden colored",
+    "Put the potatoes aside",
+    "In the same pan put rest of the butter , red chili , and cumin seeds to splutter",
+    "Then put the onion and fry it until golden brown",
+    "Then put the ginger paste , coriander and jira powder , and fry for 4-5 minutes",
+    "Then add the sugar and rest of the tumuric powder",
+    "Sugar is just to give color to the gravy",
+    "Then put the curd in it and fry for 5-7 minutes , until it leaves the oil",
+    "Then put in the fried potatoes and water",
+    "Boil for 4-5 minutes and mix the khoya",
+    "Switch off the heat and sprinkle the garam masala and nutmeg powder",
+    "Garnish with coriander leaves"
+  ],
+  "sourceURL": "https://www.food.com/recipe/105886",
+  "youtubeURL": null
+}

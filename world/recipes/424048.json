@@ -1,0 +1,46 @@
+{
+  "id": "424048",
+  "name": "Algerian Date Pudding",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "lactose",
+    "weeknight",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course"
+  ],
+  "ingredients": [
+    {
+      "name": "Dates",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Almonds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Unsalted dry roasted peanuts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg whites",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Mix together dates , sugar , almonds and peanuts",
+    "Fold mixture into egg whiles and place in well-buttered baking dish",
+    "Cook in preheated 325f oven for 35 to 40 min , or until a straw inserted in centre comes out clean",
+    "Serve hot , tepid or cool"
+  ],
+  "sourceURL": "https://www.food.com/recipe/424048",
+  "youtubeURL": null
+}

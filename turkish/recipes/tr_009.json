@@ -19,7 +19,7 @@
     },
     {
       "name": "Domates",
-      "measure": "3 adet (kabuğu soyulmuş)"
+      "measure": "3 adet"
     },
     {
       "name": "Yeşil Biber",
@@ -32,10 +32,6 @@
     {
       "name": "Tuz & Karabiber & Pulbiber",
       "measure": "İsteğe göre"
-    },
-    {
-      "name": "Kaşar Peyniri (Rendelenmiş)",
-      "measure": "Yarım su bardağı (isteğe bağlı)"
     }
   ],
   "instructions": [
@@ -43,7 +39,7 @@
     "Küçük küpler halinde doğranmış domatesleri ekleyin ve tencerenin kapağını kapatıp domatesler suyunu çekip yumuşayana kadar pişirin.",
     "Tuz ve baharatları ekleyin.",
     "Yumurtaları kırın ve hafifçe karıştırarak pişmeye bırakın. Çok kurutmadan nemli bir kıvamdayken ocaktan alın.",
-    "İsteğe bağlı olarak üzerine kaşar rendesi serperek sıcak servis yapın."
+    "İsteğe bağlı olarak kaşar rendesi ekleyerek servis yapın."
   ],
   "sourceURL": null,
   "youtubeURL": null

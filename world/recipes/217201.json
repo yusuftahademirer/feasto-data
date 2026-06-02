@@ -1,0 +1,75 @@
+{
+  "id": "217201",
+  "name": "I Thought I Had Nothing To Eat  Rice",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "White rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tea bag",
+      "measure": "As needed"
+    },
+    {
+      "name": "Seasoning salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cayenne pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Boil water , take off heat and add tea bag",
+    "Let steep",
+    "Add rice and all other ingredients except butter , bring back to a boil",
+    "Reduce heat , cover and simmer for 20 minutes",
+    "Remove from heat , stir in butter until completely melted"
+  ],
+  "sourceURL": "https://www.food.com/recipe/217201",
+  "youtubeURL": null
+}

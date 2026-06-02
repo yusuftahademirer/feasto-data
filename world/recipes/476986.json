@@ -1,0 +1,104 @@
+{
+  "id": "476986",
+  "name": "Bangkok Chicken Curry",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626804475315-9644b37a2f4b?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "curries",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken breasts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Brown rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red bell peppers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Curry paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fish sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bamboo shoots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Light coconut milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Canola oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sriracha sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cracked black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "1",
+    "Bring a large pot of water to a boil",
+    "Add rice and boil for 40 minutes , or until rice is tender , then drain",
+    "2",
+    "While rice is boiling , begin cleaning and prepping the vegetables and other ingredients",
+    "When cooking with a wok , its important to have everything right next to the wok and ready to go because of the high cooking temps",
+    "Youll need to be prepared to be stirring constantly",
+    "3",
+    "When rice has been drained and plated , heat the wok on high until it starts to smoke slightly",
+    "Then add oil and dried chilis",
+    "Next add chicken and cook stirring constantly until its cooked on the outside",
+    "Add curry paste and stir , allowing the curry paste melt in the hot wok",
+    "After its been mixed thoroughly with the chicken- add garlic , sriracha , and fish sauce",
+    "Continue stirring constantly and add bell peppers",
+    "Cook for 1 minute then add onion and cook until fork tender , but still slightly crisp",
+    "Stir in bamboo shoots , salt and pepper",
+    "Stir in coconut milk and bring to a boil",
+    "Turn off heat , add fresh basil and serve over cooked brown rice"
+  ],
+  "sourceURL": "https://www.food.com/recipe/476986",
+  "youtubeURL": null
+}

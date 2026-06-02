@@ -1,0 +1,62 @@
+{
+  "id": "195736",
+  "name": "Quick Buns",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 150,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "preparation",
+    "occasion",
+    "healthy"
+  ],
+  "ingredients": [
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Active dry yeast",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Grease or parchment paper 1 or 2 cookie sheets , depending on the size",
+    "Dissolve sugar in warm water",
+    "Sprinkle yeast over liquid",
+    "Combine milk , salt , and butter in saucepan and heat until warm",
+    "Add yeast and flour",
+    "Work and knead dough for about 10 minutes",
+    "Cover and let rise in warm place for about 30 minutes",
+    "Turn on floured surface and pat to 3 / 4\" thickness",
+    "Cut with round cookie cutter and place on prepared sheets",
+    "Let rise in warm place for about 45 minutes or until double in size",
+    "I usually put some flour in a hand sieve and sprinkle the tops before baking",
+    "Bake at 375 degrees for 15-20 minutes"
+  ],
+  "sourceURL": "https://www.food.com/recipe/195736",
+  "youtubeURL": null
+}

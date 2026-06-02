@@ -1,0 +1,58 @@
+{
+  "id": "416857",
+  "name": "Aubergines Espanol",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1598514983318-291419f67e76?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 11,
+  "difficulty": "easy",
+  "tags": [
+    "weeknight",
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Aubergines",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Slice the aubergines into 1 / 4 \" rings",
+    "Sprinkle with salt and allow to stand for 30 minutes",
+    "Wipe the moisture from the aubergines",
+    "Heat the oil in a frying pan",
+    "Season the flour with salt and pepper",
+    "Coat the slices with flour , then dip into the eggs",
+    "Fry till golden brown , dry on paper towels",
+    "Drizzle the cane honey over the slices and enjoy"
+  ],
+  "sourceURL": "https://www.food.com/recipe/416857",
+  "youtubeURL": null
+}

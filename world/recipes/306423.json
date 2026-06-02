@@ -1,0 +1,53 @@
+{
+  "id": "306423",
+  "name": "Grilled Mediterranean Bread Crisps",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Feta cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "French bread",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kalamata olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oregano leaves",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat gas or charcoal grill",
+    "In small bowl , mix butter and cheese",
+    "Set aside",
+    "Place bread on grill over medium heat",
+    "Cover grill , cook 3-5 minutes or until lightly toasted",
+    "Spread cheese mixture over toasted sides of bread",
+    "Sprinkle with olives",
+    "Place bread , olive sides up , on grill",
+    "Cover",
+    "Cook 3-5 minutes or until cheese is melted",
+    "Garnish with oregano leaves"
+  ],
+  "sourceURL": "https://www.food.com/recipe/306423",
+  "youtubeURL": null
+}

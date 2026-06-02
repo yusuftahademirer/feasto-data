@@ -1,0 +1,52 @@
+{
+  "id": "187840",
+  "name": "Asparagus With Wasabi Mayonnaise Dip",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mayonnaise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Wasabi paste",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Blanch the asparagus in 2 batches in a large saucepan of boiling salted water for 1 minute",
+    "Move to a colander and rinse under cold running water to stop it from cooking",
+    "Drain well and pat dry",
+    "Whisk together mayonnaise , soy sauce , sugar , lemon juice , and wasabi paste until sugar is dissolved",
+    "Serve asparagus with dip",
+    "This dip is also good as a spread for sandwiches and as a topping for cooked veggies ! enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/187840",
+  "youtubeURL": null
+}

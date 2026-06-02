@@ -1,0 +1,64 @@
+{
+  "id": "243249",
+  "name": "From The Field  Balsamic Vinaigrette",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 5,
+  "difficulty": "easy",
+  "tags": [
+    "lactose",
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Red wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Canola oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh sage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh dill",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Mince herbs",
+    "Measurements are approximate",
+    "Use appropriate amount to match your taste",
+    "Combine vinegars and mustard",
+    "Gently whisk in oil",
+    "Add rest of ingredients and mix well"
+  ],
+  "sourceURL": "https://www.food.com/recipe/243249",
+  "youtubeURL": null
+}

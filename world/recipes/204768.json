@@ -1,0 +1,72 @@
+{
+  "id": "204768",
+  "name": "Aloo Bengun",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585938338392-50a59970d8ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "curries",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Aubergine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Potato",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Gingerroot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Curry powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cumin powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Boil the potato with a little salt and turmeric for 10-15 minutes until almost cooked",
+    "Fry the finely chopped onion until translucent in the veg oil",
+    "Add the curry powder and cumin powder and sliced garlic and grated ginger and stir fry for 2 minutes",
+    "Chop the aubergine and add to the pan",
+    "Simmer on a medium heat for 20-30 minutes until the aubergine is soft , 5 minutes before the end add the cooked potatoes , mix well and leave to simmer",
+    "When finished drain as much oil as you can and serve immediately topped with the coriander !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/204768",
+  "youtubeURL": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": "90126",
+  "name": "Aromatic Sticky Rice",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626804475315-9644b37a2f4b?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemongrass",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chile",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh gingerroot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Put all the ingredients into a large saucepan and let stand for five minutes",
+    "Cover the pan and bring to a boil , then reduce the heat and cook over a low heat for 10 minutes until the water is absorbed",
+    "Remove the pan from the heat and allow to stand covered for five further minutes",
+    "Remove the flavourings , if wished , and pile into a serving dish",
+    "Serve immediately , while very hot"
+  ],
+  "sourceURL": "https://www.food.com/recipe/90126",
+  "youtubeURL": null
+}

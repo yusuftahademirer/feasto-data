@@ -1,0 +1,69 @@
+{
+  "id": "9060",
+  "name": "Bulgogi  Marinated Grilled Beef",
+  "category": "korean",
+  "area": "Korean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1553163147-622ab57b6874?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 122,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kiwi fruit",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Slice onion",
+    "Mix all sauce ingredients in a large bowl",
+    "Put beef , onion and mix well",
+    "Let stand 1-2 hours in refrigerator to marinate",
+    "Adjust sweetness and saltiness with more or less sugar and soy sauce",
+    "The best taste is achieved when it is grilled on a charcoal",
+    "You can also cook it on frying pan or broiler"
+  ],
+  "sourceURL": "https://www.food.com/recipe/9060",
+  "youtubeURL": null
+}

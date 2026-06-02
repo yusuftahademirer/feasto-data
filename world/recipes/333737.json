@@ -1,0 +1,63 @@
+{
+  "id": "333737",
+  "name": "Beef And Dumpling Soup",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Beef stock",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fish sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Palm sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dumplings",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander leaves",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Bring all ingredients except dumplings and coriander to the boil and simmer for 10 minutes",
+    "Strain the soup and keep hot",
+    "Boil dumplings in water until they float to the top and are cooked through , about five minutes",
+    "Place dumplings in the bottom of bowls and pour over strained soup",
+    "Garnish with coriander leaves"
+  ],
+  "sourceURL": "https://www.food.com/recipe/333737",
+  "youtubeURL": null
+}

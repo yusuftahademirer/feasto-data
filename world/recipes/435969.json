@@ -1,0 +1,49 @@
+{
+  "id": "435969",
+  "name": "Afghan Tomato  Cucumber And Onion Salad  Salata",
+  "category": "middle-east",
+  "area": "Middle Eastern",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "lactose",
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cucumbers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sweet onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cilantro",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine all of the ingredients and toss well",
+    "Chill",
+    "Enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/435969",
+  "youtubeURL": null
+}

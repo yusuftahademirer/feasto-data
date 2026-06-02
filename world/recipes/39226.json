@@ -1,0 +1,78 @@
+{
+  "id": "39226",
+  "name": "Fire  Sauce",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Tomato paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Canned jalapeno slices",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried onion flakes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cornstarch",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cayenne pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine the tomato paste and water in a saucepan",
+    "Whisk until smooth",
+    "Add the remaining ingredients to the tomato mixture",
+    "Heat over medium / high heat until it begins to boil",
+    "Continue to cook , stirring often , for 4 to 5 minutes",
+    "Remove from heat",
+    "When sauce has cooled , pour into a glass airtight container and refrigerate",
+    "Stores well in the refrigerator"
+  ],
+  "sourceURL": "https://www.food.com/recipe/39226",
+  "youtubeURL": null
+}

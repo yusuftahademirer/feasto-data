@@ -1,0 +1,61 @@
+{
+  "id": "467795",
+  "name": "Beefy  Seitan Log",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 94,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "preparation",
+    "main-dish",
+    "easy"
+  ],
+  "ingredients": [
+    {
+      "name": "Vital wheat gluten",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nutritional yeast",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mushroom stock",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetarian worcestershire sauce",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325f",
+    "Mix together the dry ingredients in a large bowl",
+    "Mix together the liquid ingredients in a smaller bowl , then stir them into the dry ingredients until completely blended",
+    "Knead the dough in the bowl for a couple minutes , then place on a sheet of foil and shape into a log about 6 to 8 inches long",
+    "Wrap the foil tightly around the log and twist the ends",
+    "Bake for 80 minutes",
+    "Slice or chop as desired , and serve immediately or store in the refrigerator or freezer"
+  ],
+  "sourceURL": "https://www.food.com/recipe/467795",
+  "youtubeURL": null
+}

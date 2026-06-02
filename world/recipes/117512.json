@@ -1,0 +1,58 @@
+{
+  "id": "117512",
+  "name": "6 Layer Mediterranean Dip",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "preparation",
+    "occasion"
+  ],
+  "ingredients": [
+    {
+      "name": "Cream cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Feta cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Frozen spinach",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black olives",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl , beat cream cheese , 1 cup of feta , milk and basil until well-blended",
+    "Spread in bottom of 9\" pie plate",
+    "Top with drained spinach , then tomato , then green onion , then black olives , then remaining feta cheese",
+    "Cover and refrigerate about 1 hour before serving"
+  ],
+  "sourceURL": "https://www.food.com/recipe/117512",
+  "youtubeURL": null
+}

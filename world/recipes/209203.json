@@ -1,0 +1,52 @@
+{
+  "id": "209203",
+  "name": "Bake In  Oozy Bread",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Real maple syrup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Refrigerated buttermilk biscuits",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375f",
+    "Place a medium skillet over medium-high heat and add bacon",
+    "Cook until crisp , about 8-10 minutes and reserve",
+    "Place a small saucepot over medium heat and add the maple syrup and the butter -- do not bring up to a boil",
+    "Cook until butter is melted , then turn the heat off and reserve",
+    "Butter or spray a 3x9-inch loaf pan",
+    "Pour a couple tablespoons of the maple / butter sauce in the bottom",
+    "Layer 3 of the biscuits in the bottom of the pan",
+    "Tear up one of the biscuits and fill in any open spaces with the pieces",
+    "Don't worry if any still remain , the ooze will fill those inches",
+    "Sprinkle half of the reserved bacon onto of the biscuits and top with about a 1 / 2 cup of the butter syrup mixture",
+    "Place the remaining biscuits on top , sprinkle the rest of the bacon over them and top with the remaining maple sauce",
+    "Transfer to oven and bake for 25-30 minutes",
+    "Remove and immediately turn over onto a serving dish"
+  ],
+  "sourceURL": "https://www.food.com/recipe/209203",
+  "youtubeURL": null
+}

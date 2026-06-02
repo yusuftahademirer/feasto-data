@@ -1,0 +1,66 @@
+{
+  "id": "98213",
+  "name": "10 Minute Pork Lo Mein",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 19,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pork tenderloin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pork-flavored ramen noodles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Broccoli floret",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat skillet or wok over med-high heat",
+    "Add oil and rotate skillet to coat",
+    "Add pork and stir fry 5 min or until no longer pink",
+    "Gently break apart noodles",
+    "Add to skillet along with water , seasoning packet , and remaining ingredients",
+    "Heat to boiling",
+    "Boil 3-4 minutes , stirring occasionally until noodles are softened",
+    "Diet exchanges: 2 starch , 3 lean meat , 1 / 2 fat"
+  ],
+  "sourceURL": "https://www.food.com/recipe/98213",
+  "youtubeURL": null
+}

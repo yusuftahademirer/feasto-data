@@ -1,0 +1,53 @@
+{
+  "id": "15209",
+  "name": "Potatoes  Pommes Lyonnaise",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1508737027454-e6454ef45afd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 80,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pork fat",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parsley",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Peel and slice the potatoes very thinly",
+    "Peel and slice the onions medium-fine",
+    "Heat the oven to 350 degrees",
+    "Melt the butter and pork fat , , in a large iron frying pan over a medium low heat and add the onions , cooking them for 4 to 5 minutes until transparent before adding the potatoes",
+    "Season well with salt and pepper",
+    "Turn them over occasionally with a wooden spatula and when they have coloured to the blond stage , mix in the parsley",
+    "Empty the contents of the pan into a large oval gratin dish and cook very slowly in the oven for at least 1 hour or until browned and crusted on the surface and melting underneath"
+  ],
+  "sourceURL": "https://www.food.com/recipe/15209",
+  "youtubeURL": null
+}

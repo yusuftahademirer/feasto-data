@@ -1,0 +1,65 @@
+{
+  "id": "26835",
+  "name": "One Bowl  Perfect Pound Cake",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baking soda",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon, rind of",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vanilla",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Yogurt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325 degrees and grease and flour a tube or bundt pan",
+    "Combine all ingredients in a large bowl and blend at low speed",
+    "Beat 3 minutes at medium speed",
+    "Pour into prepared pan",
+    "Bake for 1 hour or until top springs back when touched lightly in center",
+    "Cool in pan for about 15 minutes then remove and cool completely on rack",
+    "Serve plain or glaze if you like"
+  ],
+  "sourceURL": "https://www.food.com/recipe/26835",
+  "youtubeURL": null
+}

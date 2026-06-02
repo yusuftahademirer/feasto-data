@@ -1,0 +1,60 @@
+{
+  "id": "216276",
+  "name": "5 Minute Easy Vegan   Chicken  Guacamole Tacos",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lactose",
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Taco shells",
+      "measure": "As needed"
+    },
+    {
+      "name": "Avocado",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetarian chicken pieces",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine avacado , salt , lemon juice , garlic , and onion",
+    "Mush into a paste",
+    "Microwave nuggets for 1 minute and then chop",
+    "Fill shells with guacamole , 'chicken' , and top with tomatoes !",
+    "Serve with whatever you like",
+    "Enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/216276",
+  "youtubeURL": null
+}

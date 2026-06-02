@@ -1,0 +1,52 @@
+{
+  "id": "134365",
+  "name": "A Whole Chicken On The Grill",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1598514983318-291419f67e76?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 85,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Orange juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomato paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cayenne pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Whole chicken",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Prepare hot coals for grilling",
+    "Stir all the ingredients , except chicken , together in a bowl until smooth",
+    "Brush the chicken well with the sauce",
+    "Grill the chicken over low heat , preferably covered , for about 1 hour and 10 minutes",
+    "Let the chicken stand 10 minutes before carving and serving",
+    "Enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/134365",
+  "youtubeURL": null
+}

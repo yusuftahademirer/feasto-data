@@ -1,0 +1,55 @@
+{
+  "id": "170199",
+  "name": "Hibachi  Style Salad Dressing",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Rice vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mayonnaise",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "To make ginger juice , peel some fresh ginger and cut into small pieces",
+    "Put pieces in a garlic press and squeeze",
+    "Combine all ingredients except mayonnaise in a small bowl and whisk until honey is dissolved",
+    "Add mayonnaise and whisk again until smooth",
+    "Good on green salads , cucumbers , and just about anything else !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/170199",
+  "youtubeURL": null
+}

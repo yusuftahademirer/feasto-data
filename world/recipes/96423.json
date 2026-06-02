@@ -1,0 +1,55 @@
+{
+  "id": "96423",
+  "name": "Ants Creeping On The Trees  Vermicelli   Minced Pork Or Beef",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "lactose",
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Vermicelli",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pork",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dark soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili paste with garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken stock",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Soak the vermicelli in enough boiling water to cover it",
+    "Let stand 20 minutes",
+    "Drain",
+    "Divide into thirds",
+    "Set aside",
+    "Heat oil in wok to 400f",
+    "Stir fry the meat in the oil for about 1 minute",
+    "Add vermicelli , and mix well",
+    "Add the remaining ingredients , and cook for another 2-3 minutes , stirring constantly"
+  ],
+  "sourceURL": "https://www.food.com/recipe/96423",
+  "youtubeURL": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": "54272",
+  "name": "Fool The Meat Eaters  Chili",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Vegetarian ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Jalapenos",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kidney beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Diced tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red pepper flakes",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Rehydrate tvp if needed",
+    "Spray or oil a large pot",
+    "Chop the onion , hot peppers , and garlic and add to the pot",
+    "Chop remaining vegetables , add to pot and brown lightly",
+    "Add remaining ingredients",
+    "Stir well and simmer at least 15 minutes",
+    "Taste adjust spices to taste",
+    "Simmer an additional 15 minutes or so",
+    "Serve with garlic bread , toast , or on rice"
+  ],
+  "sourceURL": "https://www.food.com/recipe/54272",
+  "youtubeURL": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "283105",
+  "name": "Cabbage Omelet",
+  "category": "vietnamese",
+  "area": "Vietnamese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1503764728506-12411c7d7853?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cabbage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Canola oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet on medium heat",
+    "Add oil to skillet and heat , do not burn",
+    "Add onions to hot oil and saute until well cooked but not yet browned , about 7 minutes",
+    "Add cabbage to skillet and saute , stirring constantly until cooked and takes on a translucent appearance",
+    "Onions should be starting to brown when cabbage is cooked",
+    "About 5 to 7 minutes",
+    "Stir in salt and pepper",
+    "Pour beaten eggs over cabbage / onion mixture and mix into vegetables , cook until eggs are cooked",
+    "About 3 minutes",
+    "Serve as a side dish with a main meat course or as a main dish with steamed jasmine white rice"
+  ],
+  "sourceURL": "https://www.food.com/recipe/283105",
+  "youtubeURL": null
+}

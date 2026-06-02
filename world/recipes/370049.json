@@ -1,0 +1,83 @@
+{
+  "id": "370049",
+  "name": "Arroz Al Horno  Baked Spanish Rice",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1598514983318-291419f67e76?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground pork",
+      "measure": "As needed"
+    },
+    {
+      "name": "Potato",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chickpeas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chorizo sausages",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken stock",
+      "measure": "As needed"
+    },
+    {
+      "name": "Saffron strands",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees",
+    "Heat oil in pan on medium",
+    "Saut pork for 3 minutes",
+    "Add potato rounds",
+    "Saute for 3 minutes",
+    "Add the chickpeas and tomatoes",
+    "Lower the heat and cook gently for 5-7 minutes",
+    "Mix in chorizo and rice",
+    "Stir well",
+    "Pour in stock and crumbled saffron",
+    "Bring to boil",
+    "Place mixture in a casserole dish",
+    "Cover",
+    "Place a halved garlic head on top",
+    "Bake in a medium oven for about 45 minutes",
+    "Remove garlic head before serving",
+    "Taste for salt preferences"
+  ],
+  "sourceURL": "https://www.food.com/recipe/370049",
+  "youtubeURL": null
+}

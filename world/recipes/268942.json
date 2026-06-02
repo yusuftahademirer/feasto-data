@@ -1,0 +1,62 @@
+{
+  "id": "268942",
+  "name": "Cheesy  Tuna Casserole",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Kraft macaroni and cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cream of celery soup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tuna",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mushrooms",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat oven to 350f",
+    "Prepare mac and cheese as directed on the package , except using 3 / 4 cup milk",
+    "Cook onion , green or red pepper and celery in butter until tender",
+    "Add to the prepared mac and cheese the remaining ingredients",
+    "Mix well",
+    "Pour into a 1 1 / 2-quart casserole",
+    "Bake 30 minutes",
+    "Garnish with pepper rings if desired"
+  ],
+  "sourceURL": "https://www.food.com/recipe/268942",
+  "youtubeURL": null
+}

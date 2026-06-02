@@ -1,0 +1,47 @@
+{
+  "id": "30473",
+  "name": "Denauseating  With Ginger Tea",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tea bag",
+      "measure": "As needed"
+    },
+    {
+      "name": "Honey",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Bring water to boil with crushed ginger in it",
+    "Let it simmer for 5-7 minutes on medium heat",
+    "Strain and pour in the cup / mug , add tea bag and stir honey",
+    "You can add a dash of milk if you want",
+    "It is very good to sip anyway"
+  ],
+  "sourceURL": "https://www.food.com/recipe/30473",
+  "youtubeURL": null
+}

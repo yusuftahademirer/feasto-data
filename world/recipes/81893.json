@@ -1,0 +1,62 @@
+{
+  "id": "81893",
+  "name": "Beef Misoyaki",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 98,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Boneless rib-eye steaks",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Light miso",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sake",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooking oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Freeze steaks for 45 minutes or so until they are firm and partially frozen , then remove excess fat and slice very thin",
+    "Place in a large bowl or resealable plastic bag",
+    "In a small skillet , toast sesame seeds over high heat , swirling pan , being careful not to burn",
+    "Remove from heat and cool",
+    "Place sesame seeds in a mortar and grind finely or you may use a small coffee grinder set on pulse",
+    "Place sesame seeds in a small bowl and mix with miso , soy sauce , sugar , and sake",
+    "Add mixture to meat and work through as a marinade",
+    "Allow meat to marinate for 30 minutes to 1 hour",
+    "Heat a large skillet or griddle on high and add a little oil , and cook beef without crowding",
+    "Cook beef about 3-5 minutes or until done to your liking",
+    "Or you may place meat in broiler or grill and cook several minutes or until cooked through",
+    "Serve with steamed rice if you wish , and a stir-fried vegetable cooked with ginger and a little soy goes nicely as well"
+  ],
+  "sourceURL": "https://www.food.com/recipe/81893",
+  "youtubeURL": null
+}

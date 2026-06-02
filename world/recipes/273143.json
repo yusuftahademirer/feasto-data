@@ -1,0 +1,80 @@
+{
+  "id": "273143",
+  "name": "3 Way Tex Mex Chicken  Oamc",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 255,
+  "difficulty": "hard",
+  "tags": [
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation",
+    "north-american"
+  ],
+  "ingredients": [
+    {
+      "name": "Diced tomatoes with jalapenos",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salsa verde",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Minced garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Boneless skinless chicken thighs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Yellow pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Corn",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In 5-5-1 / 2 quart slow cooker combine the tomatoes , 3 / 4 cup of salsa , cumin , garlic , salt and pepper",
+    "Add chicken , peppers , and onion and stir to coat",
+    "Cover and cook on high for 3-1 / 2 hours or low for 4-1 / 2 hours",
+    "Remove chicken from slow cooker to cutting board and let cool slightly",
+    "Strain mixture over a large bowl or measuring cup and set liquid aside",
+    "Return vegetables to slow cooker",
+    "Stir in black beans and corn",
+    "Cover and cook on high for 10 minutes",
+    "Shred chicken and stir back into slow cooker with the remaining salsa and 1 cup of the remaining liquid",
+    "Mixture can be used in tacos , quesadillas , burritos , or frozen in batches for quick meals"
+  ],
+  "sourceURL": "https://www.food.com/recipe/273143",
+  "youtubeURL": null
+}

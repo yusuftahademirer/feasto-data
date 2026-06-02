@@ -1,0 +1,63 @@
+{
+  "id": "155383",
+  "name": "Almond Chinese Chews",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 48,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Granulated sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Almond filling",
+      "measure": "As needed"
+    },
+    {
+      "name": "All-purpose flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baking powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Powdered sugar",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300f grease 13x9\" baking pan",
+    "Set aside",
+    "Beat granulated sugar and eggs in medium bowl with electric mixer until thoroughly blended",
+    "Add almond filling",
+    "Beat until blended",
+    "Sift together flour , baking powder and salt",
+    "Fold into almond mixture",
+    "Spread batter evenly in prepared pan",
+    "Bake 40 to 45 minutes or until wooden toothpick inserted into center comes out clean",
+    "Cool completely in pan on wire rack",
+    "Cut into 2\" x 1",
+    "5\" bars",
+    "Dust with powdered sugar"
+  ],
+  "sourceURL": "https://www.food.com/recipe/155383",
+  "youtubeURL": null
+}

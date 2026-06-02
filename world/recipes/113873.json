@@ -1,0 +1,42 @@
+{
+  "id": "113873",
+  "name": "Basic Thai Sweet Chili Sauce",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1559314809-0d155014e29e?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chilies",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat sugar and vinegar in a saucepan until sugar dissolves",
+    "Boil the mixture until it starts to thicken",
+    "Remove from heat and stir in salt and chili",
+    "Allow to cool before serving"
+  ],
+  "sourceURL": "https://www.food.com/recipe/113873",
+  "youtubeURL": null
+}

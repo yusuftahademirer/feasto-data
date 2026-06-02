@@ -1,0 +1,42 @@
+{
+  "id": "111875",
+  "name": "The Elvis  Smoothie",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 2,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Banana",
+      "measure": "As needed"
+    },
+    {
+      "name": "Natural-style peanut butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "2% low-fat milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar-free non-fat vanilla yogurt",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Place all ingredients in blender",
+    "Blend until very smooth",
+    "Serve immediately",
+    "For a vegan smoothie , make with soy milk and soy yogurt"
+  ],
+  "sourceURL": "https://www.food.com/recipe/111875",
+  "youtubeURL": null
+}

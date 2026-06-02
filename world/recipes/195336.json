@@ -1,0 +1,45 @@
+{
+  "id": "195336",
+  "name": "Banana In Coconut Milk",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626804475315-9644b37a2f4b?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coconut milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mint leaf",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat coconut milk until boiled",
+    "Add banana , sugar and salt and cook for 5 minutes",
+    "Add mint leaf and turn off the heat"
+  ],
+  "sourceURL": "https://www.food.com/recipe/195336",
+  "youtubeURL": null
+}

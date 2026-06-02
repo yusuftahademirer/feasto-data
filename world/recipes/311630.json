@@ -1,0 +1,98 @@
+{
+  "id": "311630",
+  "name": "Anything Lo Mein",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Linguine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hoisin sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Toasted sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cornstarch",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mushrooms",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Broccoli floret",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar snap pea",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bok choy",
+      "measure": "As needed"
+    },
+    {
+      "name": "Boneless skinless chicken breasts",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package directions until just tender",
+    "Drain out the water",
+    "Rinse the noodles with cold water , drain them well , and then set them aside",
+    "In a small bowl , mix the hoisin sauce , chicken broth , soy sauce , sesame oil , and cornstarch",
+    "Then set the sauce aside",
+    "Heat 1 tablespoon of the vegetable oil in a large wok or nonstick skillet over medium-high heat",
+    "Stir-fry the ginger for 30 seconds",
+    "Then add the onion and stir-fry for 2 minutes",
+    "Add the mushrooms and carrots and stir-fry 2 minutes more",
+    "Finally , add the broccoli , pea pods , and bok choy",
+    "Stir-fry the vegetables for 2 more minutes , then transfer them to a plate",
+    "Heat the remaining tablespoon of oil in the pan",
+    "Add chicken and stir-fry it until it's no longer pink , about 3 to 4 minutes",
+    "Add the cooked noodles , vegetables , and sauce",
+    "Turn the heat down to medium",
+    "Using two spatulas or wooden spoons , lightly toss the mixture until heated through , about 3 minutes"
+  ],
+  "sourceURL": "https://www.food.com/recipe/311630",
+  "youtubeURL": null
+}

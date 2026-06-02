@@ -1,0 +1,46 @@
+{
+  "id": "19208",
+  "name": "Red Hot  Applesauce",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 135,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "main-ingredient",
+    "preparation",
+    "occasion"
+  ],
+  "ingredients": [
+    {
+      "name": "Apples",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red cinnamon candies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar substitute",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Core the apples , but it isn't necessary to peel them",
+    "I like the texture of having the peels in the sauce",
+    "Dice them very fine",
+    "Tumble everything into a large pot and bring to a boil",
+    "Reduce to the slowest simmer you can arrange on your stove so the sauce won't burn on the bottom of the pot",
+    "Cover , stirring occasionally , until you reach the consistency you want",
+    "The longer , the finer texture",
+    "I usually cook it about 3 hours"
+  ],
+  "sourceURL": "https://www.food.com/recipe/19208",
+  "youtubeURL": null
+}

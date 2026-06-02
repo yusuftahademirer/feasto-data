@@ -1,0 +1,88 @@
+{
+  "id": "395845",
+  "name": "Braised Mediterranean Chicken With Polenta",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 55,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken thighs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coarse salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oregano leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry white wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Low sodium chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Zucchini",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Yellow cornmeal",
+      "measure": "As needed"
+    },
+    {
+      "name": "Unsalted butter",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Use a dutch oven to heat oil",
+    "Season the chicken with the salt and pepper",
+    "Brown chicken on all sides in batches",
+    "Drain the fat , but reserve 1 tablespoon and return the pot to heat",
+    "Cook garlic , tomatoes and oregano about 30 seconds",
+    "Add wine and scrape up the browned bits for 1 minute",
+    "Add broth and chicken to the pot and bring to a boil",
+    "Reduce to a simmer , cover and cook for 15 minutes",
+    "Add the zucchini and season again with salt and pepper",
+    "Cover and simmer for an additional 15 minutes before stirring in lemon juice",
+    "Meanwhile , combine 4 1 / 2 cups of water , 1 1 / 2 tsp salt and 1 / 4 tsp pepper in a large saucepan and bring to a boil",
+    "Slowly whisk in cornmeal",
+    "Reduce heat to medium-low and cook , whisking frequently for 20-25 minutes",
+    "Whisk in butter"
+  ],
+  "sourceURL": "https://www.food.com/recipe/395845",
+  "youtubeURL": null
+}

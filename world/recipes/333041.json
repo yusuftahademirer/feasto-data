@@ -1,0 +1,65 @@
+{
+  "id": "333041",
+  "name": "Clay Pot Pork",
+  "category": "vietnamese",
+  "area": "Vietnamese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1503764728506-12411c7d7853?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 115,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fish sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Shallots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Scallions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Boneless pork shoulder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Place sugar in a heavy-bottomed saucepan over medium heat",
+    "Allow to remain over heat until fully melted , and approximately the color of a us copper penny",
+    "Carefully add broth",
+    "It will steam and bubble wildly , and the caramel will seize",
+    "This is expected , and as you continue to apply heat , the caramel will dissolve back into a nice syrup",
+    "Add fish sauce , shallot , garlic , and white parts of scallions",
+    "Bring to a simmer until vegetables soften",
+    "Sprinkle pork with ground black pepper",
+    "Toss to coat , and add to pot",
+    "Simmer very low for 75-90 minutes",
+    "Serve with rice and top with scallion greens"
+  ],
+  "sourceURL": "https://www.food.com/recipe/333041",
+  "youtubeURL": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "425598",
+  "name": "Almond Milk  Vegan  Raw  Gluten Free",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585938338392-50a59970d8ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "lactose",
+    "weeknight",
+    "15-minutes-or-less",
+    "time-to-make",
+    "course"
+  ],
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Molasses",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Add all ingredients to blender",
+    "Process at low speed for 1 minute , and 3 minutes at high speed until smooth",
+    "Strain the mixture through a cheese cloth to remove remaining solids",
+    "Refrigerate until ready to use"
+  ],
+  "sourceURL": "https://www.food.com/recipe/425598",
+  "youtubeURL": null
+}

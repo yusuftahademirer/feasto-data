@@ -1,0 +1,52 @@
+{
+  "id": "267999",
+  "name": "Asian Green Beans",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Fresh green beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Wash the beans and snap the ends off",
+    "Blanche them in boiling water for 3-4 minutes",
+    "Drain immediately and put into an ice cold water bath to retain crispness",
+    "Mix remaining ingredients in a small bowl",
+    "Pour over cooled green beans and refrigerate for at least half an hour , then serve",
+    "The longer they marinate the more intensely the flavors will develop"
+  ],
+  "sourceURL": "https://www.food.com/recipe/267999",
+  "youtubeURL": null
+}

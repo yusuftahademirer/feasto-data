@@ -1,0 +1,85 @@
+{
+  "id": "279052",
+  "name": "Cheesy  Vegan Lasagna",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "lactose",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Spaghetti sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spinach leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Firm tofu",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cream cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nutmeg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lasagna noodles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nutritional yeast",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Slice carrots and steam , set aside",
+    "Saute parsley and garlic for 1 minute in an oiled pan",
+    "Add carrots and veggie broth",
+    "Simmer uncovered for 5 minutes",
+    "Add tofu , vegan cream cheese , and lemon juice",
+    "Stir well",
+    "Cook over medium heat stirring constantly until \"cheese\" starts to melt",
+    "Stir in nutmeg and nutritional yeast",
+    "Remove from heat",
+    "Keep warm",
+    "Place 3 lasagna noodles in bottom of 11x7 baking dish",
+    "Layer carrot mixture , noodles , tomato sauce and spinach until done",
+    "Top with spaghetti sauce",
+    "Cover and bake 15 minutes at 375 degrees",
+    "Uncover and bake an additional 30 minutes until thoroughly heated"
+  ],
+  "sourceURL": "https://www.food.com/recipe/279052",
+  "youtubeURL": null
+}

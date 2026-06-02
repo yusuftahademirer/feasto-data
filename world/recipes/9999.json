@@ -1,0 +1,77 @@
+{
+  "id": "9999",
+  "name": "Seva   Bean   Vegetable Stew",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Ghee",
+      "measure": "As needed"
+    },
+    {
+      "name": "Kidney beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garam masala",
+      "measure": "As needed"
+    },
+    {
+      "name": "Curry powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tabasco sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cook onions& garlic with ghee on low heat",
+    "When onions golden , add carrots and shortly after potatoes",
+    "After 2 minutes add beans",
+    "Do not rinse beans",
+    "Add bean\"juice\" as well",
+    "Cover veges with water plus a little bit",
+    "Add curry / garam masala",
+    "Bring to a boil",
+    "Simmer for 20 minutes or until veqes are done",
+    "Salt , pepper and spice to taste",
+    "If needed , add corn starch to thicken"
+  ],
+  "sourceURL": "https://www.food.com/recipe/9999",
+  "youtubeURL": null
+}

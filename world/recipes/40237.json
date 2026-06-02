@@ -1,0 +1,65 @@
+{
+  "id": "40237",
+  "name": "Wacky Cake",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cocoa",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baking soda",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vanilla",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Sift together and make 3 holes in dry ingredients",
+    "In first hole , pour vegetable oil",
+    "In second hole , pour vinegar",
+    "In third hole , pour vanilla",
+    "Pour cold water over all",
+    "Mix well with fork or whisk , but do not beat",
+    "Bake in greased 8 x 8 pan for about 35 minutes at 350 deg f"
+  ],
+  "sourceURL": "https://www.food.com/recipe/40237",
+  "youtubeURL": null
+}

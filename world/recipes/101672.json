@@ -1,0 +1,49 @@
+{
+  "id": "101672",
+  "name": "Baked Mochi",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Brown sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mochiko sweet rice flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baking soda",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Place frozen coconut milk in a glass mixing bowl and cook in microwave oven for three minutes",
+    "Break apart any frozen chunks and continue to cook one to three minutes longer , or till thawed",
+    "Add water and brown sugar",
+    "Mix well",
+    "Stir in mochiko and baking soda",
+    "Mix until smooth",
+    "Pour into buttered 8 inch square baking dish and cook 15 minutes , rotating dish a quarter turn every three minutes"
+  ],
+  "sourceURL": "https://www.food.com/recipe/101672",
+  "youtubeURL": null
+}

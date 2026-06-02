@@ -1,0 +1,69 @@
+{
+  "id": "119225",
+  "name": "3 Cheese   Crab Quesadillas",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 13,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Crabmeat",
+      "measure": "As needed"
+    },
+    {
+      "name": "Monterey jack cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheddar cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Seafood cocktail sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tortilla",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine crabmeat , monterey jack cheese , mozzarella cheese , cheddar cheese , 1 / 4 cup cocktail sauce , green onions and garlic in medium bowl",
+    "Mix well",
+    "Spread about 1 / 2 cup mixture onto 2 tortillas",
+    "Sprinkle evenly with remaining monterey jack cheese",
+    "Top with remaining tortillas",
+    "Melt 1 tablespoons butter on cast iron griddle over medium-high heat",
+    "Add one quesadilla",
+    "Cook for 2 minutes on each side or until golden brown",
+    "Repeat",
+    "Cut each into eight wedges",
+    "Serve with cocktail sauce for dipping"
+  ],
+  "sourceURL": "https://www.food.com/recipe/119225",
+  "youtubeURL": null
+}

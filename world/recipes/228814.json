@@ -1,0 +1,88 @@
+{
+  "id": "228814",
+  "name": "Chunky Chicken Soup  Mediterranean Style",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Low-sodium tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Low sodium chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Long-grain white rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Boneless skinless chicken breast",
+      "measure": "As needed"
+    },
+    {
+      "name": "Frozen green beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a stockpot or 5-quart dutch oven , heat the oil over moderate heat",
+    "Add the onion , green pepper , and garlic",
+    "Saut until soft",
+    "Stir in tomatoes and juice , chicken stock , water , rice , and basil",
+    "Bring to a boil",
+    "Simmer gently , covered , for 10 minutes",
+    "Add carrots and cook about 5 minutes",
+    "Add chicken , green beans , and olives",
+    "Cook , uncovered , for 5 minutes until chicken is cooked through",
+    "Add black pepper"
+  ],
+  "sourceURL": "https://www.food.com/recipe/228814",
+  "youtubeURL": null
+}

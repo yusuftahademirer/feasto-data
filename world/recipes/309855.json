@@ -1,0 +1,85 @@
+{
+  "id": "309855",
+  "name": "A Perfect Salade Nicoise",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1508737027454-e6454ef45afd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "New potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nicoise olive",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hard-cooked eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tuna",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ground pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dijon mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Anchovy fillets",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Boil potatoes in salted water to cover until tender , about 20 minutes",
+    "Remove with slotted spoon and let cool",
+    "Add beans to same water and boil until crisp-tender , about 7 minutes",
+    "Drain and cool under cold running water",
+    "Arrange potatoes , beans , olives , eggs , and tomato on large platter",
+    "Spoon tuna into center",
+    "Whisk vinegar , mustard , 1 / 8 t",
+    "Salt , and pepper to taste in small bowl until blended",
+    "Gradually pour in oil , whisking until emulsified",
+    "Whisk in parsley , then drizzle vinaigrette over salad",
+    "Top with anochovies , if desired"
+  ],
+  "sourceURL": "https://www.food.com/recipe/309855",
+  "youtubeURL": null
+}

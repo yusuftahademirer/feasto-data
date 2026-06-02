@@ -1,0 +1,55 @@
+{
+  "id": "48131",
+  "name": "Healthy  Pumpkin Pie",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Skim milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Egg whites",
+      "measure": "As needed"
+    },
+    {
+      "name": "Reduced fat graham cracker crust",
+      "measure": "As needed"
+    },
+    {
+      "name": "Splenda sugar substitute",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pumpkin pie spice",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425f",
+    "Mix pumpkin , milk , and egg whites until smooth",
+    "Gradually stir in splenda",
+    "Add the pumpkin pie spice",
+    "Taste and add more if need be",
+    "Pour into crust and spread evenly",
+    "Bake in the oven for 15 minutes then reduce the temperature to 350f and bake for another 45 minutes",
+    "Let cool and serve your favorite way",
+    "To make to crust less likely to turn soggy , beat some egg whites and brush over the crust and bake at 350f for about 5 minutes"
+  ],
+  "sourceURL": "https://www.food.com/recipe/48131",
+  "youtubeURL": null
+}

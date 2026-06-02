@@ -1,0 +1,94 @@
+{
+  "id": "54856",
+  "name": "Bbq Duck And Ramen Soup",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken stock",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chilies",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemongrass",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chinese barbecued duck",
+      "measure": "As needed"
+    },
+    {
+      "name": "Shallots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ramen noodles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bean sprouts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chile",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bok choy",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "White pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine stock and water into saucepan and heat till liquid is simmering",
+    "Add , galangal , chillies and lime juice to saucepan",
+    "Bruise lemon grass and coriander , and add to saucepan",
+    "Simmer liquid for 20 minutes",
+    "Strain liquid , and return to saucepan",
+    "Heat liquid with duck and shallots",
+    "Boil ramen noodles in separate saucepan for 3-5 minutes or till tender",
+    "Drain noodles",
+    "Add noodles and bak choy to soup stock and simmer for 5 minutes",
+    "Ladle soup to serving bowls , garnishing with bean sprouts , chilli strips and coriander",
+    "Add salt and pepper to taste",
+    "Enjoy hot"
+  ],
+  "sourceURL": "https://www.food.com/recipe/54856",
+  "youtubeURL": null
+}

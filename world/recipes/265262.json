@@ -1,0 +1,68 @@
+{
+  "id": "265262",
+  "name": "Winter  Marinara",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation",
+    "occasion"
+  ],
+  "ingredients": [
+    {
+      "name": "Whole tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cinnamon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Beef stock",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a medium sized saucepan heat olive oil over medium heat",
+    "Add onion , garlic , basil , salt , pepper , and cinnamon",
+    "Cook mixture until onion and garlic are translucent , 5-7 minutes , stirring occasionally",
+    "Reduce heat if onions and / or garlic start to brown",
+    "Empty the tomatoes into a separate bowl",
+    "Using your hands , squeeze and crush each tomato",
+    "Add the tomatoes and juice to the onion and garlic mixture",
+    "Add the cup of beef stock",
+    "Over medium heat , continue cooking uncovered until sauce reduces by 1 / 3 , stirring occasionally to make sure sauce doesn't burn",
+    "Use the sauce in a meaty lasagna or sub it for any other sauce in any other recipe for a change"
+  ],
+  "sourceURL": "https://www.food.com/recipe/265262",
+  "youtubeURL": null
+}

@@ -1,0 +1,91 @@
+{
+  "id": "485171",
+  "name": "Aloo Baingan Sabzi",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Eggplants",
+      "measure": "As needed"
+    },
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cumin seed",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garam masala",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander leaves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cooking oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a medium pot with a lid , heat 1 tbsp oil",
+    "Add the cubed potatoes and sautee over low-med heat for 8-10 minutes until they are lighly crisped and colored on the outside",
+    "Remove and set aside",
+    "Add another 1 / 2 tbsp oil , heat , then add the chopped eggplants",
+    "Saute for 7-8 minutes , then remove and set aside",
+    "Add another 1 / 2 tbsp oil to the same pan and heat",
+    "When hot , add the cumin seeds and let them turn slightly brown",
+    "Then add the ginger paste , garlic , turmeric , chili powder , coriander and 3 tbsp water",
+    "Stir to combine",
+    "Add the chopped tomatoes and saute for 4 minutes",
+    "Add the potatoes and the eggplant to the tomato base and mix well",
+    "Add salt and garam masala , stir to combine",
+    "Then add 1 / 4 cup water , combine , then bring to a simmer for 8-10 minutes",
+    "Stir occasionally to make sure it doesn't dry out or stick to the pan and burn",
+    "Remove from heat and transfer to a serving bowl",
+    "Garnish with fresh coriander leaves",
+    "Serve with rice or rotis"
+  ],
+  "sourceURL": "https://www.food.com/recipe/485171",
+  "youtubeURL": null
+}

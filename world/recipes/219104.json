@@ -1,0 +1,57 @@
+{
+  "id": "219104",
+  "name": "Afelia  Pork In Coriander   Wine",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Pork loin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sea salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry red wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Season the pork cubes with the salt , and pepper",
+    "Combine the coriander seeds with the wine in a large dish , add pork , and cover",
+    "Refrigerate for 2-4 hours , stirring once or twice",
+    "Heat oil in a large enough pot",
+    "Using a slotted spoon , remove pork from the wine marinade , and reserve the marinade",
+    "Brown pork , turning frequently , until well browned on all sides , about 10 minutes",
+    "Add reserved marinade back into pot",
+    "Add enough water to just cover the meat",
+    "Bring to a boil",
+    "Reduce heat , cover pot , and simmer 30-45 minutes , until meat is fork tender and most of the liquid has evaporated",
+    "Taste , and re season with more salt and pepper , if desired"
+  ],
+  "sourceURL": "https://www.food.com/recipe/219104",
+  "youtubeURL": null
+}

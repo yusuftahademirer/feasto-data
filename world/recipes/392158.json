@@ -1,0 +1,86 @@
+{
+  "id": "392158",
+  "name": "Biggest Loser  Fish Tacos",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lime juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Paprika",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tortillas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Avocado",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salsa",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh cilantro",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cabbage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot sauce",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "To make the fish: place the fish in a shallow baking dish and sprinkle with the lime juice , paprika , salt , black pepper , and chill powder",
+    "Cover , refrigerate , and marinate for about 30 minutes",
+    "Preheat the grill to medium-high heat",
+    "Lightly coat a 24' x 12\" piece of foil with olive oil cooking spray",
+    "Place the fish in a single layer in the center of the foil",
+    "Fold the foil over the and fold the ends upward to seal in the fish",
+    "Place the foil packet on the preheated grill",
+    "Cook for 7 to 10 minutes , or until the fish is opaque",
+    "Remove from the grill",
+    "To assemble the tacos: warp the tortillas in foil and place them on the grill to warm for 2 minutes",
+    "Spread about one-eighth of the mashed avocado on each tortilla and top with one-eight of the the fish",
+    "Sprinkle each with cheese , salsa , cilantro , cabbage , and hot sauce , if desired"
+  ],
+  "sourceURL": "https://www.food.com/recipe/392158",
+  "youtubeURL": null
+}

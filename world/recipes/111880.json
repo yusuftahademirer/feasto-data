@@ -1,0 +1,72 @@
+{
+  "id": "111880",
+  "name": "3 Layer Mexican Party Dip",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Refried beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Guacamole",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sour cream",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sharp cheddar cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Plum tomato",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pitted black olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Scallions",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Spread the beans over the bottom of a 10\" round glass baking dish",
+    "Cover in guacamole",
+    "In a separate bowl , combine the sour cream and spices",
+    "Spread over the guacamole with spatula",
+    "Sprinkle the top with the cheese , tomatoes , olives and scallions",
+    "Serve at room temperature or bake in a 425f oven for 15 minutes and serve hot"
+  ],
+  "sourceURL": "https://www.food.com/recipe/111880",
+  "youtubeURL": null
+}

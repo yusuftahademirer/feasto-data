@@ -1,0 +1,97 @@
+{
+  "id": "24839",
+  "name": "Army Soup",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1598514983318-291419f67e76?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green capsicum",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rump steak",
+      "measure": "As needed"
+    },
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pumpkin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Paprika",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Beef stock powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Saffron",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bay leaf",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry sherry",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot",
+    "Saute onion , garlic , capsicum and tomato",
+    "Add beef and cook until browned",
+    "Add sherry and let it reduce a little and add some of the water to cover the beef",
+    "Let simmer for about 20 minutes",
+    "A pressure cooker takes less time",
+    "Add rest of the ingredients and water and bring to the boil",
+    "Lower heat and simmer for a further 1 hour or until potato is soft and soup appears thickened",
+    "If using a pressure cooker , follow steps 1 to 4 then follow step 7 and place lid on pressure cooker and time from when the pressure starts to build up and shake the cap for 12 minutes cooking time on medium heat",
+    "Sometimes when using a pressure cooker it becomes quite watery",
+    "If you like to thicken up the soup just use 1 tablespoon of corn flour mixed with a little water and stir into the soup until thickened"
+  ],
+  "sourceURL": "https://www.food.com/recipe/24839",
+  "youtubeURL": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "439480",
+  "name": "Barbecued Beef  Pulgogi",
+  "category": "korean",
+  "area": "Korean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1553163147-622ab57b6874?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "cuisine",
+    "preparation",
+    "asian"
+  ],
+  "ingredients": [
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Beef sirloin tip",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl , combine the soy sauce , sesame oil , sugar , black pepper , garlic , green onions and sesame seeds",
+    "Slice beef thinly into x 2 inch pieces",
+    "Add meat to soy sauce mixture and mix well",
+    "Cover and refrigerate 1-2 hours",
+    "Preheat oven to broil",
+    "Broil on broiler rack or grill meat for 2-3 minutes per side or until brown",
+    "Serve with vegetable side dishes and rice"
+  ],
+  "sourceURL": "https://www.food.com/recipe/439480",
+  "youtubeURL": null
+}

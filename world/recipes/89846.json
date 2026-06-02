@@ -1,0 +1,59 @@
+{
+  "id": "89846",
+  "name": "Almond Veloute Sauce",
+  "category": "french",
+  "area": "French",
+  "thumbnailURL": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Margarine",
+      "measure": "As needed"
+    },
+    {
+      "name": "All-purpose flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground nutmeg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Toasted almond",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Melt margarine over medium heat in 1 1 / 2-quart saucepan",
+    "Stir in flour",
+    "Cook over medium heat , stirring constantly , until mixture is smooth and bubbly",
+    "Remove from heat",
+    "Stir in broth",
+    "Heat to boiling , stirring constantly",
+    "Boil and stir 1 minute",
+    "Add salt , pepper , and nutmeg",
+    "Just before serving stir in the almonds"
+  ],
+  "sourceURL": "https://www.food.com/recipe/89846",
+  "youtubeURL": null
+}

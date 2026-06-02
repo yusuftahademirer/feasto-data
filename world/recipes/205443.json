@@ -1,0 +1,67 @@
+{
+  "id": "205443",
+  "name": "Vegan Mac Un Cheese",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "main-ingredient",
+    "preparation",
+    "pasta"
+  ],
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vanilla-flavored soymilk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy margarine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegan mayonnaise",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nutritional yeast",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground sage",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic powder",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cook pasta and drain",
+    "In a large bowl , combine pasta and all other ingredients",
+    "Mix thoroughly and enjoy",
+    "For variety , mix in one cup of steamed vegetables , such as broccoli or peas",
+    "Vegan mayo is optional , but recommended for creamier meal"
+  ],
+  "sourceURL": "https://www.food.com/recipe/205443",
+  "youtubeURL": null
+}

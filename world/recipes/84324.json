@@ -1,0 +1,87 @@
+{
+  "id": "84324",
+  "name": "Aloo Gobi",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1585938338392-50a59970d8ee?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 60,
+  "difficulty": "hard",
+  "tags": [
+    "curries",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green chili",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cauliflower",
+      "measure": "As needed"
+    },
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Diced tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cumin seed",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garam masala",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large saucepan",
+    "Add the chopped onion and one teaspoon of cumin seeds to the oil",
+    "Stir together and cook until onions become creamy , golden , and translucent",
+    "Add chopped coriander stalks , two teaspoons of turmeric , and one teaspoon of salt",
+    "Add chopped chillis stir tomatoes into onion mixture",
+    "Add ginger and garlic",
+    "Mix thoroughly",
+    "Add potatoes and cauliflower to the sauce plus a few tablespoons of water",
+    "Ensure that the potatoes and cauliflower are coated with the curry sauce",
+    "Cover and allow to simmer for twenty minutes",
+    "Add two teaspoons of garam masala and stir",
+    "Sprinkle chopped coriander leaves on top of the curry",
+    "Turn off the heat , cover , and leave for as long as possible before serving"
+  ],
+  "sourceURL": "https://www.food.com/recipe/84324",
+  "youtubeURL": null
+}

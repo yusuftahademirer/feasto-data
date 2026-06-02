@@ -1,0 +1,54 @@
+{
+  "id": "152390",
+  "name": "Alambre De Bistec",
+  "category": "chinese",
+  "area": "Chinese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green bell peppers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tortillas",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "On a hot skillet , fry bacon & remove excess fat",
+    "Add beef fajitas and cook until medium rare",
+    "Add onions , peppers , salt & pepper",
+    "Finish cooking and serve on tortillas , spice up with hot salsa"
+  ],
+  "sourceURL": "https://www.food.com/recipe/152390",
+  "youtubeURL": null
+}

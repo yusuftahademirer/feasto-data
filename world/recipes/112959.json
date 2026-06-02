@@ -1,0 +1,56 @@
+{
+  "id": "112959",
+  "name": "Sour Cream  Avocado Dip  Vegan",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "lactose",
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Soft silken tofu",
+      "measure": "As needed"
+    },
+    {
+      "name": "Avocado",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chunky salsa",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh cilantro",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lime juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Peel and pit avocado , put in a large mixing bowl",
+    "Add entire block of tofu and salsa",
+    "Combine ingredients using a hand mixer on medium speed for about 1 minute or until the mixture becomes smooth",
+    "Add remaining ingredients , mix on low speed until all ingredients are blended together",
+    "Chill for one hour and serve",
+    "Store leftovers in the fridge in an air-tight container"
+  ],
+  "sourceURL": "https://www.food.com/recipe/112959",
+  "youtubeURL": null
+}

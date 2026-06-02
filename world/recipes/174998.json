@@ -1,0 +1,79 @@
+{
+  "id": "174998",
+  "name": "Chicken Satays",
+  "category": "vietnamese",
+  "area": "Vietnamese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Gingerroot",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fish sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tamarind paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coconut milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Peanut oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Boneless chicken breasts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Wooden skewers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chile",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lime",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix marinade ingredients together",
+    "Cut the chicken into slices and then cut these into strips",
+    "Thread the chicken on the skewers",
+    "Place skewered chicken on a plate of marinating dish and pour marinade over",
+    "Let marinate for 30 minutes while preparing grill",
+    "Drain marinade into saucepan , bring to a boil and then simmer stirring for 15 minutes",
+    "Grill satays until cooked through",
+    "Serve with hot marinade and dipping sauce",
+    "To make dipping sauce: using a spice mill or with mortar and pestle work the garlic , sugar and chili to a paste",
+    "Stir in chopped lime and collected juices",
+    "Puree again",
+    "Stir in fish sauce and 1 / 2 cup of water to get righ consistency",
+    "Set aside"
+  ],
+  "sourceURL": "https://www.food.com/recipe/174998",
+  "youtubeURL": null
+}

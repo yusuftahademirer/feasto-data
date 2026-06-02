@@ -1,0 +1,56 @@
+{
+  "id": "367615",
+  "name": "Andalusian Pork",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1598514983318-291419f67e76?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Paprika",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried oregano",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried thyme",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coarse sea salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pork fillets",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemons",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Mix the paprika , oregano , thyme garlic and salt with the olive oil to make a thick paste",
+    "Spread the paste evenly over the pork , cover and marinate in the fridge , ideally overnight",
+    "Cut the meat into slices on the diagonal",
+    "Heat a griddle or large heavy frying pan until very hot",
+    "Cook the pork for 3-4 minutes on each side until cooked through",
+    "Serve at once with the lemon wedges"
+  ],
+  "sourceURL": "https://www.food.com/recipe/367615",
+  "youtubeURL": null
+}

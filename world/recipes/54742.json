@@ -1,0 +1,76 @@
+{
+  "id": "54742",
+  "name": "Asian Chicken Salad With Glass Noodles",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626804475315-9644b37a2f4b?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Noodles",
+      "measure": "As needed"
+    },
+    {
+      "name": "Boneless skinless chicken breast",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cucumber",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bean sprouts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Of fresh mint",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh cilantro",
+      "measure": "As needed"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Hot chili sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lime juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sesame oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cover noodles with boiling water and let sit 5-8 minutes , or until cooked",
+    "Drain and rinse under cold water",
+    "Steam chicken for 15 minutes , then shred into small pieces",
+    "Place noodles , chicken , onions , carrots , cucumber , bean sprouts , mint and cilantro into large bowl",
+    "Mix together chili sauce , lime juice and sesame oil then pour over noodle mixture and toss well",
+    "Top with toasted sesame seeds"
+  ],
+  "sourceURL": "https://www.food.com/recipe/54742",
+  "youtubeURL": null
+}

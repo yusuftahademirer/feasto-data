@@ -1,0 +1,55 @@
+{
+  "id": "308203",
+  "name": "Agourontomatosalata",
+  "category": "greek",
+  "area": "Greek",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cucumber",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dried oregano",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon, juice of",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Peel tomatoes and cut into wedges , wash cucumber and core skin with the tines of fork and cut into thin slices",
+    "Slice onion using some of the green tops , and then combine all the veggies with the oregano in a salad bowl",
+    "Mix together olive oil , lemon juice , salt and pepper , taste and adjust",
+    "Pour dressing over salad and gently toss to mix",
+    "Serve right away or let the salad and dressing mingle awhile - i like mine to sit for 15 minutes or so"
+  ],
+  "sourceURL": "https://www.food.com/recipe/308203",
+  "youtubeURL": null
+}

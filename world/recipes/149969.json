@@ -1,0 +1,68 @@
+{
+  "id": "149969",
+  "name": "Aloo Baigain  Potato And Eggplant  Aubergine",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Potato",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggplants",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cumin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Turmeric powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic paste",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mustard seeds",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cut potato and eggplant into small pieces",
+    "Take frying pan and pour 1 tbsp oil",
+    "After the oil is hot , add cumin and mustard seed to it",
+    "When the mustard seeds crackle , add potato and eggplant",
+    "Saute about 10-15 seconds",
+    "Add garlic paste and other dry spices as mentioned above",
+    "Stir in one cup of water",
+    "Add salt",
+    "Cover the pan and reduce heat to low",
+    "Heat till until potatoes are soft , but not mushy"
+  ],
+  "sourceURL": "https://www.food.com/recipe/149969",
+  "youtubeURL": null
+}

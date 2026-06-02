@@ -1,0 +1,67 @@
+{
+  "id": "102299",
+  "name": "Chopped Mediterranean Salad",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "preparation",
+    "low-protein"
+  ],
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cucumber",
+      "measure": "As needed"
+    },
+    {
+      "name": "Scallions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Of fresh mint",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh cilantro",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Combine the tomatoes , bell pepper , cucumber , scallions , mint , cilantro and parsley in a bowl",
+    "Whisk together the olive oil and lemon juice",
+    "Pour over salad and toss to blend",
+    "Add salt and pepper",
+    "All measurements are versatile depending upon individual tastes !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/102299",
+  "youtubeURL": null
+}

@@ -1,0 +1,90 @@
+{
+  "id": "449390",
+  "name": "Arroz De Marisco",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Canned tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fish stock",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salsa verde",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Seafood",
+      "measure": "As needed"
+    },
+    {
+      "name": "Rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dry white wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fish fillets",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parsley",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a pot bring to boil water or broth and tomatoes , adjust salt to taste",
+    "Keep warm",
+    "In another big pot fry onion and garlic with the oil until transparent",
+    "Add salsa verde , shellfish , calamari and rice",
+    "Cook for further 2 minutes",
+    "Add wine and hot tomatoes-mix",
+    "Add fish cubes stir once",
+    "Arrange mussels on it",
+    "Let it cook for about 16-18 minutes but dont overcook it",
+    "During cooking if necessary add water and season with chili , salt and pepper",
+    "It should be slightly al dente and still enough liquid",
+    "Sprinkle with the parsley or cilantro and serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/449390",
+  "youtubeURL": null
+}

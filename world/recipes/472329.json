@@ -1,0 +1,65 @@
+{
+  "id": "472329",
+  "name": "Agave Curried Crock Pot Chickpeas",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 250,
+  "difficulty": "hard",
+  "tags": [
+    "main-ingredient",
+    "cuisine",
+    "preparation",
+    "beans",
+    "indian"
+  ],
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Agave nectar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Dijon mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegan butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Curry powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red pepper flakes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ground ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Dump all ingredients into slow cooker , stir to combine",
+    "Cover and cook 4-5 hours on low setting",
+    "Serve over basmati rice"
+  ],
+  "sourceURL": "https://www.food.com/recipe/472329",
+  "youtubeURL": null
+}

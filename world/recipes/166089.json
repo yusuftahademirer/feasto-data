@@ -1,0 +1,56 @@
+{
+  "id": "166089",
+  "name": "Sticky Chicky   Dump Chicken",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 55,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Smooth peanut butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ketchup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken pieces",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "For immediate cooking:",
+    "Preheat oven to 350f",
+    "Combine sauce ingredients and blend until smooth",
+    "Toss chicken with sauce and place into a large baking dish",
+    "Bake until chicken juices run clear",
+    "For freezing:",
+    "Combine sauce ingredients until smooth",
+    "Place sauce and chicken into a 1-gallon freezer bag",
+    "Shake to coat chicken",
+    "Lay flat in freezer",
+    "To thaw and cook:",
+    "Thaw completely",
+    "Preheat the oven to 350f",
+    "Empty the contents of the bag into a large baking dish and bake until the juices run clear"
+  ],
+  "sourceURL": "https://www.food.com/recipe/166089",
+  "youtubeURL": null
+}

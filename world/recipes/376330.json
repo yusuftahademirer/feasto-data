@@ -1,0 +1,45 @@
+{
+  "id": "376330",
+  "name": "Alioli   Spanish Style",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Egg",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Place egg & garlic in blender & whizz until garlic is smooth",
+    "Lower the speed & add the olive oil in a slow stream , with the motor still going until the oil has emulsified & thickened",
+    "Add lemon juice & salt"
+  ],
+  "sourceURL": "https://www.food.com/recipe/376330",
+  "youtubeURL": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "152259",
+  "name": "Jamba Juice At Home  Strawberries Wild  Smoothie",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Apple juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Strawberry",
+      "measure": "As needed"
+    },
+    {
+      "name": "Banana",
+      "measure": "As needed"
+    },
+    {
+      "name": "Non-fat vanilla frozen yogurt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ice",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Pour the apple juice in the blender",
+    "Add the strawberries , bananas , frozen yogurt and ice cubes",
+    "Blend until smooth with a thick consistency",
+    "If vegan use suitable sugar"
+  ],
+  "sourceURL": "https://www.food.com/recipe/152259",
+  "youtubeURL": null
+}

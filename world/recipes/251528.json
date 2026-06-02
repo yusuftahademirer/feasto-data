@@ -1,0 +1,58 @@
+{
+  "id": "251528",
+  "name": "Not  Lasagna",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 80,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Lean ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Spaghetti sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Italian seasoning",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheese ravioli",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350f",
+    "Spray an 8-inch glass baking dish with non-stick spray",
+    "Measure 1 / 2 cup spaghetti sauce from jar and spread evenly on bottom of dish",
+    "Brown ground beef in a skillet over medium heat",
+    "Drain and return to skillet",
+    "Add remaining spaghetti sauce , italian seasoning and garlic salt",
+    "Simmer for 5 minutes",
+    "Layer half of ravioli on the sauce in the dish",
+    "Spread half of the beef mixture over the ravioli and top with 1 cup of the mozzarella cheese",
+    "Repeat layers one more time , ending with cheese",
+    "Bake for 1 hour",
+    "Allow to stand for 5 minutes before serving"
+  ],
+  "sourceURL": "https://www.food.com/recipe/251528",
+  "youtubeURL": null
+}

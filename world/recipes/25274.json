@@ -1,0 +1,62 @@
+{
+  "id": "25274",
+  "name": "Aww  Marinated Olives",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Fennel seeds",
+      "measure": "As needed"
+    },
+    {
+      "name": "Green olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ripe olives",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Peppercorn",
+      "measure": "As needed"
+    },
+    {
+      "name": "Orange rind",
+      "measure": "As needed"
+    },
+    {
+      "name": "Orange juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chile",
+      "measure": "As needed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Toast the fennel seeds and lightly crush them",
+    "Place all the ingredients in a bowl , stir well",
+    "Cover and leave to marinate",
+    "Keep refrigerated and use within 1 to 2 days"
+  ],
+  "sourceURL": "https://www.food.com/recipe/25274",
+  "youtubeURL": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "51406",
+  "name": "A Simple Chicken Satay",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626804475315-9644b37a2f4b?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 165,
+  "difficulty": "hard",
+  "tags": [
+    "weeknight",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "Soya sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Peanut butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Brown sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cayenne",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a food processor , blend all ingredients , except chicken , until smooth",
+    "Marinate chicken pieces in the mixture for at least 2 hours-- i usually cover and leave in the fridge overnight",
+    "Uncover and bake at 350f for 30 to 45 minutes , basting every now and then",
+    "Serves 4"
+  ],
+  "sourceURL": "https://www.food.com/recipe/51406",
+  "youtubeURL": null
+}

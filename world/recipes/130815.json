@@ -1,0 +1,76 @@
+{
+  "id": "130815",
+  "name": "We Hate Zucchini Bread   Zucchini Bread",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fat",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vanilla",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cinnamon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baking soda",
+      "measure": "As needed"
+    },
+    {
+      "name": "Walnuts",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350f",
+    "Grate the zucchini , and measure out four cups",
+    "Add to large mixing bowl",
+    "Add eggs , fat , cinnamon , salt , baking soda , vanilla and sugar",
+    "Stir together well",
+    "Add flour to the mixture , a bit at a time",
+    "Stir until all ingredients are mixed",
+    "The mixture should resemble thick pancake batter",
+    "If it is too thick , add another egg",
+    "Add nuts , if desired",
+    "Lightly grease and flour your bread pans , or spray them with nonstick cooking spray",
+    "Carefully spoon the mixture into bread pans , stopping when the mixture is about 3 / 4 of the way to the top",
+    "Bake for 35 minutes , or until a golden brown",
+    "Take out loaves , and let them cool five minutes before removing the bread from the pans to finish cooling on a wire rack"
+  ],
+  "sourceURL": "https://www.food.com/recipe/130815",
+  "youtubeURL": null
+}

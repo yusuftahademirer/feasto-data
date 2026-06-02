@@ -1,0 +1,98 @@
+{
+  "id": "427739",
+  "name": "Garden Salad   Mediterranean Style",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Romaine lettuce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cucumbers",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Bell pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Celery",
+      "measure": "As needed"
+    },
+    {
+      "name": "Italian parsley",
+      "measure": "As needed"
+    },
+    {
+      "name": "Of fresh mint",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh basil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cracked black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic clove",
+      "measure": "As needed"
+    },
+    {
+      "name": "White wine vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemon juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tarragon",
+      "measure": "As needed"
+    },
+    {
+      "name": "Feta cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black olives",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl , mix together the romaine , vegetables , herbs and season with salt and pepper to taste",
+    "Add the olive oil , garlic , wine vinegar , lemon juice and tarragon and whisk briskly to incorporate the ingredients",
+    "Add to the salad and toss lightly to coat",
+    "If desired , top with feta cheese and black olives and serve"
+  ],
+  "sourceURL": "https://www.food.com/recipe/427739",
+  "youtubeURL": null
+}

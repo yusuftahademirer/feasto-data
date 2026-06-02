@@ -1,0 +1,74 @@
+{
+  "id": "110215",
+  "name": "Aloo  Potato  Pakora",
+  "category": "indian",
+  "area": "Indian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Corn oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Besan",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Red chili powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cumin powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ginger",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coriander",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Add water to the besan",
+    "Besan has a tendency to be very clumpy , so you should add just a few tablespoons at a time to keep the batter smooth",
+    "Add the chilli powder , cumin powder , garlic , ginger , salt and chopped coriander and stir the batter",
+    "The potatoes should be sliced very thinly",
+    "No thicker than 1 / 4 of an inch",
+    "At this point test one slice of potato in the batter",
+    "There should just be a thin coat of batter",
+    "Heat the oil in a pan",
+    "Use a larger frying pan so that you have more surface area",
+    "The oil doesn't need to be too deep since the potato slices are very thin",
+    "Dip the potato slices in the batter and fry them till they are golden brown",
+    "Remove them from the oil with a slotted spoon and set them on a paper towel for a minute to soak up the excess oil"
+  ],
+  "sourceURL": "https://www.food.com/recipe/110215",
+  "youtubeURL": null
+}

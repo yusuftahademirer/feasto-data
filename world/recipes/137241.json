@@ -1,0 +1,52 @@
+{
+  "id": "137241",
+  "name": "5 Minute Thai Shrimp Satay",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1559314809-0d155014e29e?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 9,
+  "difficulty": "easy",
+  "tags": [
+    "lactose",
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "measure": "As needed"
+    },
+    {
+      "name": "Low-fat peanut butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Low-fat catalina dressing",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Reduced sodium soy sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chili powder",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Thread shrimp onto skewers",
+    "Mix peanut butter , salad dressing until smooth",
+    "Stir in water and soy sauce",
+    "Brush 1 / 2 of sauce on shrimp",
+    "Grill or broil for about 3-5 minutes or until shrimp becomes opaque",
+    "Serve with remaining sauce for dipping"
+  ],
+  "sourceURL": "https://www.food.com/recipe/137241",
+  "youtubeURL": null
+}

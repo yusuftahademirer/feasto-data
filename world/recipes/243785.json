@@ -1,0 +1,51 @@
+{
+  "id": "243785",
+  "name": "Glazed  Meatloaf",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ketchup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Seasoned bread crumbs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lipton onion soup mix",
+      "measure": "As needed"
+    },
+    {
+      "name": "Brown sugar",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees",
+    "In large bowl , mix first 5 ingredients together",
+    "Place mixture into a 13x9-inch pan and form into a loaf",
+    "Cover the loaf with a thin layer of ketchup and sprinkle desired amount of brown sugar on top of ketchup",
+    "Bake the loaf at 375 degrees for one hour"
+  ],
+  "sourceURL": "https://www.food.com/recipe/243785",
+  "youtubeURL": null
+}

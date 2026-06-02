@@ -1,0 +1,55 @@
+{
+  "id": "174469",
+  "name": "Off The Boat  Sicilian Pasta Sauce",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 85,
+  "difficulty": "hard",
+  "tags": [
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation",
+    "main-dish"
+  ],
+  "ingredients": [
+    {
+      "name": "Fresh onion",
+      "measure": "As needed"
+    },
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tomato sauce",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Chop your 1 / 2 medium onion",
+    "Take a medium size pot and simmer together your chopped onions and oil over medium heat until onions are tender",
+    "Pour in your tomato sauce and stir well",
+    "Let your sauce come to a boil for at least a half an hour",
+    "Reduce heat to medium-low",
+    "Stir in your desired amount of salt and pepper",
+    "Cook for an additional half an hour",
+    "After at least an hour of cooking , bring a pot of water to a boil for your pasta",
+    "Let the sauce cook until pasta is drained and ready",
+    "Scoop some sauce into your drained pasta to coat",
+    "Serve with a scoop of pasta sauce ontop and enjoy !",
+    "You can add anything to this base pasta sauce -- we italians sometimes will throw in cooked tender cauliflower for one dish or asparagas , or drained / fried ground beef for pasta bolognese , etc",
+    "You get the idea"
+  ],
+  "sourceURL": "https://www.food.com/recipe/174469",
+  "youtubeURL": null
+}

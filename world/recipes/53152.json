@@ -1,0 +1,57 @@
+{
+  "id": "53152",
+  "name": "Souper  Easy Macaroni And Cheese",
+  "category": "italian",
+  "area": "Italian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Nacho cheese soup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cheddar cheese",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Prepared mustard",
+      "measure": "As needed"
+    },
+    {
+      "name": "Black pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Elbow macaroni",
+      "measure": "As needed"
+    },
+    {
+      "name": "French-fried onions",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350f",
+    "Stir together first 5 ingredients until blended",
+    "Stir in macaroni",
+    "Spoon mixture into a lightly greased 11x7 baking dish",
+    "Bake at 350f",
+    "For 25 minutes",
+    "Top with french fried onions and bake 5 more minutes"
+  ],
+  "sourceURL": "https://www.food.com/recipe/53152",
+  "youtubeURL": null
+}

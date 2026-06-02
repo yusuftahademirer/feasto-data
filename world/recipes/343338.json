@@ -1,0 +1,64 @@
+{
+  "id": "343338",
+  "name": "Creamy   Vegan Potato Leek Soup",
+  "category": "vegetarian",
+  "area": "Vegetarian",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "lactose",
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient"
+  ],
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Leeks",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "measure": "As needed"
+    },
+    {
+      "name": "Russet potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vegetable broth",
+      "measure": "As needed"
+    },
+    {
+      "name": "White beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fresh rosemary",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt and pepper",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a 4-quart pot",
+    "Sautee the sliced leeks about 5 minutes or until slightly tender",
+    "Add garlic and sautee another minute or so",
+    "Add potatoes and broth",
+    "Bring to a boil",
+    "Reduce heat to medium and simmer 20 minutes or until potatoes and leeks are quite tender",
+    "Add beans , rosemary , salt , and pepper , and more broth , if necessary",
+    "Puree until smooth , using an immersion blender or in small batches in a regular blender",
+    "If necessary , return to heat until warm enough",
+    "Sprinkle with soy cheese , if desired"
+  ],
+  "sourceURL": "https://www.food.com/recipe/343338",
+  "youtubeURL": null
+}

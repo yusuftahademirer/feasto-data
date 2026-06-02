@@ -1,0 +1,58 @@
+{
+  "id": "124242",
+  "name": "5 Minute  Low Fat Tex Mex Enchiladas",
+  "category": "mexican",
+  "area": "Mexican",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 55,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Fat-free refried beans",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fat-free turkey chili",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mexican-style corn",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mexican tomatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Fat-free cream of mushroom soup",
+      "measure": "As needed"
+    },
+    {
+      "name": "Low-fat mexican cheese blend",
+      "measure": "As needed"
+    },
+    {
+      "name": "Tortillas",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Spray a 9x13 pan with pam",
+    "Preheat oven to 375",
+    "Warm the tortillas in the microwave with wet paper towels for about 45 seconds",
+    "Mix together the chili , beans , corn and 1 / 2 of the cheese",
+    "Put 1 / 5 of the filling in the middle of each tortilla , fold both sides over and place in pan seam side down",
+    "Mix together the soup , tomatoes and the rest of the cheese and pour over the enchiladas",
+    "Bake for about 45 or 50 minutes , until cheese is browning and mixture is hot and bubbly",
+    "Enjoy !"
+  ],
+  "sourceURL": "https://www.food.com/recipe/124242",
+  "youtubeURL": null
+}

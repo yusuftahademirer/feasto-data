@@ -1,0 +1,69 @@
+{
+  "id": "111599",
+  "name": "Chef Pierre S Mediterranean Omelette",
+  "category": "mediterranean",
+  "area": "Mediterranean",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "30-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "measure": "As needed"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Marinated artichoke hearts",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mushrooms",
+      "measure": "As needed"
+    },
+    {
+      "name": "Asparagus",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sweet green pepper",
+      "measure": "As needed"
+    },
+    {
+      "name": "Parmesan cheese",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "You can also add your own veges to this as well",
+    "In a small bowl whisk the two eggs and milk together and put them aside",
+    "Using medium-high heat , in a saute pan or small skillet , saute the artichokes , green peppers , asparagus and mushrooms in the extra virgin olive oil , and balsamic vinegar--",
+    "When through , put them aside",
+    "On medium high heat , melt the butter in a ten inch skillet and then pour the egg mixture inches be sure it is even as it cooks",
+    "When the surface of the eggs looks firm , put the sauteed veggies and parmesan cheese on half of the egg mixture , fold the side without veggies and cheese over onto the side that does",
+    "Cook for another 1-2 minutes and get ready to eat something special"
+  ],
+  "sourceURL": "https://www.food.com/recipe/111599",
+  "youtubeURL": null
+}

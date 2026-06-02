@@ -1,0 +1,54 @@
+{
+  "id": "136432",
+  "name": "Banana In Coconut Cream",
+  "category": "thai",
+  "area": "Thai",
+  "thumbnailURL": "https://images.unsplash.com/photo-1626804475315-9644b37a2f4b?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coconut milk",
+      "measure": "As needed"
+    },
+    {
+      "name": "Granulated sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cinnamon stick",
+      "measure": "As needed"
+    },
+    {
+      "name": "Coconut",
+      "measure": "As needed"
+    },
+    {
+      "name": "Mango",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a saucepan , heat the coconut milk with the cinnamon , sugar and salt , and cook gently until the sugar has dissolved",
+    "Add the banana pieces and cook gently for 5 minutes",
+    "Remove cinnamon and discard",
+    "Divide the mixture into 6-8 small bowls and serve warm"
+  ],
+  "sourceURL": "https://www.food.com/recipe/136432",
+  "youtubeURL": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "483578",
+  "name": "Agua De Valencia",
+  "category": "spanish",
+  "area": "Spanish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1534080391025-a77d018f3ee0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 10,
+  "difficulty": "easy",
+  "tags": [
+    "15-minutes-or-less",
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine"
+  ],
+  "ingredients": [
+    {
+      "name": "Orange juice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Gin",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vodka",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sparkling wine",
+      "measure": "As needed"
+    },
+    {
+      "name": "Sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Lemons",
+      "measure": "As needed"
+    },
+    {
+      "name": "Ice cube",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "To a pitcher add orange juice , gin , vodka and cava or champagne",
+    "Add sugar , a pinch at a time",
+    "Stir and taste until desired sweetness is acheived",
+    "Refrigerate until chilled",
+    "Fill a glass with 2 or 3 ice cubes and fill",
+    "Garnish with lemon or lime wedges"
+  ],
+  "sourceURL": "https://www.food.com/recipe/483578",
+  "youtubeURL": null
+}

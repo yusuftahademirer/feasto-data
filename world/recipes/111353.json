@@ -1,0 +1,62 @@
+{
+  "id": "111353",
+  "name": "Abaranger Dino Curry",
+  "category": "japanese",
+  "area": "Japanese",
+  "thumbnailURL": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "time-to-make",
+    "course",
+    "main-ingredient",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Rice",
+      "measure": "As needed"
+    },
+    {
+      "name": "Onions",
+      "measure": "As needed"
+    },
+    {
+      "name": "Potatoes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Carrots",
+      "measure": "As needed"
+    },
+    {
+      "name": "Garlic",
+      "measure": "As needed"
+    },
+    {
+      "name": "Roux",
+      "measure": "As needed"
+    },
+    {
+      "name": "Water",
+      "measure": "As needed"
+    },
+    {
+      "name": "Chicken",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "Cut potatoes , carrots , and choosen meat into small pieces",
+    "Slice onions",
+    "Heat a deep pan and saute the onions until brown",
+    "Add choosen meat , potatoes , carrots and garlic in the pan and saute together",
+    "Add water in the pan and bring to a boil",
+    "Turn heat down to low and cook for 40-50 minute",
+    "Add potatostarch and water mixture in the soup to thicken",
+    "Add curry roux and simmer for 10 minute serve the curry over steamed rice"
+  ],
+  "sourceURL": "https://www.food.com/recipe/111353",
+  "youtubeURL": null
+}

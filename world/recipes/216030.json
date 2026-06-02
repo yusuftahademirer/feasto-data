@@ -1,0 +1,84 @@
+{
+  "id": "216030",
+  "name": "Flaky  Oatmeal Raisin Cookies",
+  "category": "american",
+  "area": "American",
+  "thumbnailURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "60-minutes-or-less",
+    "time-to-make",
+    "course",
+    "cuisine",
+    "preparation"
+  ],
+  "ingredients": [
+    {
+      "name": "Brown sugar",
+      "measure": "As needed"
+    },
+    {
+      "name": "Butter",
+      "measure": "As needed"
+    },
+    {
+      "name": "Eggs",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baking soda",
+      "measure": "As needed"
+    },
+    {
+      "name": "Baking powder",
+      "measure": "As needed"
+    },
+    {
+      "name": "Salt",
+      "measure": "As needed"
+    },
+    {
+      "name": "Cake flour",
+      "measure": "As needed"
+    },
+    {
+      "name": "Vanilla",
+      "measure": "As needed"
+    },
+    {
+      "name": "Raisins",
+      "measure": "As needed"
+    },
+    {
+      "name": "Quick-cooking oats",
+      "measure": "As needed"
+    },
+    {
+      "name": "Corn flakes",
+      "measure": "As needed"
+    },
+    {
+      "name": "Shredded coconut",
+      "measure": "As needed"
+    },
+    {
+      "name": "Nuts",
+      "measure": "As needed"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan , combine brown sugar and butter",
+    "Cream until well blended",
+    "Stir in eggs and mix well",
+    "Combine baking soda , baking powder , salt and flour",
+    "Fold into sugar-butter mixture",
+    "Stir in vanilla , raisins , oats , corn flakes , coconut and walnuts",
+    "Blend well",
+    "Scoop out balls of cookie dough with an ice cream scoop or tablespoon onto cookie sheets",
+    "Flatten each scoop slightly with palm or glass",
+    "Bake at 350 for 13-15 minutes"
+  ],
+  "sourceURL": "https://www.food.com/recipe/216030",
+  "youtubeURL": null
+}
