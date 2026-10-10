@@ -3,47 +3,48 @@
   "name": "İskender Kebabı",
   "category": "ana-yemek",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=640&auto=format&fit=crop",
   "prepTime": 45,
   "difficulty": "hard",
   "tags": [
     "kebap",
     "döner",
-    "et yemekleri"
+    "tereyağlı",
+    "et"
   ],
   "ingredients": [
     {
-      "name": "Hazır Döner (Et)",
+      "name": "Et Döner (veya ince dana eti)",
       "measure": "400g"
     },
     {
-      "name": "Pide Ekmek",
-      "measure": "1 adet"
+      "name": "Tırnak Pide",
+      "measure": "2 adet"
     },
     {
-      "name": "Tuzsuz Tereyağı",
+      "name": "Tereyağı",
       "measure": "4 yemek kaşığı"
-    },
-    {
-      "name": "Süzme Yoğurt",
-      "measure": "1 su bardağı"
     },
     {
       "name": "Domates Salçası",
       "measure": "2 yemek kaşığı"
     },
     {
-      "name": "Yeşil Biber & Domates",
-      "measure": "Közlemek için"
+      "name": "Süzme Yoğurt",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Közlenmiş Biber & Domates",
+      "measure": "Servis için"
     }
   ],
   "instructions": [
-    "Pide ekmekleri küp küp doğrayıp fırında hafifçe çıtırdatın.",
-    "Sosu hazırlamak için salçayı 1 yemek kaşığı tereyağı ve biraz su ile kaynatın.",
-    "Et dönerleri tavada ısıtın.",
-    "Servis tabağının tabanına pideleri yayın, üzerine sıcak salçalı sosu gezdirin.",
-    "Üzerine et dönerleri yerleştirip tabağın kenarına süzme yoğurt koyun.",
-    "Tavada kızdırdığınız bol tereyağını kebabın üzerine dökün. Közlenmiş biber ve domatesle servis edin."
+    "Pideleri küp küp doğrayıp fırında hafifçe çıtırlaştırın.",
+    "Salçayı tereyağı ve sıcak su ile kaynatarak kıvamlı bir domates sosu elde edin.",
+    "Et döneri tavada ısıtın.",
+    "Tabağa pideleri yerleştirin, üzerine sıcak domates sosundan gezdirin.",
+    "Pidelerin üstüne etleri dizin, kenarına süzme yoğurt koyun.",
+    "Tavada köpürtülmüş sıcak tereyağını etlerin üzerine dökün, köz biber ve domatesle servis edin."
   ],
   "sourceURL": null,
   "youtubeURL": null

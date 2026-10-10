@@ -1,0 +1,50 @@
+{
+  "id": "tr_022",
+  "name": "Kıymalı Kaşarlı Pide",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 60,
+  "difficulty": "medium",
+  "tags": [
+    "pide",
+    "fırın",
+    "kıyma",
+    "kaşar"
+  ],
+  "ingredients": [
+    {
+      "name": "Ekmek Unu",
+      "measure": "3.5 su bardağı"
+    },
+    {
+      "name": "Kuru Maya",
+      "measure": "1 paket"
+    },
+    {
+      "name": "Kıyma",
+      "measure": "300g"
+    },
+    {
+      "name": "Soğan & Biber & Domates",
+      "measure": "Harcı için"
+    },
+    {
+      "name": "Rende Kaşar Peyniri",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "Kenarlarına sürmek için"
+    }
+  ],
+  "instructions": [
+    "Un, maya, ılık su ve zeytinyağı ile yumuşak hamur yoğurup 40 dakika mayalandırın.",
+    "Kıyma ve ince çekilmiş sebzelerle iç harcı yoğurun.",
+    "Hamurdan uzun oval pideler açın, ortasına harcı yayıp kenarlarını kıvırın.",
+    "Fırında 220°C'de kızarana kadar pişirin, üzerine kaşar serpip eritin.",
+    "Fırından çıkınca kenarlarına bol tereyağı sürüp dilimleyin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

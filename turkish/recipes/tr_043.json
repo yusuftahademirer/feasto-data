@@ -1,0 +1,45 @@
+{
+  "id": "tr_043",
+  "name": "Yoğurtlu Köz Patlıcan Salatası",
+  "category": "salata",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "köz patlıcan",
+    "yoğurt",
+    "sarımsak",
+    "meze"
+  ],
+  "ingredients": [
+    {
+      "name": "Közlenmiş Patlıcan",
+      "measure": "4 adet"
+    },
+    {
+      "name": "Süzme Yoğurt",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "2 diş"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Tuz & Pul Biber",
+      "measure": "İsteğe göre"
+    }
+  ],
+  "instructions": [
+    "Közlenmiş patlıcanları kesme tahtasında bıçakla incecik kıyın.",
+    "Süzme yoğurt, ezilmiş sarımsak ve tuzu çırpın.",
+    "Patlıcanları yoğurtla karıştırıp servis tabağına yayın.",
+    "Üzerine zeytinyağında ısıtılmış pul biber gezdirin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

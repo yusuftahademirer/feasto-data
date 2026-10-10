@@ -8,8 +8,9 @@
   "difficulty": "easy",
   "tags": [
     "çorba",
-    "bakliyat",
-    "klasik"
+    "bulgur",
+    "mercimek",
+    "baharatlı"
   ],
   "ingredients": [
     {
@@ -29,12 +30,8 @@
       "measure": "1 adet"
     },
     {
-      "name": "Sarımsak",
-      "measure": "2 diş"
-    },
-    {
-      "name": "Nane & Salça",
-      "measure": "1 yemek kaşığı"
+      "name": "Salça & Nane & Pul Biber",
+      "measure": "1er yemek kaşığı"
     },
     {
       "name": "Tereyağı",
@@ -42,11 +39,10 @@
     }
   ],
   "instructions": [
-    "Tencerede tereyağı ve zeytinyağını ısıtıp ince doğranmış soğan ve sarımsakları kavurun.",
-    "Salça ve naneyi ekleyip kokusu çıkana kadar karıştırın.",
-    "Yıkanmış mercimek, bulgur ve pirinci tencereye ekleyin.",
-    "Sıcak su ekleyip tüm bakliyatlar açılıp yumuşayana kadar yaklaşık 30 dakika pişirin.",
-    "Kıvamı koyulaşınca tuz ve baharatlarını ekleyip 5 dakika daha kaynatıp sıcak servis yapın."
+    "Tencerede tereyağında doğranmış soğanları kavurun, salça ve naneyi ekleyin.",
+    "Mercimek, bulgur ve pirinci tencereye ilave edin.",
+    "Sıcak su ekleyip bakliyatlar yumuşayana kadar pişirin.",
+    "Tuz ve baharatları ekleyip kısık ateşte 5 dakika daha dinlendirin."
   ],
   "sourceURL": null,
   "youtubeURL": null

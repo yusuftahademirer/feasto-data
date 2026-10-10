@@ -1,0 +1,50 @@
+{
+  "id": "tr_023",
+  "name": "İmam Bayıldı",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "easy",
+  "tags": [
+    "zeytinyağlı",
+    "patlıcan",
+    "vejetaryen",
+    "hafif"
+  ],
+  "ingredients": [
+    {
+      "name": "Patlıcan",
+      "measure": "5 adet"
+    },
+    {
+      "name": "Piyazlık Kuru Soğan",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "6 diş"
+    },
+    {
+      "name": "Domates",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "Maydanoz & Şeker & Tuz",
+      "measure": "1 tatlı kaşığı şeker"
+    }
+  ],
+  "instructions": [
+    "Patlıcanları alacalı soyup tuzlu suda bekletin, kurulayıp hafifçe zeytinyağında soteleyin.",
+    "Piyazlık soğanları ve sarımsakları zeytinyağında yumuşayana kadar soteleyin, domates ve maydanozu ekleyin.",
+    "Patlıcanların ortalarını yarıp soğanlı harçla doldurun.",
+    "Geniş tencerede kısık ateşte kapağı kapalı 25 dakika pişirin.",
+    "Soğuk veya ılık olarak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

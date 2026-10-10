@@ -3,13 +3,14 @@
   "name": "Fırın Sütlaç",
   "category": "tatli",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1579372786545-d24232daf58c?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
   "prepTime": 50,
   "difficulty": "medium",
   "tags": [
     "sütlü tatlı",
     "fırın",
-    "geleneksel"
+    "geleneksel",
+    "hafif"
   ],
   "ingredients": [
     {
@@ -22,28 +23,23 @@
     },
     {
       "name": "Pirinç",
-      "measure": "yarım çay bardağı"
+      "measure": "Yarım çay bardağı"
     },
     {
-      "name": "Nişasta",
+      "name": "Mısır Nişastası",
       "measure": "2 yemek kaşığı"
     },
     {
       "name": "Vanilya",
       "measure": "1 paket"
-    },
-    {
-      "name": "Su",
-      "measure": "2 su bardağı (pirinci haşlamak için)"
     }
   ],
   "instructions": [
-    "Pirinçleri yıkayıp suyla birlikte yumuşayana kadar haşlayın. Suyunu çekmeli.",
-    "Tencereye sütü, şekeri ve haşlanmış pirinçleri ekleyip kaynamaya bırakın.",
-    "Nişastayı az miktar suyla açın, kaynayan süte yavaşça ekleyip karıştırın. 10 dakika kısık ateşte kaynatın.",
-    "Vanilyayı ekleyip karıştırın ve sütlacı ısıya dayanıklı güveç kaplarına paylaştırın.",
-    "Güveçleri derin bir fırın tepsisine dizin ve tepsiye güveçlerin yarısına gelecek kadar soğuk su doldurun.",
-    "Fırının sadece üst ızgarasını 200 dereceye ayarlayın ve üzerleri kızarana kadar pişirin."
+    "Pirinçleri yumuşayana kadar 2 su bardağı suda haşlayın.",
+    "Sütü ve şekeri tencereye ekleyip kaynatın.",
+    "Nişastayı az suyla açıp süte ekleyin; kıvam alana kadar 10 dakika pişirin.",
+    "Toprak güveç kaplarına paylaştırıp fırın tepsisine dizin; tepsiye su ekleyin.",
+    "Fırının üst ızgarasında üzeri yanık kabuk bağlayana kadar fırınlayın."
   ],
   "sourceURL": null,
   "youtubeURL": null

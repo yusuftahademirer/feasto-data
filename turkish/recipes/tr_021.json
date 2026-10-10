@@ -1,0 +1,45 @@
+{
+  "id": "tr_021",
+  "name": "Fırında Sebzeli Tavuk",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "easy",
+  "tags": [
+    "tavuk",
+    "fırın",
+    "pratik",
+    "patates"
+  ],
+  "ingredients": [
+    {
+      "name": "Tavuk But / Baget",
+      "measure": "800g"
+    },
+    {
+      "name": "Patates",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Biber & Arpacık Soğan",
+      "measure": "4 adet biber, 8 soğan"
+    },
+    {
+      "name": "Zeytinyağı & Yoğurt",
+      "measure": "2şer yemek kaşığı"
+    },
+    {
+      "name": "Salça & Kekik & Pul Biber",
+      "measure": "Sos için"
+    }
+  ],
+  "instructions": [
+    "Tavukları yoğurt, salça, zeytinyağı, kekik ve sarımsakla marine edin.",
+    "Patatesleri elma dilim doğrayıp fırın tepsisine dizin.",
+    "Marine tavukları ve sebzeleri tepsiye yerleştirin.",
+    "200°C fırında üzeri nar gibi kızarana kadar yaklaşık 40-45 dakika pişirin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "tr_032",
+  "name": "Klasik Arpa Şehriye Çorbası",
+  "category": "corba",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "çorba",
+    "salçalı",
+    "şehriye",
+    "günlük"
+  ],
+  "ingredients": [
+    {
+      "name": "Arpa Şehriye",
+      "measure": "1 çay bardağı"
+    },
+    {
+      "name": "Domates Salçası",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "1.5 yemek kaşığı"
+    },
+    {
+      "name": "Sıcak Su veya Tavuk Suyu",
+      "measure": "5 su bardağı"
+    },
+    {
+      "name": "Kuru Nane & Tuz",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Tereyağında salçayı ve naneyi kokusu çıkana kadar kavurun.",
+    "Sıcak suyu ekleyip kaynamaya bırakın.",
+    "Kaynayan suya arpa şehriyeleri ekleyip şehriyeler yumuşayana dek kısık ateşte pişirin.",
+    "Limon eşliğinde sıcak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

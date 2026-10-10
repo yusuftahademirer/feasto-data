@@ -1,9 +1,9 @@
 {
   "id": "tr_004",
-  "name": "Mercimek Çorbası",
+  "name": "Süzme Kırmızı Mercimek Çorbası",
   "category": "corba",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1547592165-e1d17f1a0655?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
   "prepTime": 35,
   "difficulty": "easy",
   "tags": [
@@ -30,8 +30,8 @@
       "measure": "1 adet"
     },
     {
-      "name": "Zeytinyağı",
-      "measure": "3 yemek kaşığı"
+      "name": "Tereyağı",
+      "measure": "2 yemek kaşığı"
     },
     {
       "name": "Sıcak Su veya Et Suyu",
@@ -43,11 +43,11 @@
     }
   ],
   "instructions": [
-    "Soğan, havuç ve patatesi küp küp doğrayın, zeytinyağında 5 dakika soteleyin.",
-    "Yıkanmış mercimekleri ekleyin.",
-    "Sıcak suyu ekleyip sebzeler yumuşayana kadar yaklaşık 25 dakika orta ateşte pişirin.",
-    "Çorbayı pürüzsüz olana kadar blenderdan geçirin.",
-    "Tereyağında pulbiber yakıp üzerinde gezdirin ve bol limonla servis edin."
+    "Soğan, havuç ve patatesi tereyağında hafifçe soteleyin.",
+    "Yıkanmış mercimekleri ve sıcak suyu ekleyin.",
+    "Sebzeler yumuşayana kadar 25 dakika kaynatın.",
+    "Pürüzsüz kıvam alana kadar blenderdan geçirin.",
+    "Üzerine tereyağında yakılmış pul biber gezdirip bol limonla servis edin."
   ],
   "sourceURL": null,
   "youtubeURL": null

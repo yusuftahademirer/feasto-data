@@ -1,0 +1,49 @@
+{
+  "id": "tr_026",
+  "name": "Geleneksel Tarhana Çorbası",
+  "category": "corba",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "tarhana",
+    "kış çorbası",
+    "şifalı",
+    "pratik"
+  ],
+  "ingredients": [
+    {
+      "name": "Toz Ev Tarhanası",
+      "measure": "4 yemek kaşığı"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "1.5 yemek kaşığı"
+    },
+    {
+      "name": "Domates Salçası",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "2 diş (ezilmiş)"
+    },
+    {
+      "name": "Kuru Nane & Pul Biber",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Soğuk Su & Et Suyu",
+      "measure": "5 su bardağı"
+    }
+  ],
+  "instructions": [
+    "Tarhanayı 1 bardak ılık suda 10 dakika yumuşatın.",
+    "Tencerede tereyağında salça ve ezilmiş sarımsağı kokusu çıkana kadar kavurun.",
+    "Yumuşayan tarhanayı ve kalan suyu tencereye ekleyin.",
+    "Kaynayana kadar sürekli karıştırarak pişirin, nane ve tereyağı ile servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

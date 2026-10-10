@@ -1,0 +1,45 @@
+{
+  "id": "tr_047",
+  "name": "Antakya Usulü Kısır",
+  "category": "salata",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 25,
+  "difficulty": "easy",
+  "tags": [
+    "kısır",
+    "bulgur",
+    "nar ekşisi",
+    "çay saati"
+  ],
+  "ingredients": [
+    {
+      "name": "İnce Köftelik Bulgur",
+      "measure": "2 su bardağı"
+    },
+    {
+      "name": "Biber ve Domates Salçası",
+      "measure": "2şer yemek kaşığı"
+    },
+    {
+      "name": "Hakiki Nar Ekşisi",
+      "measure": "4 yemek kaşığı"
+    },
+    {
+      "name": "Sızma Zeytinyağı",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "Taze Soğan & Maydanoz & Nane",
+      "measure": "Bol yeşillik"
+    }
+  ],
+  "instructions": [
+    "Bulguru sıcak suyla ıslatıp 15 dakika kabarmaya bırakın.",
+    "Salçaları, baharatları ve nar ekşisini bulgura ekleyip çiğ köfte gibi 10 dakika yoğurun.",
+    "Zeytinyağını ilave edip karıştırın.",
+    "En son incecik doğranmış taze soğan, nane ve maydanozu ekleyip ezmeden harmanlayın, marul yapraklarıyla sunun."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

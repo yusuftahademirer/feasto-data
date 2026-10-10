@@ -1,0 +1,49 @@
+{
+  "id": "tr_036",
+  "name": "Fındıklı Şekerpare",
+  "category": "tatli",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1587314168485-3236d6710814?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "şerbetli",
+    "kurabiye",
+    "fındık",
+    "geleneksel"
+  ],
+  "ingredients": [
+    {
+      "name": "Oda Sıcaklığında Tereyağı",
+      "measure": "125g"
+    },
+    {
+      "name": "Pudra Şekeri",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "İrmik",
+      "measure": "2.5 yemek kaşığı"
+    },
+    {
+      "name": "Yumurta",
+      "measure": "2 adet (1 sarısı üzerine)"
+    },
+    {
+      "name": "Un",
+      "measure": "2 - 2.5 su bardağı"
+    },
+    {
+      "name": "Bütün Fındık",
+      "measure": "Üzeri için"
+    }
+  ],
+  "instructions": [
+    "Malzemelerle ele yapışmayan yumuşak bir hamur yoğurun.",
+    "Ceviz büyüklüğünde yuvarlayıp ortasına bütün fındık batırın.",
+    "180°C fırında altın sarısı renk alana kadar 25-30 dakika pişirin.",
+    "Fırından çıkan sıcak şekerparelerin üzerine ılık şerbeti gezdirip şerbeti çekmesini bekleyin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

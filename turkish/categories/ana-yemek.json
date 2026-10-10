@@ -8,14 +8,14 @@
       "name": "Karnıyarık",
       "category": "ana-yemek",
       "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1598449356475-b9f71bc7d847?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=640&auto=format&fit=crop",
       "prepTime": 50,
       "difficulty": "medium",
       "tags": [
         "patlıcan",
         "kıyma",
         "fırın yemekleri",
-        "akşam yemeği"
+        "klasik"
       ]
     },
     {
@@ -23,27 +23,254 @@
       "name": "İskender Kebabı",
       "category": "ana-yemek",
       "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=640&auto=format&fit=crop",
       "prepTime": 45,
       "difficulty": "hard",
       "tags": [
         "kebap",
         "döner",
-        "et yemekleri"
+        "tereyağlı",
+        "et"
       ]
     },
     {
       "id": "tr_003",
-      "name": "Mantı",
+      "name": "Kayseri Mantısı",
       "category": "ana-yemek",
       "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=640&auto=format&fit=crop",
       "prepTime": 90,
       "difficulty": "hard",
       "tags": [
         "hamur işi",
         "kıyma",
-        "yoğurtlu"
+        "yoğurtlu",
+        "geleneksel"
+      ]
+    },
+    {
+      "id": "tr_010",
+      "name": "Adana Kebabı",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 45,
+      "difficulty": "hard",
+      "tags": [
+        "kebap",
+        "zırh kıyması",
+        "acılı",
+        "ızgara"
+      ]
+    },
+    {
+      "id": "tr_011",
+      "name": "Hünkar Beğendi",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 60,
+      "difficulty": "medium",
+      "tags": [
+        "osmanlı mutfağı",
+        "patlıcan",
+        "et sote",
+        "beşamel"
+      ]
+    },
+    {
+      "id": "tr_012",
+      "name": "Kuzu Tandır",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 150,
+      "difficulty": "medium",
+      "tags": [
+        "kuzu",
+        "tandır",
+        "fırın",
+        "lokum et"
+      ]
+    },
+    {
+      "id": "tr_013",
+      "name": "Ali Nazik Kebabı",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1606851094655-b2593a9af63f?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 45,
+      "difficulty": "medium",
+      "tags": [
+        "gaziantep",
+        "patlıcan",
+        "yoğurt",
+        "kavurma"
+      ]
+    },
+    {
+      "id": "tr_014",
+      "name": "Etli Kuru Fasulye",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 70,
+      "difficulty": "easy",
+      "tags": [
+        "bakliyat",
+        "güveç",
+        "akşam yemeği",
+        "türk mutfağı"
+      ]
+    },
+    {
+      "id": "tr_015",
+      "name": "İçli Köfte",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1529042410759-befb1204b468?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 75,
+      "difficulty": "hard",
+      "tags": [
+        "kıyma",
+        "bulgur",
+        "antep usulü",
+        "kızartma"
+      ]
+    },
+    {
+      "id": "tr_016",
+      "name": "Çıtır Lahmacun",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 45,
+      "difficulty": "medium",
+      "tags": [
+        "hamur işi",
+        "fırın",
+        "kıyma",
+        "çıtır"
+      ]
+    },
+    {
+      "id": "tr_017",
+      "name": "İnegöl Köfte",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1529042410759-befb1204b468?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 40,
+      "difficulty": "medium",
+      "tags": [
+        "köfte",
+        "ızgara",
+        "bursa",
+        "et"
+      ]
+    },
+    {
+      "id": "tr_018",
+      "name": "Çökertme Kebabı",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 50,
+      "difficulty": "medium",
+      "tags": [
+        "bodrum",
+        "çıtır patates",
+        "biftek",
+        "yoğurt"
+      ]
+    },
+    {
+      "id": "tr_019",
+      "name": "Güveçte Etli Türlü",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 80,
+      "difficulty": "easy",
+      "tags": [
+        "güveç",
+        "sebze",
+        "fırın",
+        "kuzu eti"
+      ]
+    },
+    {
+      "id": "tr_020",
+      "name": "Zeytinyağlı Yaprak Sarma",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 70,
+      "difficulty": "hard",
+      "tags": [
+        "zeytinyağlı",
+        "asma yaprağı",
+        "pirinç",
+        "klasik"
+      ]
+    },
+    {
+      "id": "tr_021",
+      "name": "Fırında Sebzeli Tavuk",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 50,
+      "difficulty": "easy",
+      "tags": [
+        "tavuk",
+        "fırın",
+        "pratik",
+        "patates"
+      ]
+    },
+    {
+      "id": "tr_022",
+      "name": "Kıymalı Kaşarlı Pide",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 60,
+      "difficulty": "medium",
+      "tags": [
+        "pide",
+        "fırın",
+        "kıyma",
+        "kaşar"
+      ]
+    },
+    {
+      "id": "tr_023",
+      "name": "İmam Bayıldı",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 50,
+      "difficulty": "easy",
+      "tags": [
+        "zeytinyağlı",
+        "patlıcan",
+        "vejetaryen",
+        "hafif"
+      ]
+    },
+    {
+      "id": "tr_024",
+      "name": "Mersin Tantuni",
+      "category": "ana-yemek",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 35,
+      "difficulty": "easy",
+      "tags": [
+        "tantuni",
+        "dürüm",
+        "mersin",
+        "sokak lezzeti"
       ]
     }
   ]

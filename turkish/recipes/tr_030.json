@@ -1,0 +1,45 @@
+{
+  "id": "tr_030",
+  "name": "Terbiyeli Kelle Paça Çorbası",
+  "category": "corba",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 60,
+  "difficulty": "hard",
+  "tags": [
+    "sakatat",
+    "sarımsaklı",
+    "sirkeli",
+    "şifalı"
+  ],
+  "ingredients": [
+    {
+      "name": "Haşlanmış Paça / Kelle Eti",
+      "measure": "300g"
+    },
+    {
+      "name": "Et / Kemik Suyu",
+      "measure": "5 su bardağı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "5 diş (ezilmiş)"
+    },
+    {
+      "name": "Sirke",
+      "measure": "Yarım çay bardağı"
+    },
+    {
+      "name": "Yumurta Sarısı & Un & Yoğurt",
+      "measure": "Terbiye için"
+    }
+  ],
+  "instructions": [
+    "Haşlanmış etleri küçük küçük doğrayıp kemik suyuna ilave edin.",
+    "Un, yoğurt ve yumurta sarısını çırparak terbiyeyi hazırlayın ve tencereye ekleyin.",
+    "Kaynadıktan sonra ezilmiş sarımsak ve sirke karışımını hazırlayın.",
+    "Kaselere alıp bol sarımsaklı sirke ve pul biberli kızgın yağ ile servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "tr_019",
+  "name": "Güveçte Etli Türlü",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 80,
+  "difficulty": "easy",
+  "tags": [
+    "güveç",
+    "sebze",
+    "fırın",
+    "kuzu eti"
+  ],
+  "ingredients": [
+    {
+      "name": "Kuşbaşı Kuzu Eti",
+      "measure": "400g"
+    },
+    {
+      "name": "Patlıcan & Kabak",
+      "measure": "2şer adet"
+    },
+    {
+      "name": "Patates & Soğan",
+      "measure": "1er adet"
+    },
+    {
+      "name": "Domates & Biber",
+      "measure": "2şer adet"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "5 diş"
+    },
+    {
+      "name": "Zeytinyağı & Salça",
+      "measure": "2 yemek kaşığı"
+    }
+  ],
+  "instructions": [
+    "Tüm sebzeleri iri küpler halinde doğrayın.",
+    "Toprak güveç kabının altına kuzu etlerini dizin.",
+    "Üzerine sırasıyla soğan, sarımsak, patlıcan, kabak ve patatesleri yerleştirin.",
+    "En üste domates ve biber dilimlerini koyup salçalı sıcak suyu dökün.",
+    "Güvecin kapağını kapatıp fırında 1.5 saat kısık ateşte pişirin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

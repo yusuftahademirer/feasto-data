@@ -1,0 +1,50 @@
+{
+  "id": "tr_020",
+  "name": "Zeytinyağlı Yaprak Sarma",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "zeytinyağlı",
+    "asma yaprağı",
+    "pirinç",
+    "klasik"
+  ],
+  "ingredients": [
+    {
+      "name": "Taze veya Salamura Asma Yaprağı",
+      "measure": "300g"
+    },
+    {
+      "name": "Pirinç",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "3 adet (bol soğanlı)"
+    },
+    {
+      "name": "Dolmalık Fıstık & Kuş Üzümü",
+      "measure": "2şer yemek kaşığı"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "Nane & Tarçın & Yenibahar & Limon",
+      "measure": "1er tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Zeytinyağında fıstıkları kavurun, soğanı ekleyip karamelize edin; pirinci, baharatları ve üzümü ekleyip harcı demleyin.",
+    "Yaprakların damarlı kısımları içte kalacak şekilde harç koyup incecik sarın.",
+    "Tencerenin tabanına yaprak serip sarmaları sıkıca dizin.",
+    "Üzerine zeytinyağı, limon suyu ve sıcak su ekleyip ağırlık koyarak kısık ateşte pişirin.",
+    "Soğuk olarak limon dilimleriyle servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

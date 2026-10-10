@@ -1,0 +1,42 @@
+{
+  "id": "tr_050",
+  "name": "Tepsi Su Böreği",
+  "category": "kahvalti",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 90,
+  "difficulty": "hard",
+  "tags": [
+    "börek",
+    "peynirli",
+    "tereyağlı",
+    "kat kat"
+  ],
+  "ingredients": [
+    {
+      "name": "Yumurta",
+      "measure": "5 adet"
+    },
+    {
+      "name": "Un & Tuz",
+      "measure": "3.5 su bardağı un"
+    },
+    {
+      "name": "Beyaz Peynir & Maydanoz",
+      "measure": "300g peynir"
+    },
+    {
+      "name": "Eritilmiş Tereyağı",
+      "measure": "200g"
+    }
+  ],
+  "instructions": [
+    "Yumurtalar ve unla sert bir hamur yoğurup bezelere ayırın.",
+    "Yufkaları açın; taban ve tavan yufkaları hariç diğerlerini kaynar tuzlu suda 30 saniye haşlayıp buzlu suya atın ve kurulayın.",
+    "Tepsiye yağ sürerek katları aralarına tereyağı gezdirerek serin.",
+    "Orta kata bol maydanozlu peynir harcını yayın.",
+    "Ocakta veya fırında altı üstü altın sarısı olana kadar pişirip dilimleyin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

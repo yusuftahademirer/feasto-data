@@ -1,0 +1,50 @@
+{
+  "id": "tr_015",
+  "name": "İçli Köfte",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1529042410759-befb1204b468?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 75,
+  "difficulty": "hard",
+  "tags": [
+    "kıyma",
+    "bulgur",
+    "antep usulü",
+    "kızartma"
+  ],
+  "ingredients": [
+    {
+      "name": "Köftelik İnce Bulgur",
+      "measure": "2 su bardağı"
+    },
+    {
+      "name": "İrmik",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "İç Harç: Dana Kıyma",
+      "measure": "350g"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Ceviz İçi",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "Tereyağı & Baharatlar",
+      "measure": "Gerektiği kadar"
+    }
+  ],
+  "instructions": [
+    "İç harç için kıymayı, bol soğanı kavurun; baharatlar ve dövülmüş ceviz ekleyip soğutun (harç mutlaka katılaşmalı).",
+    "Dış kabuk için bulgur ve irmiği sıcak suyla ıslatın; un, salça ve baharatla macun kıvamına gelene kadar yoğurun.",
+    "Hamurdan ceviz büyüklüğünde parçalar alıp parmağınızla incecik açın.",
+    "İçine soğuk kıymalı harç koyup limon şeklinde kapatın.",
+    "Bol kızgın yağda altın sarısı olana kadar kızartın (veya haşlayın)."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

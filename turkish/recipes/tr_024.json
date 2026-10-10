@@ -1,0 +1,46 @@
+{
+  "id": "tr_024",
+  "name": "Mersin Tantuni",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "easy",
+  "tags": [
+    "tantuni",
+    "dürüm",
+    "mersin",
+    "sokak lezzeti"
+  ],
+  "ingredients": [
+    {
+      "name": "Minik Küp Dana Eti",
+      "measure": "400g"
+    },
+    {
+      "name": "Pamuk Yağı veya Sıvı Yağ",
+      "measure": "4 yemek kaşığı"
+    },
+    {
+      "name": "Toz Kırmızı Biber & Sumak",
+      "measure": "1er yemek kaşığı"
+    },
+    {
+      "name": "Lavaş Ekmeği",
+      "measure": "4 adet"
+    },
+    {
+      "name": "Domates & Maydanoz & Kuru Soğan",
+      "measure": "İç garnitür için"
+    }
+  ],
+  "instructions": [
+    "Eti hafifçe haşlayıp suyunu süzün.",
+    "Tantuni sacında (veya geniş tavada) yağı kızdırıp eti ekleyin.",
+    "Toz biber ve su serpiştirerek eti buharda çevirin.",
+    "Lavaşı sacın üzerine basarak yağını ve buharını çekmesini sağlayın.",
+    "Lavaşın içine eti, sumaklı soğan ve domatesi koyup sıkı bir rulo sarın, limonla servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

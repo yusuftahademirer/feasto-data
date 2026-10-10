@@ -1,0 +1,45 @@
+{
+  "id": "tr_040",
+  "name": "Çikolata Soslu Profiterol",
+  "category": "tatli",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 55,
+  "difficulty": "medium",
+  "tags": [
+    "şu hamuru",
+    "çikolata sosu",
+    "krema",
+    "pastane"
+  ],
+  "ingredients": [
+    {
+      "name": "Su & Tereyağı",
+      "measure": "1 bardak su, 100g tereyağı"
+    },
+    {
+      "name": "Un",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Yumurta",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Pastacı Kreması",
+      "measure": "İç dolgusu için"
+    },
+    {
+      "name": "Akışkan Çikolata Sosu",
+      "measure": "Bol miktarda"
+    }
+  ],
+  "instructions": [
+    "Tereyağı ve suyu kaynatıp unu ekleyerek tencerede 3 dakika kavurun (şu hamuru).",
+    "Hamur soğuyunca yumurtaları teker teker yedirerek çırpın.",
+    "Sıkma torbasıyla küçük toplar halinde sıkıp fırında kabarıp kuruyana kadar pişirin.",
+    "İçlerine krema doldurun, kule şeklinde dizip üzerine bol ılık çikolata sosu dökün."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

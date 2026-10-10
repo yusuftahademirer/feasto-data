@@ -1,0 +1,42 @@
+{
+  "id": "tr_049",
+  "name": "Karadeniz Kuymak / Mıhlama",
+  "category": "kahvalti",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "medium",
+  "tags": [
+    "karadeniz",
+    "mısır unu",
+    "kolot peyniri",
+    "tereyağlı"
+  ],
+  "ingredients": [
+    {
+      "name": "Hakiki Trabzon Tereyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Fırınlanmış Mısır Unu",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Sıcak Su",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Kolot veya Tellendirilmiş Kaşar Peyniri",
+      "measure": "1.5 su bardağı"
+    }
+  ],
+  "instructions": [
+    "Bakır tavada tereyağını köpürene kadar eritin.",
+    "Mısır ununu ekleyip rengi hafif dönene ve kokusu çıkana kadar kavurun.",
+    "Sıcak suyu azar azar ekleyerek hızlıca karıştırın, un suyunu çeksin.",
+    "Peynirleri ekleyin ve eriyip tereyağı üzerine çıkana kadar kısık ateşte karıştırmadan bekletin.",
+    "Peynir uzayarak sıcakken servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

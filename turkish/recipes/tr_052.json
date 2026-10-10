@@ -1,0 +1,41 @@
+{
+  "id": "tr_052",
+  "name": "El Açması Peynirli Gözleme",
+  "category": "kahvalti",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "gözleme",
+    "sac",
+    "peynir",
+    "hamur işi"
+  ],
+  "ingredients": [
+    {
+      "name": "Un & Su & Tuz",
+      "measure": "Yumuşak hamur için"
+    },
+    {
+      "name": "Beyaz Peynir veya Lor",
+      "measure": "200g"
+    },
+    {
+      "name": "Maydanoz & Taze Soğan",
+      "measure": "Yarım demet"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "Piştikten sonra sürmek için"
+    }
+  ],
+  "instructions": [
+    "Un, tuz ve suyla yumuşak hamur yoğurup küçük bezelere bölün.",
+    "Yufkayı incecik açın, ortasına peynirli harçtan koyup zarf şeklinde katlayın.",
+    "Isınmış yağsız tavada veya sac üzerinde iki tarafını da kızarana kadar pişirin.",
+    "Tavadan alır almaz üzerine bol tereyağı sürüp sıcak sıcak servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

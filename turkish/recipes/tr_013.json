@@ -1,0 +1,50 @@
+{
+  "id": "tr_013",
+  "name": "Ali Nazik Kebabı",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1606851094655-b2593a9af63f?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "gaziantep",
+    "patlıcan",
+    "yoğurt",
+    "kavurma"
+  ],
+  "ingredients": [
+    {
+      "name": "Kuşbaşı Dana Eti",
+      "measure": "400g"
+    },
+    {
+      "name": "Köz Patlıcan",
+      "measure": "4 adet"
+    },
+    {
+      "name": "Süzme Yoğurt",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "2 diş"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Pul Biber & Tuz",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Etleri tavada tereyağı ile suyunu çekene kadar kavurun; tuz ve pul biber ekleyin.",
+    "Közlenmiş patlıcanları ince ince kıyın.",
+    "Sarımsaklı süzme yoğurt ile ılık köz patlıcanları pürüzsüzce karıştırın.",
+    "Servis tabağına patlıcanlı yoğurt yatağını serin.",
+    "Üzerine sıcak tereyağlı kavrulmuş etleri döküp hemen servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

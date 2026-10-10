@@ -1,0 +1,46 @@
+{
+  "id": "tr_025",
+  "name": "Yayla Çorbası",
+  "category": "corba",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 30,
+  "difficulty": "easy",
+  "tags": [
+    "yoğurt",
+    "nane",
+    "hafif",
+    "geleneksel"
+  ],
+  "ingredients": [
+    {
+      "name": "Süzme veya Normal Yoğurt",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Pirinç",
+      "measure": "Yarım çay bardağı"
+    },
+    {
+      "name": "Yumurta Sarısı",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Un",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Tereyağı & Kuru Nane",
+      "measure": "Üzeri için sos"
+    }
+  ],
+  "instructions": [
+    "Pirinçleri 4 su bardağı suda yumuşayana kadar haşlayın.",
+    "Ayrı bir kapta yoğurt, yumurta sarısı ve unu pürüzsüzce çırpın.",
+    "Kaynayan sudan kepçeyle alıp yoğurtlu karışıma ekleyerek ılıtın (kesilmemesi için).",
+    "Ilıyan terbiyeyi tencereye yavaşça dökün ve sürekli karıştırarak kaynatın.",
+    "Tereyağında köpürtülen naneyi üzerine dökerek sıcak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

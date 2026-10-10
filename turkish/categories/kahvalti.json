@@ -5,17 +5,122 @@
   "recipes": [
     {
       "id": "tr_009",
-      "name": "Menemen",
+      "name": "Köy Usulü Menemen",
       "category": "kahvalti",
       "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1594179924451-7c7c907b8f27?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=640&auto=format&fit=crop",
       "prepTime": 20,
       "difficulty": "easy",
       "tags": [
         "kahvaltı",
         "yumurta",
-        "pratik",
+        "domates",
         "klasik"
+      ]
+    },
+    {
+      "id": "tr_048",
+      "name": "Sahanda Sucuklu Yumurta",
+      "category": "kahvalti",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 15,
+      "difficulty": "easy",
+      "tags": [
+        "sucuk",
+        "yumurta",
+        "kahvaltı",
+        "sahanda"
+      ]
+    },
+    {
+      "id": "tr_049",
+      "name": "Karadeniz Kuymak / Mıhlama",
+      "category": "kahvalti",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 20,
+      "difficulty": "medium",
+      "tags": [
+        "karadeniz",
+        "mısır unu",
+        "kolot peyniri",
+        "tereyağlı"
+      ]
+    },
+    {
+      "id": "tr_050",
+      "name": "Tepsi Su Böreği",
+      "category": "kahvalti",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 90,
+      "difficulty": "hard",
+      "tags": [
+        "börek",
+        "peynirli",
+        "tereyağlı",
+        "kat kat"
+      ]
+    },
+    {
+      "id": "tr_051",
+      "name": "Çıtır Simit & Serpme Kahvaltı",
+      "category": "kahvalti",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 15,
+      "difficulty": "easy",
+      "tags": [
+        "simit",
+        "peynir",
+        "zeytin",
+        "serpme"
+      ]
+    },
+    {
+      "id": "tr_052",
+      "name": "El Açması Peynirli Gözleme",
+      "category": "kahvalti",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 35,
+      "difficulty": "medium",
+      "tags": [
+        "gözleme",
+        "sac",
+        "peynir",
+        "hamur işi"
+      ]
+    },
+    {
+      "id": "tr_053",
+      "name": "Karaköy Poğaçası",
+      "category": "kahvalti",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 45,
+      "difficulty": "medium",
+      "tags": [
+        "poğaça",
+        "pastane",
+        "peynirli",
+        "gevrek"
+      ]
+    },
+    {
+      "id": "tr_054",
+      "name": "Sarımsaklı Yoğurtlu Çılbır",
+      "category": "kahvalti",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 20,
+      "difficulty": "medium",
+      "tags": [
+        "çılbır",
+        "poşe yumurta",
+        "yoğurt",
+        "tereyağlı"
       ]
     }
   ]

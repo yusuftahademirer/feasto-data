@@ -1,0 +1,42 @@
+{
+  "id": "tr_038",
+  "name": "Kaymaklı Ayva Tatlısı",
+  "category": "tatli",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 60,
+  "difficulty": "easy",
+  "tags": [
+    "meyve tatlısı",
+    "kaymak",
+    "osmanlı",
+    "hafif"
+  ],
+  "ingredients": [
+    {
+      "name": "Ayva",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Toz Şeker",
+      "measure": "Yarım ayva başına 2 yemek kaşığı"
+    },
+    {
+      "name": "Ayva Çekirdekleri & Çubuk Tarçın",
+      "measure": "Renk ve aroma için"
+    },
+    {
+      "name": "Rulo Manda Kaymağı",
+      "measure": "Servis için"
+    }
+  ],
+  "instructions": [
+    "Ayvaları soyup ikiye bölün ve çekirdek yuvalarını oyun.",
+    "Geniş tencereye çukur kısımları yukarı gelecek şekilde dizin.",
+    "Her birinin üzerine şeker dökün; aralara çekirdekleri, karanfil ve tarçını koyun.",
+    "Kısık ateşte ayvalar yumuşayıp nar gibi kırmızı renk alana kadar yaklaşık 1 saat pişirin.",
+    "Soğuyunca üzerine bol kaymak ve ceviz koyarak servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

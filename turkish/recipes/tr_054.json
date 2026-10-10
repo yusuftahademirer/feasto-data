@@ -1,0 +1,50 @@
+{
+  "id": "tr_054",
+  "name": "Sarımsaklı Yoğurtlu Çılbır",
+  "category": "kahvalti",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "medium",
+  "tags": [
+    "çılbır",
+    "poşe yumurta",
+    "yoğurt",
+    "tereyağlı"
+  ],
+  "ingredients": [
+    {
+      "name": "Taze Yumurta",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Süzme Yoğurt",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "1 diş (ezilmiş)"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Pul Biber & Kuru Nane",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Sirke",
+      "measure": "1 yemek kaşığı (haşlama suyuna)"
+    }
+  ],
+  "instructions": [
+    "Süzme yoğurdu ezilmiş sarımsak ve tuzla çırpıp servis tabağına yayın.",
+    "Geniş tencerede suyu kaynama noktasına getirin, sirke ekleyin ve kaşıkla girdap oluşturun.",
+    "Yumurtayı girdabın ortasına yavaşça bırakıp 3-4 dakika beyazı pişip sarısı akışkan kalana kadar poşeleyin.",
+    "Kevgirle alıp suyunu süzdürerek yoğurt yatağının üzerine koyun.",
+    "Tavada kızdırılmış pul biberli köpüklü tereyağını üzerine gezdirip taze ekmekle sunun."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

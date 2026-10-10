@@ -1,45 +1,45 @@
 {
   "id": "tr_009",
-  "name": "Menemen",
+  "name": "Köy Usulü Menemen",
   "category": "kahvalti",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1594179924451-7c7c907b8f27?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=640&auto=format&fit=crop",
   "prepTime": 20,
   "difficulty": "easy",
   "tags": [
     "kahvaltı",
     "yumurta",
-    "pratik",
+    "domates",
     "klasik"
   ],
   "ingredients": [
     {
-      "name": "Yumurta",
+      "name": "Köy Yumurtası",
       "measure": "3 adet"
     },
     {
-      "name": "Domates",
+      "name": "Olgun Domates",
       "measure": "3 adet"
     },
     {
-      "name": "Yeşil Biber",
+      "name": "Tatlı & Acı Yeşil Biber",
       "measure": "3 adet"
     },
     {
       "name": "Tereyağı",
-      "measure": "1 yemek kaşığı"
+      "measure": "1.5 yemek kaşığı"
     },
     {
-      "name": "Tuz & Karabiber & Pulbiber",
+      "name": "Tuz & Karabiber & Pul Biber",
       "measure": "İsteğe göre"
     }
   ],
   "instructions": [
-    "Biberleri ince ince doğrayıp tereyağında hafifçe soteleyin.",
-    "Küçük küpler halinde doğranmış domatesleri ekleyin ve tencerenin kapağını kapatıp domatesler suyunu çekip yumuşayana kadar pişirin.",
+    "Biberleri ince doğrayıp tavada tereyağında kokusu çıkana kadar soteleyin.",
+    "Kabukları soyulup küp doğranmış domatesleri ekleyin ve tavanın kapağını kapatıp domatesler suyunu salıp çekene kadar pişirin.",
     "Tuz ve baharatları ekleyin.",
-    "Yumurtaları kırın ve hafifçe karıştırarak pişmeye bırakın. Çok kurutmadan nemli bir kıvamdayken ocaktan alın.",
-    "İsteğe bağlı olarak kaşar rendesi ekleyerek servis yapın."
+    "Yumurtaları kırıp sarılarını hafifçe dağıtarak nemli ve sulu kıvamda ocaktan alın.",
+    "Sıcak ekmek batırarak yiyin."
   ],
   "sourceURL": null,
   "youtubeURL": null

@@ -1,0 +1,41 @@
+{
+  "id": "tr_034",
+  "name": "Karamelize Kazandibi",
+  "category": "tatli",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "hard",
+  "tags": [
+    "sütlü tatlı",
+    "karamel",
+    "geleneksel"
+  ],
+  "ingredients": [
+    {
+      "name": "Süt",
+      "measure": "1 litre"
+    },
+    {
+      "name": "Pirinç Unu & Nişasta",
+      "measure": "2şer yemek kaşığı"
+    },
+    {
+      "name": "Toz Şeker",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Pudra Şekeri & Tereyağı",
+      "measure": "Tepsi tabanını yakmak için"
+    }
+  ],
+  "instructions": [
+    "Süt, şeker, pirinç unu ve nişastayı tencerede koyulaşana kadar pişirip muhallebi yapın.",
+    "Alüminyum tepsiyi tereyağı ile yağlayıp bol pudra şekeri serpin.",
+    "Muhallebiden 2 kepçe alıp tepsiye yayın, ocak üzerinde tepsiyi çevirerek tabanını eşit şekilde yakın.",
+    "Kalan muhallebiyi üzerine döküp buzdolabında soğutun.",
+    "Rulo şeklinde sararak yanık kısmı üstte kalacak biçimde servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

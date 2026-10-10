@@ -5,7 +5,7 @@
   "recipes": [
     {
       "id": "tr_008",
-      "name": "Çoban Salatası",
+      "name": "Geleneksel Çoban Salatası",
       "category": "salata",
       "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
@@ -16,6 +16,111 @@
         "taze",
         "sağlıklı",
         "pratik"
+      ]
+    },
+    {
+      "id": "tr_041",
+      "name": "Gavurdağı Salatası",
+      "category": "salata",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 20,
+      "difficulty": "easy",
+      "tags": [
+        "gaziantep",
+        "ceviz",
+        "nar ekşisi",
+        "kebap mezesi"
+      ]
+    },
+    {
+      "id": "tr_042",
+      "name": "Antalya Usulü Tahinli Piyaz",
+      "category": "salata",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 25,
+      "difficulty": "easy",
+      "tags": [
+        "piyaz",
+        "tahin",
+        "fasulye",
+        "antalya"
+      ]
+    },
+    {
+      "id": "tr_043",
+      "name": "Yoğurtlu Köz Patlıcan Salatası",
+      "category": "salata",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 20,
+      "difficulty": "easy",
+      "tags": [
+        "köz patlıcan",
+        "yoğurt",
+        "sarımsak",
+        "meze"
+      ]
+    },
+    {
+      "id": "tr_044",
+      "name": "Nefis Haydari",
+      "category": "salata",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 15,
+      "difficulty": "easy",
+      "tags": [
+        "meze",
+        "süzme yoğurt",
+        "nane",
+        "sofranın tacı"
+      ]
+    },
+    {
+      "id": "tr_045",
+      "name": "Yoğurtlu Semizotu Salatası",
+      "category": "salata",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 15,
+      "difficulty": "easy",
+      "tags": [
+        "semizotu",
+        "sağlıklı",
+        "hafif",
+        "yaz mezesi"
+      ]
+    },
+    {
+      "id": "tr_046",
+      "name": "Cevizli Havuç Tarator",
+      "category": "salata",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 20,
+      "difficulty": "easy",
+      "tags": [
+        "havuç",
+        "ceviz",
+        "yoğurt",
+        "meze"
+      ]
+    },
+    {
+      "id": "tr_047",
+      "name": "Antakya Usulü Kısır",
+      "category": "salata",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 25,
+      "difficulty": "easy",
+      "tags": [
+        "kısır",
+        "bulgur",
+        "nar ekşisi",
+        "çay saati"
       ]
     }
   ]

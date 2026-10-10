@@ -1,0 +1,46 @@
+{
+  "id": "tr_033",
+  "name": "Hatay Künefesi",
+  "category": "tatli",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "medium",
+  "tags": [
+    "kadayıf",
+    "peynir",
+    "şerbetli",
+    "sıcak tatlı"
+  ],
+  "ingredients": [
+    {
+      "name": "Taze Tel Kadayıf",
+      "measure": "300g"
+    },
+    {
+      "name": "Tuzsuz Hatay Künefe Peyniri",
+      "measure": "200g"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "150g"
+    },
+    {
+      "name": "Şerbet (Ilık)",
+      "measure": "2 bardak şeker, 2 bardak su"
+    },
+    {
+      "name": "Antep Fıstığı Tozu",
+      "measure": "Süsleme için"
+    }
+  ],
+  "instructions": [
+    "Kadayıfı ince ince doğrayıp erimiş tereyağı ile iyice harmanlayın.",
+    "Künefe tepsisinin tabanını bol tereyağıyla yağlayıp kadayıfın yarısını sıkıca bastırarak yerleştirin.",
+    "Ortasına dilimlenmiş künefe peynirini yayın, kenarlardan 1 cm boşluk bırakın.",
+    "Kalan kadayıfı üzerine kapatıp ağırlıkla düzleştirin.",
+    "Ocakta iki tarafını da nar gibi kızartın; sıcakken ılık şerbeti döküp fıstıkla servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

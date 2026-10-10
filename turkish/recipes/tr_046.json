@@ -1,0 +1,45 @@
+{
+  "id": "tr_046",
+  "name": "Cevizli Havuç Tarator",
+  "category": "salata",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "havuç",
+    "ceviz",
+    "yoğurt",
+    "meze"
+  ],
+  "ingredients": [
+    {
+      "name": "Havuç",
+      "measure": "4 adet (rendelenmiş)"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Süzme Yoğurt",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "İri Dövülmüş Ceviz",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "2 diş"
+    }
+  ],
+  "instructions": [
+    "Rendelenmiş havuçları zeytinyağında tavada yumuşayana kadar (yaklaşık 7-8 dk) soteleyin ve soğutun.",
+    "Ceviz içlerini tavada hafifçe kokusu çıkana kadar çevirin.",
+    "Sarımsaklı süzme yoğurt ile soğuyan havuç ve cevizleri karıştırın.",
+    "Soğuk olarak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

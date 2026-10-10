@@ -1,6 +1,6 @@
 {
   "id": "tr_008",
-  "name": "Çoban Salatası",
+  "name": "Geleneksel Çoban Salatası",
   "category": "salata",
   "area": "Turkish",
   "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
@@ -22,7 +22,7 @@
       "measure": "2 adet"
     },
     {
-      "name": "Yeşil Biber",
+      "name": "Sivri Biber",
       "measure": "3 adet"
     },
     {
@@ -34,19 +34,15 @@
       "measure": "Yarım demet"
     },
     {
-      "name": "Zeytinyağı & Limon & Nar Ekşisi",
-      "measure": "İsteğe göre"
-    },
-    {
-      "name": "Tuz",
-      "measure": "1 çay kaşığı"
+      "name": "Sızma Zeytinyağı & Limon",
+      "measure": "Sos için"
     }
   ],
   "instructions": [
-    "Domates, salatalık ve biberleri küçük küpler halinde (tavla zarı büyüklüğünde) doğrayın.",
-    "Soğanı da ince ince yemeklik doğrayın ve maydanozları kıyın.",
-    "Tüm sebzeleri geniş bir salata kasesinde birleştirin.",
-    "Zeytinyağı, limon suyu, tuz ve arzuya göre nar ekşisini ekleyip iyice karıştırarak servis yapın."
+    "Domates, salatalık ve biberleri tavla zarı büyüklüğünde küpler halinde doğrayın.",
+    "Soğanı piyazlık veya yemeklik ince doğrayıp maydanozla harmanlayın.",
+    "Tüm malzemeleri derin bir kasede birleştirin.",
+    "Zeytinyağı, limon suyu, tuz ve isteğe bağlı nar ekşisi gezdirip karıştırın."
   ],
   "sourceURL": null,
   "youtubeURL": null

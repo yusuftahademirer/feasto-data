@@ -1,0 +1,41 @@
+{
+  "id": "tr_045",
+  "name": "Yoğurtlu Semizotu Salatası",
+  "category": "salata",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "semizotu",
+    "sağlıklı",
+    "hafif",
+    "yaz mezesi"
+  ],
+  "ingredients": [
+    {
+      "name": "Taze Semizotu",
+      "measure": "1 demet"
+    },
+    {
+      "name": "Süzme Yoğurt",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "2 diş"
+    },
+    {
+      "name": "Zeytinyağı & Pul Biber",
+      "measure": "2 yemek kaşığı"
+    }
+  ],
+  "instructions": [
+    "Semizotunun yapraklarını ayıklayıp iyice yıkayın ve kurutun.",
+    "Sarımsaklı süzme yoğurdu hazırlayın.",
+    "Semizotlarını yoğurtla karıştırıp tabağa alın.",
+    "Üzerine sızma zeytinyağı gezdirip pul biber serpin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

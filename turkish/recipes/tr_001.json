@@ -3,14 +3,14 @@
   "name": "Karnıyarık",
   "category": "ana-yemek",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1598449356475-b9f71bc7d847?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=640&auto=format&fit=crop",
   "prepTime": 50,
   "difficulty": "medium",
   "tags": [
     "patlıcan",
     "kıyma",
     "fırın yemekleri",
-    "akşam yemeği"
+    "klasik"
   ],
   "ingredients": [
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Sarımsak",
-      "measure": "3 ciddi"
+      "measure": "3 diş"
     },
     {
       "name": "Yeşil Biber",
@@ -46,17 +46,17 @@
       "measure": "1 yemek kaşığı"
     },
     {
-      "name": "Tuz & Karabiber & Pulbiber",
+      "name": "Tuz & Karabiber & Pul Biber",
       "measure": "İsteğe göre"
     }
   ],
   "instructions": [
-    "Patlıcanları alacalı soyup tuzlu suda 20 dakika bekletin.",
-    "Tuzlu sudan çıkarıp kuruladığınız patlıcanları zeytinyağı ile yağlayıp fırında ya da tavada hafifçe közleyin/kızartın.",
-    "Ayrı bir tavada kıymayı kavurun. Yemeklik doğranmış soğan, sarımsak ve biberleri ekleyerek kavurmaya devam edin.",
-    "Küçük doğranmış domatesleri, salçayı ve baharatları ekleyip 5-10 dakika pişirin.",
-    "Fırın tepsisine dizdiğiniz patlıcanların ortalarını yarın ve kıymalı harcı doldurun.",
-    "Üzerine biber ve domates dilimleri koyun, salçalı su gezdirerek 180 derece fırında 25 dakika pişirin."
+    "Patlıcanları alacalı soyup tuzlu suda 20 dakika bekletin ve kurulayın.",
+    "Patlıcanları yağlayıp hafifçe fırında veya tavada yumuşayana kadar kızartın.",
+    "Tavada kıymayı kavurun; doğranmış soğan, sarımsak ve biberleri ekleyerek soteleyin.",
+    "Domates, salça ve baharatları ekleyip harcı 5-10 dakika pişirin.",
+    "Patlıcanların ortasını yarıp kıymalı harç ile doldurun.",
+    "Üzerine domates ve biber dilimleri koyup salçalı su gezdirerek 180°C fırında 25 dakika pişirin."
   ],
   "sourceURL": null,
   "youtubeURL": null

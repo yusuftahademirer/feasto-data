@@ -1,0 +1,45 @@
+{
+  "id": "tr_044",
+  "name": "Nefis Haydari",
+  "category": "salata",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 15,
+  "difficulty": "easy",
+  "tags": [
+    "meze",
+    "süzme yoğurt",
+    "nane",
+    "sofranın tacı"
+  ],
+  "ingredients": [
+    {
+      "name": "Koyu Süzme Yoğurt",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Beyaz Peynir",
+      "measure": "50g (ezilmiş)"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Kuru Nane",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "2 diş (ezilmiş)"
+    }
+  ],
+  "instructions": [
+    "Tereyağını tavada kızdırıp kuru naneyi ekleyin ve 10 saniye kokusu çıkınca ocaktan alın.",
+    "Süzme yoğurt ve ezilmiş beyaz peyniri çatalla homojen kıvama getirin.",
+    "Sarımsak, tuz ve naneli tereyağını yoğurda ekleyip karıştırın.",
+    "Zeytinyağı ve taze cevizle süsleyerek servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

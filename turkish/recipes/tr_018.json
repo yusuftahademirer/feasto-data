@@ -1,0 +1,45 @@
+{
+  "id": "tr_018",
+  "name": "Çökertme Kebabı",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "bodrum",
+    "çıtır patates",
+    "biftek",
+    "yoğurt"
+  ],
+  "ingredients": [
+    {
+      "name": "Dana Kontrfile veya Bonfile",
+      "measure": "400g (jülyen doğranmış)"
+    },
+    {
+      "name": "Patates",
+      "measure": "4 adet (kibrit çöpü doğranmış)"
+    },
+    {
+      "name": "Sarımsaklı Süzme Yoğurt",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Tereyağı & Domates Sosu",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Kekik & Tuz & Karabiber",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Kibrit çöpü doğranmış patatesleri bol yağda altın sarısı ve çıtır çıtır olana kadar kızartın.",
+    "Jülyen etleri döküm tavada yüksek ateşte tereyağı ve baharatlarla hızlıca soteleyin.",
+    "Tabağın tabanına çıtır patatesleri yayın.",
+    "Üzerine sarımsaklı yoğurt dökün, ardından sıcak etleri ve tereyağlı domates sosunu gezdirin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

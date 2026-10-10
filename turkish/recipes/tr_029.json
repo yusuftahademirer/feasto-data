@@ -1,0 +1,49 @@
+{
+  "id": "tr_029",
+  "name": "Düğün Çorbası",
+  "category": "corba",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "kuzu gerdan",
+    "terbiyeli",
+    "özel gün",
+    "geleneksel"
+  ],
+  "ingredients": [
+    {
+      "name": "Haşlanmış Kuzu Gerdan Eti (Didilmiş)",
+      "measure": "200g"
+    },
+    {
+      "name": "Et Suyu",
+      "measure": "5 su bardağı"
+    },
+    {
+      "name": "Un",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Yoğurt",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Yumurta Sarısı & Limon Suyu",
+      "measure": "Terbiye için"
+    },
+    {
+      "name": "Tereyağlı Kırmızı Biber",
+      "measure": "Sos için"
+    }
+  ],
+  "instructions": [
+    "Et suyunu tencerede kaynamaya bırakın ve etleri ekleyin.",
+    "Yoğurt, un, yumurta sarısı ve limon suyunu çırparak pürüzsüz bir terbiye yapın.",
+    "Sıcak et suyundan azar azar alıp terbiyeyi ılıtın, tencereye karıştırarak dökün.",
+    "5 dakika kısık ateşte kaynattıktan sonra tereyağlı pul biber sosu gezdirin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

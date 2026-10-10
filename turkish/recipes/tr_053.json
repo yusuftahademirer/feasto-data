@@ -1,0 +1,49 @@
+{
+  "id": "tr_053",
+  "name": "Karaköy Poğaçası",
+  "category": "kahvalti",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "poğaça",
+    "pastane",
+    "peynirli",
+    "gevrek"
+  ],
+  "ingredients": [
+    {
+      "name": "Oda Sıcaklığında Tereyağı",
+      "measure": "250g"
+    },
+    {
+      "name": "Ilık Süt",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "Yaş Maya veya Kuru Maya",
+      "measure": "1 paket"
+    },
+    {
+      "name": "Yumurta",
+      "measure": "2 adet (sarısı üstüne)"
+    },
+    {
+      "name": "Un",
+      "measure": "4 su bardağı"
+    },
+    {
+      "name": "Peynirli İç Harç",
+      "measure": "İsteğe göre"
+    }
+  ],
+  "instructions": [
+    "Tüm malzemelerle yumuşacık ve pürüzsüz bir hamur yoğurun.",
+    "Mandalina büyüklüğünde parçalar koparıp ortasına peynir koyarak oval şekil verin.",
+    "Tepside 30 dakika mayalandırın.",
+    "Üzerine yumurta sarısı sürüp çatalla çizik atın; 190°C fırında üzeri kızarana kadar pişirin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

@@ -1,15 +1,16 @@
 {
   "id": "tr_007",
-  "name": "Baklava",
+  "name": "Fıstıklı Antep Baklavası",
   "category": "tatli",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1519676867240-f03562e64548?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://images.unsplash.com/photo-1587314168485-3236d6710814?q=80&w=640&auto=format&fit=crop",
   "prepTime": 120,
   "difficulty": "hard",
   "tags": [
     "şerbetli tatlı",
-    "fıstıklı",
-    "bayram"
+    "antep fıstığı",
+    "bayram",
+    "çıtır"
   ],
   "ingredients": [
     {
@@ -17,34 +18,24 @@
       "measure": "40 adet"
     },
     {
-      "name": "Sadeyağ",
+      "name": "Sadeyağ (Arıtılmış Tereyağı)",
       "measure": "250g"
     },
     {
-      "name": "Toz Antep Fıstığı",
-      "measure": "2 su bardağı"
+      "name": "Boz Antep Fıstığı (Toz)",
+      "measure": "2.5 su bardağı"
     },
     {
-      "name": "Şeker (Şerbet için)",
-      "measure": "3 su bardağı"
-    },
-    {
-      "name": "Su (Şerbet için)",
-      "measure": "3 su bardağı"
-    },
-    {
-      "name": "Limon Suyu",
-      "measure": "1 tatlı kaşığı"
+      "name": "Şeker & Su & Limon",
+      "measure": "Şerbet için (3 bardak şeker, 3 bardak su)"
     }
   ],
   "instructions": [
-    "Şerbet malzemelerini tencerede 15-20 dakika kaynatıp soğumaya bırakın (şerbet soğuk, baklava sıcak olacak).",
-    "Tereyağını eritip üzerindeki köpükleri temizleyin (sadeyağ elde edin).",
-    "Tepsiyi yağlayın. Yufkaları tepsi boyutunda kesin. Her iki yufkada bir tereyağı sürerek 20 katı üst üste dizin.",
-    "Orta kata bolca toz Antep fıstığı serpiştirin.",
-    "Kalan 20 kat yufkayı da aralarını yağlayarak üst üste serin. İstediğiniz şekilde dilimleyin.",
-    "Kalan sıcak yağı baklavanın üzerine eşit şekilde gezdirin. 180 derece fırında altı ve üstü altın sarısı olana kadar (~45 dakika) pişirin.",
-    "Fırından çıkan sıcak baklavanın üzerine soğuk şerbeti dökün. En az 3 saat dinlendirip servis edin."
+    "Şerbeti kaynatıp ılık kıvama getirin.",
+    "Yufkaların aralarını tereyağı ile yağlayarak tepsiye dizin; 20. katta bol Antep fıstığı serpin.",
+    "Kalan yufkaları da yağlayarak dizin, baklava dilimi kesin.",
+    "Kalan sıcak yağı üzerine döküp 180°C fırında altın sarısı olana kadar 45 dakika pişirin.",
+    "Fırından çıkan sıcak baklavanın üzerine ılık şerbeti verip dinlendirin."
   ],
   "sourceURL": null,
   "youtubeURL": null

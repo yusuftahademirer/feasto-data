@@ -1,0 +1,45 @@
+{
+  "id": "tr_041",
+  "name": "Gavurdağı Salatası",
+  "category": "salata",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "gaziantep",
+    "ceviz",
+    "nar ekşisi",
+    "kebap mezesi"
+  ],
+  "ingredients": [
+    {
+      "name": "Domates",
+      "measure": "4 adet (küçük küp)"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet"
+    },
+    {
+      "name": "İri Kıyılmış Ceviz",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Hakiki Nar Ekşisi",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Sızma Zeytinyağı & Sumak",
+      "measure": "1er yemek kaşığı"
+    }
+  ],
+  "instructions": [
+    "Domatesleri, biberleri ve soğanları olabildiğince minik doğrayın.",
+    "Maydanozları incecik kıyıp sebzelerle karıştırın.",
+    "Zeytinyağı, nar ekşisi, sumak ve pul biberi ayrı kapta çırpıp salataya dökün.",
+    "Üzerine bol ceviz içi serpiştirerek kebapların yanında servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

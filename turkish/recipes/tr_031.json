@@ -1,0 +1,45 @@
+{
+  "id": "tr_031",
+  "name": "Gaziantep Beyran Çorbası",
+  "category": "corba",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 60,
+  "difficulty": "hard",
+  "tags": [
+    "gaziantep",
+    "kuzu eti",
+    "acılı",
+    "sarımsaklı"
+  ],
+  "ingredients": [
+    {
+      "name": "Lif Lif Ayrılmış Kuzu Gerdan/İncik",
+      "measure": "300g"
+    },
+    {
+      "name": "Pirinç (Haşlanmış)",
+      "measure": "1 çay bardağı"
+    },
+    {
+      "name": "Kemik Suyu",
+      "measure": "4 su bardağı"
+    },
+    {
+      "name": "İç Yağı veya Tereyağı",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Sarımsak & Pul Biber",
+      "measure": "Bol miktarda"
+    }
+  ],
+  "instructions": [
+    "Bakır sahana iç yağı, pirinç ve liflenmiş kuzu etlerini yerleştirin.",
+    "Bol ezilmiş sarımsak ve acı Antep pul biberini ekleyin.",
+    "Kaynar kemik suyunu ekleyip harlı ocak ateşinde 2-3 dakika fokurdatın.",
+    "Dumanı tüterken sıcak pide ile servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

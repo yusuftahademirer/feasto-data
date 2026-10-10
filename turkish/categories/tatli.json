@@ -8,27 +8,148 @@
       "name": "Fırın Sütlaç",
       "category": "tatli",
       "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1579372786545-d24232daf58c?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
       "prepTime": 50,
       "difficulty": "medium",
       "tags": [
         "sütlü tatlı",
         "fırın",
-        "geleneksel"
+        "geleneksel",
+        "hafif"
       ]
     },
     {
       "id": "tr_007",
-      "name": "Baklava",
+      "name": "Fıstıklı Antep Baklavası",
       "category": "tatli",
       "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1519676867240-f03562e64548?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://images.unsplash.com/photo-1587314168485-3236d6710814?q=80&w=640&auto=format&fit=crop",
       "prepTime": 120,
       "difficulty": "hard",
       "tags": [
         "şerbetli tatlı",
-        "fıstıklı",
-        "bayram"
+        "antep fıstığı",
+        "bayram",
+        "çıtır"
+      ]
+    },
+    {
+      "id": "tr_033",
+      "name": "Hatay Künefesi",
+      "category": "tatli",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 35,
+      "difficulty": "medium",
+      "tags": [
+        "kadayıf",
+        "peynir",
+        "şerbetli",
+        "sıcak tatlı"
+      ]
+    },
+    {
+      "id": "tr_034",
+      "name": "Karamelize Kazandibi",
+      "category": "tatli",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 50,
+      "difficulty": "hard",
+      "tags": [
+        "sütlü tatlı",
+        "karamel",
+        "geleneksel"
+      ]
+    },
+    {
+      "id": "tr_035",
+      "name": "Haşhaşlı Revani",
+      "category": "tatli",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 45,
+      "difficulty": "easy",
+      "tags": [
+        "irmik",
+        "şerbetli kek",
+        "haşhaş",
+        "tatlı"
+      ]
+    },
+    {
+      "id": "tr_036",
+      "name": "Fındıklı Şekerpare",
+      "category": "tatli",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1587314168485-3236d6710814?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 45,
+      "difficulty": "medium",
+      "tags": [
+        "şerbetli",
+        "kurabiye",
+        "fındık",
+        "geleneksel"
+      ]
+    },
+    {
+      "id": "tr_037",
+      "name": "Kavrulmuş İrmik Helvası",
+      "category": "tatli",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 30,
+      "difficulty": "easy",
+      "tags": [
+        "helva",
+        "çam fıstığı",
+        "tereyağlı",
+        "pratik"
+      ]
+    },
+    {
+      "id": "tr_038",
+      "name": "Kaymaklı Ayva Tatlısı",
+      "category": "tatli",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 60,
+      "difficulty": "easy",
+      "tags": [
+        "meyve tatlısı",
+        "kaymak",
+        "osmanlı",
+        "hafif"
+      ]
+    },
+    {
+      "id": "tr_039",
+      "name": "Karamelli Trileçe",
+      "category": "tatli",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 50,
+      "difficulty": "medium",
+      "tags": [
+        "üç sütlü tatlı",
+        "karamel",
+        "balkan",
+        "sünger kek"
+      ]
+    },
+    {
+      "id": "tr_040",
+      "name": "Çikolata Soslu Profiterol",
+      "category": "tatli",
+      "area": "Turkish",
+      "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
+      "prepTime": 55,
+      "difficulty": "medium",
+      "tags": [
+        "şu hamuru",
+        "çikolata sosu",
+        "krema",
+        "pastane"
       ]
     }
   ]

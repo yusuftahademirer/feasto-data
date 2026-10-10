@@ -5,7 +5,7 @@
     "nameEn": "Main Course",
     "emoji": "🍖",
     "cuisine": "turkish",
-    "recipeCount": 3
+    "recipeCount": 18
   },
   {
     "id": "corba",
@@ -13,7 +13,7 @@
     "nameEn": "Soup",
     "emoji": "🍜",
     "cuisine": "turkish",
-    "recipeCount": 2
+    "recipeCount": 10
   },
   {
     "id": "tatli",
@@ -21,7 +21,7 @@
     "nameEn": "Dessert",
     "emoji": "🍮",
     "cuisine": "turkish",
-    "recipeCount": 2
+    "recipeCount": 10
   },
   {
     "id": "salata",
@@ -29,7 +29,7 @@
     "nameEn": "Salad",
     "emoji": "🥗",
     "cuisine": "turkish",
-    "recipeCount": 1
+    "recipeCount": 8
   },
   {
     "id": "kahvalti",
@@ -37,7 +37,7 @@
     "nameEn": "Breakfast",
     "emoji": "🍳",
     "cuisine": "turkish",
-    "recipeCount": 1
+    "recipeCount": 8
   },
   {
     "id": "italian",

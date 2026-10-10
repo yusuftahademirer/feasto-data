@@ -1,0 +1,45 @@
+{
+  "id": "tr_027",
+  "name": "Köz Domates Çorbası",
+  "category": "corba",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 35,
+  "difficulty": "easy",
+  "tags": [
+    "domates",
+    "kaşarlı",
+    "kremamsı",
+    "lezzetli"
+  ],
+  "ingredients": [
+    {
+      "name": "Olgun Domates",
+      "measure": "5 adet"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Un",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Süt",
+      "measure": "1 çay bardağı"
+    },
+    {
+      "name": "Rende Kaşar Peyniri",
+      "measure": "Servis için"
+    }
+  ],
+  "instructions": [
+    "Tereyağında unu kokusu çıkana kadar hafifçe kavurun.",
+    "Rendelenmiş veya közlenip püre yapılmış domatesleri ekleyip 5 dakika pişirin.",
+    "Sıcak su ekleyip 15 dakika kaynatın, ardından sütü ilave edip karıştırın.",
+    "Blenderdan geçirip sıcak kaselere dökün, bol kaşar rendesiyle servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

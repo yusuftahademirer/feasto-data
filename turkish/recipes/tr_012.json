@@ -1,0 +1,50 @@
+{
+  "id": "tr_012",
+  "name": "Kuzu Tandır",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 150,
+  "difficulty": "medium",
+  "tags": [
+    "kuzu",
+    "tandır",
+    "fırın",
+    "lokum et"
+  ],
+  "ingredients": [
+    {
+      "name": "Kuzu Gerdan veya İncik",
+      "measure": "1 kg"
+    },
+    {
+      "name": "Tane Karabiber",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Defne Yaprağı",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "5 diş"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Kekik & Tuz",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Kuzu etlerini zeytinyağı, tuz, karabiber ve kekikle marine edin.",
+    "Döküm tencereye veya fırın kabına etleri, diş sarımsakları ve defne yaprağını yerleştirin.",
+    "Üzerini önce pişirme kağıdı, sonra alüminyum folyo ile hava almayacak şekilde sıkıca kapatın.",
+    "160°C fırında 2.5 - 3 saat etler kemikten ayrılacak kıvama gelene kadar pişirin.",
+    "İç pilav veya patates püresi ile servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

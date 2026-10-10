@@ -1,0 +1,45 @@
+{
+  "id": "tr_017",
+  "name": "İnegöl Köfte",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1529042410759-befb1204b468?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 40,
+  "difficulty": "medium",
+  "tags": [
+    "köfte",
+    "ızgara",
+    "bursa",
+    "et"
+  ],
+  "ingredients": [
+    {
+      "name": "Dana & Kuzu Karışık Kıyma",
+      "measure": "600g"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet (rendelenip suyu sıkılmış)"
+    },
+    {
+      "name": "Karbonat",
+      "measure": "1 çay kaşığı"
+    },
+    {
+      "name": "Limon Suyu",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Tuz",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Kıymayı tuz ve karbonatın üzerine sıkılmış limon suyu ile 15 dakika sakız gibi olana kadar yoğurun.",
+    "Karışımı 1 gece (veya en az 4 saat) buzdolabında dinlendirin.",
+    "Sıkılmış soğanı ekleyip tekrar yoğurun ve parmak şeklinde köfteler hazırlayın.",
+    "İyice ısınmış döküm tavada veya ızgarada kurutmadan pişirin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "tr_014",
+  "name": "Etli Kuru Fasulye",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=640&auto=format&fit=crop",
+  "prepTime": 70,
+  "difficulty": "easy",
+  "tags": [
+    "bakliyat",
+    "güveç",
+    "akşam yemeği",
+    "türk mutfağı"
+  ],
+  "ingredients": [
+    {
+      "name": "Kuru Fasulye (Akşamdan ıslatılmış)",
+      "measure": "2 su bardağı"
+    },
+    {
+      "name": "Kuşbaşı Dana Eti",
+      "measure": "300g"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Biber ve Domates Salçası",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Sıcak Su",
+      "measure": "4-5 su bardağı"
+    }
+  ],
+  "instructions": [
+    "Islatılmış fasulyeleri hafifçe haşlayıp köpüğünü süzün.",
+    "Tencerede tereyağında etleri soteleyin, doğranmış soğanı ekleyip pembeleştirin.",
+    "Salçaları ekleyip kokusu çıkana kadar kavurun.",
+    "Fasulyeleri ve sıcak suyu ekleyin, kısık ateşte fasulyeler ve et yumuşayana kadar pişirin.",
+    "Yanında tane pirinç pilavı ve turşu ile ikram edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}
