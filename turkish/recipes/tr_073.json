@@ -1,0 +1,57 @@
+{
+  "id": "tr_073",
+  "name": "Karadeniz Usulü Hamsili Pilav",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1191264242/tr/foto%C4%9Fraf/hamsi-hamsi-bal%C4%B1kl%C4%B1-pilav-geleneksel-t%C3%BCrk-yemekleri-kapama-pilav-siyah-ah%C5%9Fap-masa-%C3%BCzerinde.jpg?s=612x612&w=0&k=20&c=pEPmKIv8Fsrsy49pqAFVer-9eCko_-Bd2AXIjqteZwU=",
+  "prepTime": 65,
+  "difficulty": "hard",
+  "tags": [
+    "hamsi",
+    "balık",
+    "karadeniz",
+    "fırın",
+    "özel lezzet"
+  ],
+  "ingredients": [
+    {
+      "name": "Taze Hamsi (Kılçığı ayıklanmış)",
+      "measure": "1 kg"
+    },
+    {
+      "name": "Pirinç",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Kuş Üzümü & Dolmalık Fıstık",
+      "measure": "2'şer yemek kaşığı"
+    },
+    {
+      "name": "Yenibahar & Karabiber & Tarçın",
+      "measure": "1'er çay kaşığı"
+    },
+    {
+      "name": "Tereyağı & Zeytinyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "İnce Kıyılmış Maydanoz",
+      "measure": "Yarım demet"
+    }
+  ],
+  "instructions": [
+    "Hamsilerin kafalarını ve kılçıklarını temizleyip yıkayın, tuzlayıp süzgeçte bekletin.",
+    "Tencerede soğan ve fıstıkları pembeleşene kadar kavurun; pirinci, kuş üzümünü ve baharatları ekleyip yarı kıvamda iç pilav pişirin.",
+    "Fırın kabını veya tepsiyi tereyağı ile bolca yağlayın.",
+    "Hamsilerin sırtı kabın tabanına gelecek şekilde kabın altını ve kenarlarını aralıksız hamsilerle kaplayın.",
+    "Hazırladığınız aromatik iç pilavı hamsilerin üzerine yayın.",
+    "Kalan hamsileri pilavın üzerine dizerek pilavı tamamen kapatın.",
+    "Üzerine zeytinyağı gezdirip 180°C fırında hamsiler altın gibi kızarana kadar 35-40 dakika pişirin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tr_060",
+  "name": "Anne Usulü Salçalı Patates Yemeği",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/2179738015/tr/foto%C4%9Fraf/from-traditional-turkish-cuisine-meat-and-potato-dish-turkish-name-etli-patates-yemegi.jpg?s=612x612&w=0&k=20&c=uftB9uKSUXRF4UeyhjTX7zigx-7I644UYQ9b-IhtFVg=",
+  "prepTime": 35,
+  "difficulty": "easy",
+  "tags": [
+    "patates",
+    "sulu yemek",
+    "tencere yemeği",
+    "ev yemeği",
+    "pratik"
+  ],
+  "ingredients": [
+    {
+      "name": "Patates",
+      "measure": "4 adet"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Biber & Domates Salçası",
+      "measure": "1.5 yemek kaşığı"
+    },
+    {
+      "name": "Zeytinyağı veya Tereyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Sıcak Su",
+      "measure": "3.5 su bardağı"
+    },
+    {
+      "name": "Tuz & Toz Kırmızı Biber",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Soğanı yemeklik doğrayın ve tencerede yağ ile pembeleşene kadar kavurun.",
+    "Salçaları ekleyip kokusu çıkana kadar 1-2 dakika kavurmaya devam edin.",
+    "Soyulup iri küpler halinde doğranmış patatesleri tencereye ilave edin ve 2-3 dakika karıştırın.",
+    "Tuz, pul biber ve üzerini bir parmak geçecek kadar sıcak suyu ekleyin.",
+    "Kapağını kapatıp patatesler yumuşayana kadar kısık ateşte yaklaşık 25 dakika pişirin.",
+    "Ocaktan aldıktan sonra 10 dakika dinlendirip sıcak sıcak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

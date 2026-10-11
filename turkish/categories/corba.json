@@ -1,14 +1,15 @@
 {
   "category": "corba",
-  "page": 1,
-  "totalPages": 1,
+  "categoryName": "Çorba",
+  "categoryNameEn": "Soup",
+  "cuisine": "turkish",
+  "totalRecipes": 11,
   "recipes": [
     {
       "id": "tr_004",
       "name": "Süzme Kırmızı Mercimek Çorbası",
       "category": "corba",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1408897449/tr/foto%C4%9Fraf/adana-kebab-served-in-a-wooden-cutting-board-isolated-on-wooden-background-side-view.jpg?s=612x612&w=0&k=20&c=cD4HT1eEb4BFfIbRTvaJ90QjAs6xnDB-Ih0dO_x4ngQ=",
       "prepTime": 35,
       "difficulty": "easy",
       "tags": [
@@ -22,8 +23,7 @@
       "id": "tr_005",
       "name": "Ezogelin Çorbası",
       "category": "corba",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/157245571/tr/foto%C4%9Fraf/h%C3%BCnkar-be%C4%9Fendi.jpg?s=612x612&w=0&k=20&c=J92ZJ0YN2zphl7C5rF0vZzdR8QzzJTK2GP1Lh3Cd_Ro=",
       "prepTime": 40,
       "difficulty": "easy",
       "tags": [
@@ -37,7 +37,6 @@
       "id": "tr_025",
       "name": "Yayla Çorbası",
       "category": "corba",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
       "prepTime": 30,
       "difficulty": "easy",
@@ -52,7 +51,6 @@
       "id": "tr_026",
       "name": "Geleneksel Tarhana Çorbası",
       "category": "corba",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
       "prepTime": 25,
       "difficulty": "easy",
@@ -67,7 +65,6 @@
       "id": "tr_027",
       "name": "Köz Domates Çorbası",
       "category": "corba",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
       "prepTime": 35,
       "difficulty": "easy",
@@ -82,7 +79,6 @@
       "id": "tr_028",
       "name": "Şehriyeli Tavuk Çorbası",
       "category": "corba",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
       "prepTime": 35,
       "difficulty": "easy",
@@ -97,8 +93,7 @@
       "id": "tr_029",
       "name": "Düğün Çorbası",
       "category": "corba",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1357305940/tr/foto%C4%9Fraf/rice-pudding-in-the-oven-served-in-clay-pot.jpg?s=612x612&w=0&k=20&c=2m_kT49Ymd_DueyrwlB0kaftTjmkjILRR_oHJYMgSkI=",
       "prepTime": 45,
       "difficulty": "medium",
       "tags": [
@@ -112,8 +107,7 @@
       "id": "tr_030",
       "name": "Terbiyeli Kelle Paça Çorbası",
       "category": "corba",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1218839959/tr/foto%C4%9Fraf/t%C3%BCrk-usul%C3%BC-antep-f%C4%B1st%C4%B1%C4%9F%C4%B1-ve-antep-f%C4%B1st%C4%B1%C4%9F%C4%B1-baklavas%C4%B1.jpg?s=612x612&w=0&k=20&c=qZz3m0l4QuVqXwf0LEpDqxsuFpOgKPEBWHk9GESuKEw=",
       "prepTime": 60,
       "difficulty": "hard",
       "tags": [
@@ -127,8 +121,7 @@
       "id": "tr_031",
       "name": "Gaziantep Beyran Çorbası",
       "category": "corba",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1404207933/tr/foto%C4%9Fraf/kunefe.jpg?s=612x612&w=0&k=20&c=PTbIQ9hSnuCPcxzos5mya7FBhDDPHSC02anBTuYQtZ4=",
       "prepTime": 60,
       "difficulty": "hard",
       "tags": [
@@ -142,8 +135,7 @@
       "id": "tr_032",
       "name": "Klasik Arpa Şehriye Çorbası",
       "category": "corba",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1680143685/tr/foto%C4%9Fraf/milk-desserts-of-turkish-cuisine-accompanied-by-turkish-tea-turkish-pudding-chicken-breast.jpg?s=612x612&w=0&k=20&c=VrnoNxAT7i9_Vb78ipvWt4yefbLEP4CgxZMtJJMZeQY=",
       "prepTime": 25,
       "difficulty": "easy",
       "tags": [
@@ -151,6 +143,21 @@
         "salçalı",
         "şehriye",
         "günlük"
+      ]
+    },
+    {
+      "id": "tr_075",
+      "name": "Sarımsaklı & Sirkeli İşkembe Çorbası",
+      "category": "corba",
+      "thumbnailURL": "https://media.istockphoto.com/id/2111469168/tr/foto%C4%9Fraf/tukish-tripe-soup-traditional-iskembe-corbasi.jpg?s=612x612&w=0&k=20&c=he1d6ndK7owTjZ2Eh4dGjA0IkQxh1WYj355ZNPXJvHw=",
+      "prepTime": 70,
+      "difficulty": "hard",
+      "tags": [
+        "çorba",
+        "işkembe",
+        "sarımsaklı",
+        "şifalı",
+        "gece lezzeti"
       ]
     }
   ]

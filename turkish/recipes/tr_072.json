@@ -1,0 +1,56 @@
+{
+  "id": "tr_072",
+  "name": "Meyhane Usulü Şehriyeli Bulgur Pilavı",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1178733966/tr/foto%C4%9Fraf/tabakta-domates-sause-ile-geleneksel-t%C3%BCrk-bulgur-pilav%C4%B1.jpg?s=612x612&w=0&k=20&c=mdtvnbde3UzHkiIlbzzTStDeCV7f0MiEUcCe6TdZrN4=",
+  "prepTime": 30,
+  "difficulty": "easy",
+  "tags": [
+    "bulgur",
+    "pilav",
+    "domatesli",
+    "biberli",
+    "anadolu"
+  ],
+  "ingredients": [
+    {
+      "name": "Pilavlık İri Bulgur",
+      "measure": "2 su bardağı"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Yeşil Biber & Kapya Biber",
+      "measure": "1'er adet"
+    },
+    {
+      "name": "Olgun Domates",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Biber Salçası",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Tereyağı & Sıvı Yağ",
+      "measure": "2'şer yemek kaşığı"
+    },
+    {
+      "name": "Sıcak Su",
+      "measure": "3.5 su bardağı"
+    }
+  ],
+  "instructions": [
+    "Tencerede tereyağı ve sıvı yağda ince doğranmış soğanı ve biberleri soteleyin.",
+    "Salçayı ve rendelenmiş domatesleri ekleyip 2 dakika sos kıvamına gelene kadar kavurun.",
+    "Yıkanmış bulguru tencereye ekleyip malzemelerle 2 dakika kavurarak harmanlayın.",
+    "Sıcak suyu ve tuzu ekleyip karıştırın.",
+    "Kaynamaya başlayınca kapağını kapatıp en kısık ateşte suyunu tamamen çekene kadar pişirin.",
+    "10 dakika demlenmeye bırakıp tane tane kıvam aldığında yanında ayran veya turşu ile servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

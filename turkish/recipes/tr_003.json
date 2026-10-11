@@ -3,7 +3,7 @@
   "name": "Kayseri Mantısı",
   "category": "ana-yemek",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://media.istockphoto.com/id/1192936818/tr/foto%C4%9Fraf/k%C4%B1rm%C4%B1z%C4%B1-biber-domates-sosu-yo%C4%9Furt-ve-nane-ile-t%C3%BCrk-manti-geleneksel-t%C3%BCrk-yemekleri-taba%C4%9F%C4%B1.jpg?s=612x612&w=0&k=20&c=iOwSF9_p5hepa0cJk9MZYyBrtPorduuHG3WdGRxRayU=",
   "prepTime": 90,
   "difficulty": "hard",
   "tags": [
@@ -51,5 +51,5 @@
     "Kızgın tereyağında kavrulmuş pul biber ve naneyi gezdirip servis edin."
   ],
   "sourceURL": null,
-  "youtubeURL": "https://www.youtube.com/watch?v=Pkx4C3rvNdU"
+  "youtubeURL": null
 }

@@ -1,0 +1,55 @@
+{
+  "id": "tr_078",
+  "name": "Yoğurtlu Cevizli Kabak Salatası",
+  "category": "salata",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1356105959/tr/foto%C4%9Fraf/turkish-meze.jpg?s=612x612&w=0&k=20&c=D0G6oLe6sOd3gPykEhGsfaB6yqRfEtNg9eUjWbpZU2A=",
+  "prepTime": 20,
+  "difficulty": "easy",
+  "tags": [
+    "kabak",
+    "yoğurtlu",
+    "meze",
+    "cevizli",
+    "hafif"
+  ],
+  "ingredients": [
+    {
+      "name": "Kabak",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Süzme Yoğurt",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "2 diş"
+    },
+    {
+      "name": "İri Kıyılmış Ceviz İçi",
+      "measure": "Yarım su bardağı"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Taze Dereotu",
+      "measure": "Yarım demet"
+    },
+    {
+      "name": "Tuz",
+      "measure": "1 çay kaşığı"
+    }
+  ],
+  "instructions": [
+    "Kabakları rendeleyin ve avucunuzla hafifçe sıkarak fazla suyunu çıkarın.",
+    "Geniş tavada zeytinyağında kabakları diriliğini kaybedene kadar yaklaşık 7-8 dakika soteleyin ve soğumaya bırakın.",
+    "Ayrı bir kapta süzme yoğurt, ezilmiş sarımsak ve tuzu pürüzsüz olana kadar karıştırın.",
+    "Soğuyan kabakları ve ince kıyılmış dereotunu yoğurda ekleyin.",
+    "Servis tabağına alıp üzerine zeytinyağında hafifçe çevrilmiş ceviz parçaları ve pul biber gezdirerek servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

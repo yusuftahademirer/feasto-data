@@ -1,0 +1,56 @@
+{
+  "id": "tr_079",
+  "name": "Garnitürlü Zeytinyağlı Enginar",
+  "category": "salata",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1594206489/tr/foto%C4%9Fraf/traditional-delicious-turkish-food-artichoke-with-olive-oil.jpg?s=612x612&w=0&k=20&c=AYlRAhkFk29o9NJPdz68xU8ZSdO4GyhpRA2htPRs4aQ=",
+  "prepTime": 40,
+  "difficulty": "easy",
+  "tags": [
+    "enginar",
+    "zeytinyağlı",
+    "ege",
+    "garnitür",
+    "sağlıklı meze"
+  ],
+  "ingredients": [
+    {
+      "name": "Çanak Enginar",
+      "measure": "6 adet"
+    },
+    {
+      "name": "Havuç, Patates, Bezelye Garnitürü",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Taze Sıkılmış Portakal Suyu",
+      "measure": "1 çay bardağı"
+    },
+    {
+      "name": "Limon Suyu",
+      "measure": "Yarım limon"
+    },
+    {
+      "name": "Sızma Zeytinyağı",
+      "measure": "5 yemek kaşığı"
+    },
+    {
+      "name": "Toz Şeker",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Taze Dereotu",
+      "measure": "Servis için"
+    }
+  ],
+  "instructions": [
+    "Geniş ve yayvan bir tencereye çanak enginarları çukur kısımları yukarı bakacak şekilde dizin.",
+    "Her çanağın ortasına haşlanmış garnitür karışımını paylaştırın.",
+    "Bir kapta portakal suyu, limon suyu, zeytinyağı, tuz, şeker ve yarım çay bardağı suyu karıştırın.",
+    "Hazırladığınız sosu enginarların üzerine gezdirin.",
+    "Tencerenin kapağını kapatıp enginarlar yumuşayana kadar kısık ateşte yaklaşık 30 dakika pişirin.",
+    "Tencerede soğumaya bırakın; servis tabağına alıp bol dereotu ile süsleyerek soğuk servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

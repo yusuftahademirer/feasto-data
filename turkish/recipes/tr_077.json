@@ -1,0 +1,60 @@
+{
+  "id": "tr_077",
+  "name": "Urfa Usulü Etsiz Çiğ Köfte",
+  "category": "salata",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1435015482/tr/foto%C4%9Fraf/cig-kofte-or-raw-meatballs-on-wood-background-traditional-turkish-cuisine-delicacies-close.jpg?s=612x612&w=0&k=20&c=GTk12TjW5GmS8BO0_f3O47jhJlSbQ89F8dkUKFiTS_w=",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "çiğ köfte",
+    "isot",
+    "bulgur",
+    "urfa",
+    "meze"
+  ],
+  "ingredients": [
+    {
+      "name": "Esmer İnce Çiğ Köftelik Bulgur",
+      "measure": "2.5 su bardağı"
+    },
+    {
+      "name": "Hakiki Urfa İsotu",
+      "measure": "1 çay bardağı"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 büyük boy (rendelenip suyu sıkılmış)"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "4 diş"
+    },
+    {
+      "name": "Biber & Domates Salçası",
+      "measure": "2'şer yemek kaşığı"
+    },
+    {
+      "name": "Nar Ekşisi",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "Yarım çay bardağı"
+    },
+    {
+      "name": "Buz Parçaları",
+      "measure": "Yoğururken eklemek için"
+    }
+  ],
+  "instructions": [
+    "İsotu yarım çay bardağı sıcak su ve 1 yemek kaşığı zeytinyağı ile ıslatıp bekletin.",
+    "Çiğ köfte tepsisine bulgur, rendelenmiş soğan, ezilmiş sarımsak ve salçaları alın.",
+    "Azar azar buz parçaları veya soğuk su ekleyerek bulgur tamamen yumuşayana kadar yaklaşık 30-35 dakika yoğurun.",
+    "Islatılmış isotu, nar ekşisini, baharatları ve tuzu ilave edip yoğurmaya devam edin.",
+    "Son olarak zeytinyağını ekleyip köftenin parlamasını sağlayın.",
+    "Elinizle sıkarak şekil verin; bol marul, taze nane ve limon dilimleriyle servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

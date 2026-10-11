@@ -1,0 +1,60 @@
+{
+  "id": "tr_070",
+  "name": "Bol Malzemeli Ortaköy Kumpiri",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1471938181/tr/foto%C4%9Fraf/kumpir-turkish-baked-potato-with-cheese-corn-sausage-ketchup-mayonnaise-and-olives.jpg?s=612x612&w=0&k=20&c=IaaUEdOOT1qDAdcpCcjhdlkeVYE6W1wdZgAJD4xhV40=",
+  "prepTime": 60,
+  "difficulty": "easy",
+  "tags": [
+    "kumpir",
+    "sokak lezzeti",
+    "fırın patates",
+    "kaşarlı",
+    "zengin"
+  ],
+  "ingredients": [
+    {
+      "name": "Büyük Boy Kumpirlik Patates",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "4 yemek kaşığı"
+    },
+    {
+      "name": "Rendelenmiş Kaşar Peyniri",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Rus Salatası (Amerikan Salatası)",
+      "measure": "4 yemek kaşığı"
+    },
+    {
+      "name": "Haşlanmış Mısır & Bezelye",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Dilim Siyah & Yeşil Zeytin",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Sosis (Dilimlenmiş ve sote)",
+      "measure": "1 çay bardağı"
+    },
+    {
+      "name": "Ketçap & Mayonez",
+      "measure": "Üzeri için"
+    }
+  ],
+  "instructions": [
+    "Patatesleri yıkayıp kurulayın; üzerini çatalla delip fırın kağıdına ve ardından alüminyum folyoya sıkıca sarın.",
+    "220°C fırında patatesin içi yumuşayana kadar yaklaşık 60-70 dakika pişirin.",
+    "Sıcak patatesin ortasını uzunlamasına yarıp içinin sıcağıyla tereyağı, kaşar peyniri ve tuzu ekleyin.",
+    "Çatalla patatesin içini püre kıvamına gelip kaşar uzayana kadar iyice ezin.",
+    "Üzerine rus salatası, sote sosis, mısır, zeytin ve turşu dilimlerini yerleştirin.",
+    "Ketçap ve mayonez sıkarak dumanı üstünde servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

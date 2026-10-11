@@ -1,0 +1,56 @@
+{
+  "id": "tr_063",
+  "name": "Kıymalı Girit Kabak Yemeği",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1028200434/tr/foto%C4%9Fraf/t%C3%BCrk-g%C3%BCve%C3%A7-yemekleri-kabak-dereotu-ve-domates-ile-pan.jpg?s=612x612&w=0&k=20&c=Zm0UlEPOlXfwt6Nv8SZwgK0aiQwi0TNeUn8z6_2sOPU=",
+  "prepTime": 40,
+  "difficulty": "easy",
+  "tags": [
+    "kabak",
+    "kıyma",
+    "tencere yemeği",
+    "sağlıklı",
+    "dereotu"
+  ],
+  "ingredients": [
+    {
+      "name": "Taze Kabak",
+      "measure": "4 adet"
+    },
+    {
+      "name": "Az Yağlı Dana Kıyma",
+      "measure": "250g"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Domates",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Salça",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Taze Dereotu",
+      "measure": "Yarım demet"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "3 yemek kaşığı"
+    }
+  ],
+  "instructions": [
+    "Kabakların dışını çatal yardımıyla çizip halka veya yarım ay şeklinde dilimleyin.",
+    "Tencerede zeytinyağı ile kıymayı suyunu salıp çekene kadar kavurun.",
+    "Doğranmış soğanı ekleyip pembeleşene kadar soteleyin, salça ve domatesi ilave edin.",
+    "Kabakları tencereye ekleyip 2 dakika harçla birlikte çevirin.",
+    "Yarım su bardağı sıcak su ve tuz ekleyip kapağını kapatın; kısık ateşte kabaklar yumuşayana kadar pişirin.",
+    "Ocaktan aldıktan sonra bol ince kıyılmış taze dereotu serperek servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

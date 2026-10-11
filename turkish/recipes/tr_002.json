@@ -3,7 +3,7 @@
   "name": "İskender Kebabı",
   "category": "ana-yemek",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://media.istockphoto.com/id/2175991896/tr/foto%C4%9Fraf/traditional-turkish-doner-kebab-also-known-iskender.jpg?s=612x612&w=0&k=20&c=PeS0G1tEkG1DdcBWawBMx7erXsfj14d9fTT9k_A2xPQ=",
   "prepTime": 45,
   "difficulty": "hard",
   "tags": [
@@ -47,5 +47,5 @@
     "Tavada köpürtülmüş sıcak tereyağını etlerin üzerine dökün, köz biber ve domatesle servis edin."
   ],
   "sourceURL": null,
-  "youtubeURL": "https://www.youtube.com/watch?v=1bC3eD8U3wE"
+  "youtubeURL": null
 }

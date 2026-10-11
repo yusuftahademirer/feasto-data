@@ -1,0 +1,52 @@
+{
+  "id": "tr_069",
+  "name": "İzmir Usulü Baharatlı Kokoreç",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1816883731/tr/foto%C4%9Fraf/traditional-turkish-food-kokorec-izmir-kokorec.jpg?s=612x612&w=0&k=20&c=NMab4VYulbnZE0Ja_mqtJYJGGd6nGoYtsWGlh7DI8A0=",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "sokak lezzeti",
+    "kokoreç",
+    "kekik",
+    "ekmek arası",
+    "baharatlı"
+  ],
+  "ingredients": [
+    {
+      "name": "Pişmiş İnce Dilimlenmiş Kokoreç",
+      "measure": "400g"
+    },
+    {
+      "name": "Çıtır Çeyrek veya Yarım Ekmek",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Kaya Kekiği",
+      "measure": "2 tatlı kaşığı"
+    },
+    {
+      "name": "Acı Pul Biber & Kimyon",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Domates & Biber (İsteğe bağlı)",
+      "measure": "1 adet"
+    }
+  ],
+  "instructions": [
+    "Döküm tavayı veya sacı yüksek ateşte iyice ısıtın.",
+    "Dilimlenmiş kokoreçleri tereyağıyla sıcak tavaya alın.",
+    "Satır veya spatula ile kokoreçleri ince ince kıyarak hızlıca kavurun.",
+    "Ocaktan almaya yakın bol kekik, pul biber, kimyon ve tuz ilave edip karıştırın.",
+    "Taze çıtır ekmeği kokorecin üzerine basarak ekmeğin içini ısıtın ve yağını çektirin.",
+    "Baharatlı kokoreci ekmeğin arasına doldurup sıcak sıcak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

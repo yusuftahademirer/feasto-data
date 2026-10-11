@@ -4,7 +4,7 @@
     "name": "Karnıyarık",
     "category": "ana-yemek",
     "area": "Turkish",
-    "thumbnailURL": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=640&auto=format&fit=crop",
+    "thumbnailURL": "https://media.istockphoto.com/id/2119170192/tr/foto%C4%9Fraf/traditional-turkish-cuisine-turkish-dish-eggplant-with-minced-meat-karniyarik.jpg?s=612x612&w=0&k=20&c=ECAujR2eYaY6zl0vceU60UKX4zKxQNjjaYU2FFzXwmI=",
     "prepTime": 50,
     "difficulty": "medium",
     "tags": [
@@ -19,7 +19,7 @@
     "name": "İskender Kebabı",
     "category": "ana-yemek",
     "area": "Turkish",
-    "thumbnailURL": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=640&auto=format&fit=crop",
+    "thumbnailURL": "https://media.istockphoto.com/id/2175991896/tr/foto%C4%9Fraf/traditional-turkish-doner-kebab-also-known-iskender.jpg?s=612x612&w=0&k=20&c=PeS0G1tEkG1DdcBWawBMx7erXsfj14d9fTT9k_A2xPQ=",
     "prepTime": 45,
     "difficulty": "hard",
     "tags": [
@@ -34,7 +34,7 @@
     "name": "Kayseri Mantısı",
     "category": "ana-yemek",
     "area": "Turkish",
-    "thumbnailURL": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=640&auto=format&fit=crop",
+    "thumbnailURL": "https://media.istockphoto.com/id/1192936818/tr/foto%C4%9Fraf/k%C4%B1rm%C4%B1z%C4%B1-biber-domates-sosu-yo%C4%9Furt-ve-nane-ile-t%C3%BCrk-manti-geleneksel-t%C3%BCrk-yemekleri-taba%C4%9F%C4%B1.jpg?s=612x612&w=0&k=20&c=iOwSF9_p5hepa0cJk9MZYyBrtPorduuHG3WdGRxRayU=",
     "prepTime": 90,
     "difficulty": "hard",
     "tags": [
@@ -49,7 +49,7 @@
     "name": "Süzme Kırmızı Mercimek Çorbası",
     "category": "corba",
     "area": "Turkish",
-    "thumbnailURL": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?q=80&w=640&auto=format&fit=crop",
+    "thumbnailURL": "https://media.istockphoto.com/id/1408897449/tr/foto%C4%9Fraf/adana-kebab-served-in-a-wooden-cutting-board-isolated-on-wooden-background-side-view.jpg?s=612x612&w=0&k=20&c=cD4HT1eEb4BFfIbRTvaJ90QjAs6xnDB-Ih0dO_x4ngQ=",
     "prepTime": 35,
     "difficulty": "easy",
     "tags": [
@@ -60,32 +60,34 @@
     ]
   },
   {
-    "id": "tr_006",
-    "name": "Fırın Sütlaç",
-    "category": "tatli",
+    "id": "tr_055",
+    "name": "Kapadokya Testi Kebabı",
+    "category": "ana-yemek",
     "area": "Turkish",
-    "thumbnailURL": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=640&auto=format&fit=crop",
-    "prepTime": 50,
-    "difficulty": "medium",
+    "thumbnailURL": "https://media.istockphoto.com/id/1448378933/tr/foto%25C4%259Fraf/authentic-turkish-testi-kebab-cooked-in-earthenware-waterjug-turkish-name-testi-kebabi.jpg?s=612x612&w=0&k=20&c=lUdpSN9xAWGGvEpCTYvoaaQQAR9SVKVxvpWU3n227LY=",
+    "prepTime": 90,
+    "difficulty": "hard",
     "tags": [
-      "sütlü tatlı",
-      "fırın",
+      "kebap",
+      "kuzu",
+      "testi",
       "geleneksel",
-      "hafif"
+      "fırın"
     ]
   },
   {
-    "id": "tr_009",
-    "name": "Köy Usulü Menemen",
-    "category": "kahvalti",
+    "id": "tr_071",
+    "name": "Geleneksel Tereyağlı Pirinç Pilavı",
+    "category": "ana-yemek",
     "area": "Turkish",
-    "thumbnailURL": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=640&auto=format&fit=crop",
-    "prepTime": 20,
-    "difficulty": "easy",
+    "thumbnailURL": "https://media.istockphoto.com/id/2043305575/tr/foto%C4%9Fraf/traditional-delicious-turkish-food-turkish-style-rice-pilaf.jpg?s=612x612&w=0&k=20&c=_6VjaPdquh3evIJzYP27S4-3MBE_yALX-WEQPo5GdL4=",
+    "prepTime": 30,
+    "difficulty": "medium",
     "tags": [
-      "kahvaltı",
-      "yumurta",
-      "domates",
+      "pilav",
+      "şehriye",
+      "tereyağlı",
+      "tane tane",
       "klasik"
     ]
   },

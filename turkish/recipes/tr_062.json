@@ -1,0 +1,52 @@
+{
+  "id": "tr_062",
+  "name": "Fırında Kaşarlı Karnabahar",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1290730147/tr/foto%C4%9Fraf/ot-sosu-ve-baharat-ile-karnabahar-biftek-bitki-bazl%C4%B1-et-yerine.jpg?s=612x612&w=0&k=20&c=aBUp_3fs6p7hHkxOCpkksqnVfh3ssUG2tDsNNlfv0Pc=",
+  "prepTime": 40,
+  "difficulty": "easy",
+  "tags": [
+    "karnabahar",
+    "fırın",
+    "kaşar",
+    "sağlıklı",
+    "sebze"
+  ],
+  "ingredients": [
+    {
+      "name": "Orta Boy Karnabahar",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Rendelenmiş Kaşar Peyniri",
+      "measure": "1.5 su bardağı"
+    },
+    {
+      "name": "Süt",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Yumurta",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Kırmızı Toz Biber & Karabiber",
+      "measure": "1 çay kaşığı"
+    }
+  ],
+  "instructions": [
+    "Karnabaharı çiçeklerine ayırıp tuzlu kaynar suda 7-8 dakika hafif diri kalacak şekilde haşlayın.",
+    "Haşlanan karnabaharları süzüp fırın kabına dizin.",
+    "Bir kapta yumurta, süt, zeytinyağı, tuz ve baharatları tel çırpıcı ile çırpın.",
+    "Hazırladığınız sosu karnabaharların üzerine eşit şekilde gezdirin.",
+    "Üzerine bolca rendelenmiş kaşar peyniri serpin.",
+    "190°C önceden ısıtılmış fırında üzeri altın sarısı kızarana kadar 25 dakika fırınlayın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

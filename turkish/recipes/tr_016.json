@@ -3,7 +3,7 @@
   "name": "Çıtır Lahmacun",
   "category": "ana-yemek",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://media.istockphoto.com/id/187030109/tr/foto%C4%9Fraf/turkish-pizza.jpg?s=612x612&w=0&k=20&c=c7VQgi1DNs6Q7sY1KSX6F6HyHaxBQNUzJRCgFvqbV-o=",
   "prepTime": 45,
   "difficulty": "medium",
   "tags": [
@@ -46,5 +46,5 @@
     "En yüksek ayarda ısıtılmış fırında veya tavada altı çıtır olana kadar pişirin. Bol maydanoz ve limonla servis edin."
   ],
   "sourceURL": null,
-  "youtubeURL": "https://www.youtube.com/watch?v=yi5ofQXD6WA"
+  "youtubeURL": null
 }

@@ -1,0 +1,60 @@
+{
+  "id": "tr_075",
+  "name": "Sarımsaklı & Sirkeli İşkembe Çorbası",
+  "category": "corba",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/2111469168/tr/foto%C4%9Fraf/tukish-tripe-soup-traditional-iskembe-corbasi.jpg?s=612x612&w=0&k=20&c=he1d6ndK7owTjZ2Eh4dGjA0IkQxh1WYj355ZNPXJvHw=",
+  "prepTime": 70,
+  "difficulty": "hard",
+  "tags": [
+    "çorba",
+    "işkembe",
+    "sarımsaklı",
+    "şifalı",
+    "gece lezzeti"
+  ],
+  "ingredients": [
+    {
+      "name": "Temizlenmiş Dana İşkembe",
+      "measure": "700g"
+    },
+    {
+      "name": "Un",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Yoğurt",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Yumurta Sarısı",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "6 diş"
+    },
+    {
+      "name": "Üzüm Sirkesi",
+      "measure": "Yarım çay bardağı"
+    },
+    {
+      "name": "Pul Biber",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "İşkembeyi bol su ve sirkeyle yıkayıp düdüklü tencerede yumuşayana kadar yaklaşık 45 dakika haşlayın.",
+    "Haşlanan işkembeyi sudan alıp tavla zarı büyüklüğünde ince ince doğrayın; haşlama suyunu süzgeçten geçirin.",
+    "Ayrı bir kapta un, yoğurt, yumurta sarısı ve limon suyunu pürüzsüz kıvama gelene kadar çırpın.",
+    "İşkembe suyundan azar azar terbiyeye ekleyip ılıtın; tencereye doğranmış işkembelerle birlikte ekleyin.",
+    "Kısık ateşte çorba kıvam alana kadar sürekli karıştırarak 10 dakika kaynatın.",
+    "Ezilmiş sarımsak ve sirke sosu ile eritilmiş pul biberli tereyağını üzerine gezdirerek sıcak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

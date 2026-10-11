@@ -1,0 +1,56 @@
+{
+  "id": "tr_080",
+  "name": "Baharatlı İç Pilavlı Midye Dolma",
+  "category": "salata",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1057287622/tr/foto%C4%9Fraf/t%C3%BCrk-usul%C3%BC-midye-beyaz-arka-plan-%C3%BCzerinde-doldurulmu%C5%9F.jpg?s=612x612&w=0&k=20&c=HMOrkTlZt4n3-LW1hhQ1-uv9LyuVzeJ1FGs9fs5Vk48=",
+  "prepTime": 60,
+  "difficulty": "hard",
+  "tags": [
+    "midye",
+    "sokak lezzeti",
+    "iç pilav",
+    "meze",
+    "limonlu"
+  ],
+  "ingredients": [
+    {
+      "name": "Kabuklu Taze Midye",
+      "measure": "30 adet"
+    },
+    {
+      "name": "Baldo Pirinç",
+      "measure": "1 su bardağı"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Kuş Üzümü & Dolmalık Fıstık",
+      "measure": "2'şer yemek kaşığı"
+    },
+    {
+      "name": "Yenibahar, Karabiber, Tarçın",
+      "measure": "1'er tatlı kaşığı"
+    },
+    {
+      "name": "Sızma Zeytinyağı",
+      "measure": "4 yemek kaşığı"
+    },
+    {
+      "name": "Bol Taze Limon",
+      "measure": "Servis için"
+    }
+  ],
+  "instructions": [
+    "Midyelerin dış kabuklarını fırçalayarak yıkayın ve sakallarını çekerek temizleyin.",
+    "Bıçakla kabukları kırmadan aralayıp yıkayıp süzün.",
+    "Tencerede bol soğan, fıstık, kuş üzümü, baharatlar ve pirinçle yarı kıvamda zengin aromatik bir iç pilav hazırlayın.",
+    "Her midyenin içine 1 tatlı kaşığı kadar pilav koyup kabuğunu kapatın.",
+    "Midyeleri tencereye sıkıca dizin, üzerine zeytinyağı ve sıcak su ekleyip tabak kapatın.",
+    "Kısık ateşte pirinçler yumuşayana kadar 25 dakika pişirin; ılıyınca bol limon sıkarak servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

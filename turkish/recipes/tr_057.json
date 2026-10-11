@@ -1,0 +1,64 @@
+{
+  "id": "tr_057",
+  "name": "Toprak Kapta Kuzu Güveç",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1360850373/tr/foto%C4%9Fraf/top-view-of-turkish-dish-guvech-baked-meat-with-eggplant-and-traditionally-served-in.jpg?s=612x612&w=0&k=20&c=-hLXuerNj7SKLcNC6BAr3tW-MdYHUelbb4g3E0K5Mi8=",
+  "prepTime": 80,
+  "difficulty": "medium",
+  "tags": [
+    "kuzu",
+    "güveç",
+    "fırın",
+    "türlü",
+    "sebzeli et"
+  ],
+  "ingredients": [
+    {
+      "name": "Kuşbaşı Kuzu Eti",
+      "measure": "500g"
+    },
+    {
+      "name": "Patlıcan",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Patates",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Arpacık Soğan",
+      "measure": "10 adet"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "5 diş"
+    },
+    {
+      "name": "Domates",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Köy Biberi",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Biber Salçası",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "2 yemek kaşığı"
+    }
+  ],
+  "instructions": [
+    "Toprak güveç kabının tabanına kuzu etlerini yayın.",
+    "Üzerine arpacık soğanları, soyulmuş sarımsakları ve küp doğranmış patatesleri ekleyin.",
+    "Alacalı soyulup doğranmış patlıcanları ve biberleri dizin.",
+    "En üste küp domatesleri yerleştirin; salçayı sıcak suda açıp güvecin üzerine gezdirin.",
+    "Tereyağını parça parça üzerine koyup güvecin kapağını kapatın.",
+    "180°C fırında yaklaşık 1.5 saat kuzu eti lokum gibi olana kadar pişirin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

@@ -1,14 +1,15 @@
 {
   "category": "salata",
-  "page": 1,
-  "totalPages": 1,
+  "categoryName": "Salata",
+  "categoryNameEn": "Salad",
+  "cuisine": "turkish",
+  "totalRecipes": 13,
   "recipes": [
     {
       "id": "tr_008",
       "name": "Geleneksel Çoban Salatası",
       "category": "salata",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1222166969/tr/foto%C4%9Fraf/t%C3%BCrk-g%C4%B1da-kuru-fasulye-pilav-sucuk-ile-masada.jpg?s=612x612&w=0&k=20&c=5JfUIS9MY4Hx5ZuTXBYWmaCrLNX4sz1dGvQ4mrJgEww=",
       "prepTime": 15,
       "difficulty": "easy",
       "tags": [
@@ -22,7 +23,6 @@
       "id": "tr_041",
       "name": "Gavurdağı Salatası",
       "category": "salata",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=640&auto=format&fit=crop",
       "prepTime": 20,
       "difficulty": "easy",
@@ -37,7 +37,6 @@
       "id": "tr_042",
       "name": "Antalya Usulü Tahinli Piyaz",
       "category": "salata",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
       "prepTime": 25,
       "difficulty": "easy",
@@ -52,7 +51,6 @@
       "id": "tr_043",
       "name": "Yoğurtlu Köz Patlıcan Salatası",
       "category": "salata",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=640&auto=format&fit=crop",
       "prepTime": 20,
       "difficulty": "easy",
@@ -67,7 +65,6 @@
       "id": "tr_044",
       "name": "Nefis Haydari",
       "category": "salata",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?q=80&w=640&auto=format&fit=crop",
       "prepTime": 15,
       "difficulty": "easy",
@@ -82,7 +79,6 @@
       "id": "tr_045",
       "name": "Yoğurtlu Semizotu Salatası",
       "category": "salata",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=640&auto=format&fit=crop",
       "prepTime": 15,
       "difficulty": "easy",
@@ -97,7 +93,6 @@
       "id": "tr_046",
       "name": "Cevizli Havuç Tarator",
       "category": "salata",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=640&auto=format&fit=crop",
       "prepTime": 20,
       "difficulty": "easy",
@@ -112,8 +107,7 @@
       "id": "tr_047",
       "name": "Antakya Usulü Kısır",
       "category": "salata",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1305760986/tr/foto%C4%9Fraf/menemen-siyah-arka-plan-%C3%BCzerinde-bak%C4%B1r-tavada-yumurta-domates-ye%C5%9Fil-biber-ve-baharat.jpg?s=612x612&w=0&k=20&c=pcEjASdvuvJzZyT0hww_dVqc2fcR767awVUoJC5pMfY=",
       "prepTime": 25,
       "difficulty": "easy",
       "tags": [
@@ -121,6 +115,81 @@
         "bulgur",
         "nar ekşisi",
         "çay saati"
+      ]
+    },
+    {
+      "id": "tr_076",
+      "name": "Geleneksel Mercimek Köftesi",
+      "category": "salata",
+      "thumbnailURL": "https://media.istockphoto.com/id/2213195398/tr/foto%C4%9Fraf/turkish-food-lentil-balls.jpg?s=612x612&w=0&k=20&c=olHYLjzqhqPPnMwCqbbG7uGGPCg5QRLqBXP-cfxbtIQ=",
+      "prepTime": 45,
+      "difficulty": "easy",
+      "tags": [
+        "mercimek",
+        "bulgur",
+        "meze",
+        "zeytinyağlı",
+        "vejetaryen"
+      ]
+    },
+    {
+      "id": "tr_077",
+      "name": "Urfa Usulü Etsiz Çiğ Köfte",
+      "category": "salata",
+      "thumbnailURL": "https://media.istockphoto.com/id/1435015482/tr/foto%C4%9Fraf/cig-kofte-or-raw-meatballs-on-wood-background-traditional-turkish-cuisine-delicacies-close.jpg?s=612x612&w=0&k=20&c=GTk12TjW5GmS8BO0_f3O47jhJlSbQ89F8dkUKFiTS_w=",
+      "prepTime": 45,
+      "difficulty": "medium",
+      "tags": [
+        "çiğ köfte",
+        "isot",
+        "bulgur",
+        "urfa",
+        "meze"
+      ]
+    },
+    {
+      "id": "tr_078",
+      "name": "Yoğurtlu Cevizli Kabak Salatası",
+      "category": "salata",
+      "thumbnailURL": "https://media.istockphoto.com/id/1356105959/tr/foto%C4%9Fraf/turkish-meze.jpg?s=612x612&w=0&k=20&c=D0G6oLe6sOd3gPykEhGsfaB6yqRfEtNg9eUjWbpZU2A=",
+      "prepTime": 20,
+      "difficulty": "easy",
+      "tags": [
+        "kabak",
+        "yoğurtlu",
+        "meze",
+        "cevizli",
+        "hafif"
+      ]
+    },
+    {
+      "id": "tr_079",
+      "name": "Garnitürlü Zeytinyağlı Enginar",
+      "category": "salata",
+      "thumbnailURL": "https://media.istockphoto.com/id/1594206489/tr/foto%C4%9Fraf/traditional-delicious-turkish-food-artichoke-with-olive-oil.jpg?s=612x612&w=0&k=20&c=AYlRAhkFk29o9NJPdz68xU8ZSdO4GyhpRA2htPRs4aQ=",
+      "prepTime": 40,
+      "difficulty": "easy",
+      "tags": [
+        "enginar",
+        "zeytinyağlı",
+        "ege",
+        "garnitür",
+        "sağlıklı meze"
+      ]
+    },
+    {
+      "id": "tr_080",
+      "name": "Baharatlı İç Pilavlı Midye Dolma",
+      "category": "salata",
+      "thumbnailURL": "https://media.istockphoto.com/id/1057287622/tr/foto%C4%9Fraf/t%C3%BCrk-usul%C3%BC-midye-beyaz-arka-plan-%C3%BCzerinde-doldurulmu%C5%9F.jpg?s=612x612&w=0&k=20&c=HMOrkTlZt4n3-LW1hhQ1-uv9LyuVzeJ1FGs9fs5Vk48=",
+      "prepTime": 60,
+      "difficulty": "hard",
+      "tags": [
+        "midye",
+        "sokak lezzeti",
+        "iç pilav",
+        "meze",
+        "limonlu"
       ]
     }
   ]

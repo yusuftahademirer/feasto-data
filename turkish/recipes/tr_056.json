@@ -1,0 +1,52 @@
+{
+  "id": "tr_056",
+  "name": "Erzurum Cağ Kebabı",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/480228344/tr/foto%25C4%259Fraf/erzurum-ca%25C4%259F-kebab%25C4%25B1.jpg?s=612x612&w=0&k=20&c=wPP8mssLcMkHa1oZlD0HvW99T6Ac_QMs-GGSYyd2Txw=",
+  "prepTime": 60,
+  "difficulty": "hard",
+  "tags": [
+    "kebap",
+    "kuzu",
+    "yatık döner",
+    "erzurum",
+    "odun ateşi"
+  ],
+  "ingredients": [
+    {
+      "name": "Kuzu But Eti (Yağsız)",
+      "measure": "750g"
+    },
+    {
+      "name": "Kuru Soğan Suyu",
+      "measure": "1 çay bardağı"
+    },
+    {
+      "name": "Yoğurt",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Karabiber & Pul Biber",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Tuz",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Lavaş Ekmeği",
+      "measure": "Servis için"
+    }
+  ],
+  "instructions": [
+    "Kuzu etini ince yapraklar halinde dilimleyin.",
+    "Soğan suyu, yoğurt, tuz ve taze çekilmiş karabiberle eti marine edip en az 1 gün buzdolabında dinlendirin.",
+    "Marine edilen etleri yatık cağ şişlerine sıkıca dizin.",
+    "Odun ateşi veya fırında çevirerek etin dış yüzeyini kızartın.",
+    "Özel küçük cağ şişlerini ete saplayarak pişen katmanı bıçakla kesin.",
+    "Sıcak cağ şişlerini tırnak pide veya lavaş üzerinde közlenmiş biber ve domates ile servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

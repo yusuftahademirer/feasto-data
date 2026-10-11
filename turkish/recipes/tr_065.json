@@ -1,0 +1,56 @@
+{
+  "id": "tr_065",
+  "name": "Tavuklu & Etli Nohut Yemeği",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/2184193297/tr/foto%C4%9Fraf/top-view-of-moroccan-chicken-tagine-with-eggplant-tomatoes-and-chickpeas.jpg?s=612x612&w=0&k=20&c=DujPnqa18cKlaJgwr58723iV7lTCRT4aBTuu7cyiFY4=",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "nohut",
+    "tavuk",
+    "bakliyat",
+    "klasik",
+    "tencere yemeği"
+  ],
+  "ingredients": [
+    {
+      "name": "Haşlanmış Nohut",
+      "measure": "3 su bardağı"
+    },
+    {
+      "name": "Tavuk Göğsü (Kuşbaşı)",
+      "measure": "350g"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Biber Salçası",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Domates Salçası",
+      "measure": "1 yemek kaşığı"
+    },
+    {
+      "name": "Tereyağı & Zeytinyağı",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Tuz, Kimyon, Pul Biber",
+      "measure": "1 çay kaşığı"
+    }
+  ],
+  "instructions": [
+    "Tencerede tereyağı ve zeytinyağında kuşbaşı tavuk etlerini rengi dönene kadar soteleyin.",
+    "Yemeklik doğranmış soğanı ekleyip soğanlar şeffaflaşana kadar kavurun.",
+    "Biber ve domates salçalarını ilave ederek kokusu çıkana kadar 1 dakika daha kavurun.",
+    "Önceden haşlanmış nohutları ve baharatları ekleyip karıştırın.",
+    "Malzemelerin üzerini kapatacak kadar sıcak tavuk suyu veya sıcak su ekleyin.",
+    "Kısık ateşte lezzetler birbirine geçene kadar 25-30 dakika pişirip tereyağlı pilav ile servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

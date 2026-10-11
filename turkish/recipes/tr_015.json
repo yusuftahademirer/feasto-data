@@ -3,7 +3,7 @@
   "name": "İçli Köfte",
   "category": "ana-yemek",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1529042410759-befb1204b468?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://media.istockphoto.com/id/500252626/tr/foto%C4%9Fraf/turkey-in-oven.jpg?s=612x612&w=0&k=20&c=sWy1ud8lBYEqKcPJ0D2GKxe65UMz-6rn73w95tj69XQ=",
   "prepTime": 75,
   "difficulty": "hard",
   "tags": [
@@ -46,5 +46,5 @@
     "Bol kızgın yağda altın sarısı olana kadar kızartın (veya haşlayın)."
   ],
   "sourceURL": null,
-  "youtubeURL": "https://www.youtube.com/watch?v=bN5k7Y8m8mA"
+  "youtubeURL": null
 }

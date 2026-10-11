@@ -1,0 +1,52 @@
+{
+  "id": "tr_082",
+  "name": "Çıtır Çıtır Paçanga Böreği",
+  "category": "kahvalti",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/519792444/tr/foto%C4%9Fraf/traditional-turkish-food.jpg?s=612x612&w=0&k=20&c=N7jFfrGwZ63mWYd0ZPRiaW3OHfn4Jl-pO7Z7w8y_C2M=",
+  "prepTime": 30,
+  "difficulty": "easy",
+  "tags": [
+    "börek",
+    "pastırma",
+    "kaşar",
+    "kahvaltı",
+    "çıtır"
+  ],
+  "ingredients": [
+    {
+      "name": "Taze Yufka",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Çemensiz Pastırma",
+      "measure": "150g"
+    },
+    {
+      "name": "Kaşar Peyniri (Rendelenmiş veya dilim)",
+      "measure": "200g"
+    },
+    {
+      "name": "Domates (Kabuğu soyulmuş ve küp)",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Yeşil Biber (İnce kıyılmış)",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Kızartmak için Sıvı Yağ",
+      "measure": "1 su bardağı"
+    }
+  ],
+  "instructions": [
+    "Yufkaları üst üste koyup üçgen şeklinde 8 eşit parçaya bölün (toplam 16 üçgen).",
+    "Pastırmaları jülyen doğrayın; küp domates, ince biber ve kaşar peyniriyle harmanlayın.",
+    "Her üçgen yufkanın geniş kısmına bolca pastırmalı kaşarlı harçtan koyun.",
+    "Kenarlarını içe katlayarak kalın bir sigara böreği gibi gevşekçe sarın; uç kısmını suya batırarak yapıştırın.",
+    "Kızgın sıvı yağda böreklerin her tarafını altın sarısı olana kadar 2-3 dakika kızartın (veya fırında pişirin).",
+    "Kaşarı erimiş, pastırması mis kokulu sıcak paçanga böreklerini bekletmeden servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

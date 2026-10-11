@@ -1,0 +1,60 @@
+{
+  "id": "tr_058",
+  "name": "Terbiyeli Sulu Köfte",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1366586150/tr/foto%C4%9Fraf/turkish-food-green-pea-stew-with-meatballs-kofte-or-kofta-bezelye.jpg?s=612x612&w=0&k=20&c=9IfdjMYzkOiw4AMWeRbqQT1PXyWOnbbo21S0_1xcyUI=",
+  "prepTime": 45,
+  "difficulty": "medium",
+  "tags": [
+    "köfte",
+    "sulu yemek",
+    "patates",
+    "ev yemeği",
+    "havuç"
+  ],
+  "ingredients": [
+    {
+      "name": "Orta Yağlı Kıyma",
+      "measure": "350g"
+    },
+    {
+      "name": "Kırık Pirinç",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Patates",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Havuç",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Un (Bulamak için)",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Yumurta Sarısı & Limon Suyu",
+      "measure": "Terbiye için"
+    },
+    {
+      "name": "Zeytinyağı & Tereyağı",
+      "measure": "2 yemek kaşığı"
+    }
+  ],
+  "instructions": [
+    "Kıymayı rendelenmiş soğan, yıkanmış pirinç, tuz ve karabiber ile 5 dakika yoğurun.",
+    "Fındık büyüklüğünde misket köfteler yuvarlayıp un serpilmiş tepside sallayarak una bulayın.",
+    "Tencerede yağ ile küp doğranmış havuç ve patatesleri 3-4 dakika soteleyin.",
+    "Sıcak su ekleyip kaynamaya bırakın; kaynayınca köfteleri yavaşça suya bırakın.",
+    "Pirinçler ve sebzeler yumuşayana kadar orta ateşte 25 dakika pişirin.",
+    "Yumurta sarısı ve limon suyunu çırpıp yemeğin suyundan ılıtarak tencereye ekleyin, 2 dakika kaynatıp ocaktan alın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "tr_067",
+  "name": "Fırında Soslu Tavuk Baget",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/455238343/tr/foto%C4%9Fraf/roasted-marinated-chicken-drumsticks.jpg?s=612x612&w=0&k=20&c=3uJuEfE7J9EixkdTJL7KQa5Y9dcjXs2R81Zc_jwMpNk=",
+  "prepTime": 45,
+  "difficulty": "easy",
+  "tags": [
+    "tavuk",
+    "baget",
+    "fırın",
+    "marinasyon",
+    "patatesli"
+  ],
+  "ingredients": [
+    {
+      "name": "Tavuk Baget",
+      "measure": "8 adet"
+    },
+    {
+      "name": "Bebek Patates",
+      "measure": "8 adet"
+    },
+    {
+      "name": "Yoğurt",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Domates Salçası",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Zeytinyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "2 diş"
+    },
+    {
+      "name": "Kekik, Toz Biber, Tuz",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Bir kapta yoğurt, salça, zeytinyağı, ezilmiş sarımsak ve baharatları karıştırarak sosu hazırlayın.",
+    "Tavuk bagetlerin üzerine bıçakla çizikler atıp sosla her yerini kaplayın.",
+    "Patatesleri ikiye bölüp kalan sosa bulayın.",
+    "Fırın tepsisine bagetleri ve patatesleri dizin; aralarına biber ve domates dilimleri ekleyin.",
+    "200°C fırında tavukların üzeri nar gibi kızarıp içi sulu kalana kadar 40-45 dakika fırınlayın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

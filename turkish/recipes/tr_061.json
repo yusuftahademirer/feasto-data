@@ -1,0 +1,56 @@
+{
+  "id": "tr_061",
+  "name": "Zeytinyağlı Taze Fasulye",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1894216150/tr/foto%C4%9Fraf/traditional-delicious-turkish-food-green-beans-with-olive-oil-turkish-name-zeytinyagli.jpg?s=612x612&w=0&k=20&c=ok3AYuwfCyQDnK7fC1HTEDAPP2j-_ofYsHay2LhjzVI=",
+  "prepTime": 45,
+  "difficulty": "easy",
+  "tags": [
+    "zeytinyağlı",
+    "taze fasulye",
+    "ege",
+    "sağlıklı",
+    "soğuk"
+  ],
+  "ingredients": [
+    {
+      "name": "Taze Fasulye (Kılçıksız)",
+      "measure": "750g"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Olgun Domates",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Sızma Zeytinyağı",
+      "measure": "6 yemek kaşığı"
+    },
+    {
+      "name": "Toz Şeker",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "2 diş"
+    },
+    {
+      "name": "Tuz",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Fasulyelerin kılçıklarını temizleyin ve boyuna ikiye bölerek dilimleyin.",
+    "Geniş bir tencereye yemeklik doğranmış soğanları ve sarımsakları zeytinyağıyla yayın.",
+    "Üzerine temizlenmiş fasulyeleri yerleştirin.",
+    "En üste küp doğranmış veya rendelenmiş domatesleri kapatın.",
+    "Tuz, şeker ve yarım çay bardağı sıcak suyu ekleyip kapağını sıkıca kapatın.",
+    "Kısık ateşte fasulyeler lokum gibi yumuşayana kadar kendi buharında 40 dakika pişirin; ılık veya soğuk servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

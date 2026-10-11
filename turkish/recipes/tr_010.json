@@ -3,7 +3,7 @@
   "name": "Adana Kebabı",
   "category": "ana-yemek",
   "area": "Turkish",
-  "thumbnailURL": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?q=80&w=640&auto=format&fit=crop",
+  "thumbnailURL": "https://media.istockphoto.com/id/1596546088/tr/foto%C4%9Fraf/turkish-foods-turkish-pizza-lahmacun.jpg?s=612x612&w=0&k=20&c=_6scQMZfn-u2xSf55U50v9nCdaCaqYr4d6nq5Oster8=",
   "prepTime": 45,
   "difficulty": "hard",
   "tags": [
@@ -42,5 +42,5 @@
     "Lavaş ekmeği arasına çekip sumaklı soğan ve közlenmiş biberle servis yapın."
   ],
   "sourceURL": null,
-  "youtubeURL": "https://www.youtube.com/watch?v=Kz69kCkgq5A"
+  "youtubeURL": null
 }

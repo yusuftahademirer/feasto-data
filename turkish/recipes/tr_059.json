@@ -1,0 +1,60 @@
+{
+  "id": "tr_059",
+  "name": "Fırında Patates Oturtma",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1327526539/tr/foto%C4%9Fraf/mincemeat-with-potato-patates-oturtma.jpg?s=612x612&w=0&k=20&c=qKV8J3ZLB5f1_lm4Az9YysYL08ArAhxbbH6tVg8UDnQ=",
+  "prepTime": 50,
+  "difficulty": "medium",
+  "tags": [
+    "patates",
+    "kıyma",
+    "fırın",
+    "oturtma",
+    "akşam yemeği"
+  ],
+  "ingredients": [
+    {
+      "name": "Patates",
+      "measure": "4 adet"
+    },
+    {
+      "name": "Dana Kıyma",
+      "measure": "300g"
+    },
+    {
+      "name": "Kuru Soğan",
+      "measure": "1 adet"
+    },
+    {
+      "name": "Yeşil Biber",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Domates",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Domates Salçası",
+      "measure": "1.5 yemek kaşığı"
+    },
+    {
+      "name": "Sıvı Yağ",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Baharatlar (Tuz, Karabiber, Pul Biber)",
+      "measure": "1 çay kaşığı"
+    }
+  ],
+  "instructions": [
+    "Patatesleri soyup 1 cm kalınlığında yuvarlak halkalar halinde dilimleyin ve hafifçe kızartın veya fırınlayın.",
+    "Tavada kıymayı kavurun; ince doğranmış soğan ve biberleri ekleyip sotelemeye devam edin.",
+    "Salça, rendelenmiş domates ve baharatları ekleyip 5 dakika pişirerek kıymalı harcı tamamlayın.",
+    "Fırın tepsisine kızarmış patates dilimlerinin yarısını dizin, üzerine kıymalı harcı yayın.",
+    "Kalan patates dilimlerini en üste dizip domates ve biber dilimleriyle süsleyin.",
+    "Salçalı sıcak su gezdirerek 190°C fırında 25-30 dakika üzeri kızarana kadar pişirin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

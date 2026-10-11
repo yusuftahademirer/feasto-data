@@ -1,0 +1,64 @@
+{
+  "id": "tr_055",
+  "name": "Kapadokya Testi Kebabı",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1448378933/tr/foto%25C4%259Fraf/authentic-turkish-testi-kebab-cooked-in-earthenware-waterjug-turkish-name-testi-kebabi.jpg?s=612x612&w=0&k=20&c=lUdpSN9xAWGGvEpCTYvoaaQQAR9SVKVxvpWU3n227LY=",
+  "prepTime": 90,
+  "difficulty": "hard",
+  "tags": [
+    "kebap",
+    "kuzu",
+    "testi",
+    "geleneksel",
+    "fırın"
+  ],
+  "ingredients": [
+    {
+      "name": "Kuşbaşı Kuzu Eti",
+      "measure": "600g"
+    },
+    {
+      "name": "Arpacık Soğan",
+      "measure": "15 adet"
+    },
+    {
+      "name": "Sarımsak",
+      "measure": "6 diş"
+    },
+    {
+      "name": "Domates",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Yeşil Biber",
+      "measure": "3 adet"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Defne Yaprağı",
+      "measure": "2 adet"
+    },
+    {
+      "name": "Kekik & Pul Biber & Karabiber",
+      "measure": "1 tatlı kaşığı"
+    },
+    {
+      "name": "Tuz",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Kuzu etini arpacık soğan, sarımsak, küp doğranmış domates, biber ve baharatlarla geniş bir kapta harmanlayın.",
+    "Malzemeleri toprak testinin içerisine doldurun ve üzerine tereyağı parçalarını ekleyin.",
+    "Testinin ağzını un ve suyla hazırlanan sert bir hamurla hava almayacak şekilde kapatın.",
+    "Hamurun ortasına kürdanla küçük bir delik açın.",
+    "200°C fırında veya köz ateşte yaklaşık 2 saat ağır ağır pişirin.",
+    "Servis esnasında testinin boğazını satırla kırıp sıcak pilav eşliğinde servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

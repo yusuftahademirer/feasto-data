@@ -1,0 +1,56 @@
+{
+  "id": "tr_068",
+  "name": "Beşamel Soslu Fırında Makarna",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/1793382696/tr/foto%C4%9Fraf/pasta-casserole-bechamel-sauce-topped-with-melted-mozzarella-cheese-and-served-in-a-white.jpg?s=612x612&w=0&k=20&c=zaqIqsLmP-ifgoyqNVJocfIcoPvl3idsVmUJ0aN_AaI=",
+  "prepTime": 45,
+  "difficulty": "easy",
+  "tags": [
+    "makarna",
+    "fırın makarna",
+    "beşamel",
+    "kaşar",
+    "pratik"
+  ],
+  "ingredients": [
+    {
+      "name": "Fırın Makarna (Boru makarna)",
+      "measure": "1 paket (500g)"
+    },
+    {
+      "name": "Rendelenmiş Kaşar Peyniri",
+      "measure": "2 su bardağı"
+    },
+    {
+      "name": "Tereyağı",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Un",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Süt",
+      "measure": "3.5 su bardağı"
+    },
+    {
+      "name": "Muskat Rendesi & Karabiber",
+      "measure": "Yarım çay kaşığı"
+    },
+    {
+      "name": "Beyaz Peynir (İsteğe bağlı)",
+      "measure": "150g"
+    }
+  ],
+  "instructions": [
+    "Makarnayı bol tuzlu kaynar suda 8-9 dakika haşlayıp süzün.",
+    "Ayrı bir tencerede tereyağını eritin, unu kokusu çıkana kadar 2 dakika kavurun.",
+    "Soğuk sütü azar azar ekleyerek çırpma teliyle pürüzsüz kıvam alana kadar kaynatıp beşamel sosu hazırlayın; tuz ve muskat ekleyin.",
+    "Haşlanan makarnayı beşamel sosun yarısı ve ufalanmış peynirle karıştırıp fırın kabına dökün.",
+    "Kalan beşamel sosu makarnanın üzerine yayın ve bol kaşar peyniri serpin.",
+    "190°C fırında üzeri altın sarısı çıtır bir kabuk alana kadar 25-30 dakika pişirin; dilimleyerek servis yapın."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}

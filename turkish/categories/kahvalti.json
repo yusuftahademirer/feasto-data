@@ -1,14 +1,15 @@
 {
   "category": "kahvalti",
-  "page": 1,
-  "totalPages": 1,
+  "categoryName": "Kahvaltı",
+  "categoryNameEn": "Breakfast",
+  "cuisine": "turkish",
+  "totalRecipes": 10,
   "recipes": [
     {
       "id": "tr_009",
       "name": "Köy Usulü Menemen",
       "category": "kahvalti",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1476019725/tr/foto%C4%9Fraf/kibbeh-stuffed-meatballs-kibbeh-delicious-middle-eastern-food-icli-kofte.jpg?s=612x612&w=0&k=20&c=xJYaDNJr46_EfIrSYFq9RYBenfpDGZovUbycqTMMIOE=",
       "prepTime": 20,
       "difficulty": "easy",
       "tags": [
@@ -22,7 +23,6 @@
       "id": "tr_048",
       "name": "Sahanda Sucuklu Yumurta",
       "category": "kahvalti",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=640&auto=format&fit=crop",
       "prepTime": 15,
       "difficulty": "easy",
@@ -37,7 +37,6 @@
       "id": "tr_049",
       "name": "Karadeniz Kuymak / Mıhlama",
       "category": "kahvalti",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=640&auto=format&fit=crop",
       "prepTime": 20,
       "difficulty": "medium",
@@ -52,8 +51,7 @@
       "id": "tr_050",
       "name": "Tepsi Su Böreği",
       "category": "kahvalti",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1040011760/tr/video/geleneksel-t%C3%BCrk-g%C3%B6zleme-borek-s%C4%B1cak-peynirli-g%C3%B6zleme-sulu.jpg?s=640x640&k=20&c=R9dEU2q_S89kfBsiy0XGWgIOsvXnPwiN-jD_mhHy9rQ=",
       "prepTime": 90,
       "difficulty": "hard",
       "tags": [
@@ -67,7 +65,6 @@
       "id": "tr_051",
       "name": "Çıtır Simit & Serpme Kahvaltı",
       "category": "kahvalti",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=640&auto=format&fit=crop",
       "prepTime": 15,
       "difficulty": "easy",
@@ -82,7 +79,6 @@
       "id": "tr_052",
       "name": "El Açması Peynirli Gözleme",
       "category": "kahvalti",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=640&auto=format&fit=crop",
       "prepTime": 35,
       "difficulty": "medium",
@@ -97,7 +93,6 @@
       "id": "tr_053",
       "name": "Karaköy Poğaçası",
       "category": "kahvalti",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=640&auto=format&fit=crop",
       "prepTime": 45,
       "difficulty": "medium",
@@ -112,7 +107,6 @@
       "id": "tr_054",
       "name": "Sarımsaklı Yoğurtlu Çılbır",
       "category": "kahvalti",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=640&auto=format&fit=crop",
       "prepTime": 20,
       "difficulty": "medium",
@@ -121,6 +115,36 @@
         "poşe yumurta",
         "yoğurt",
         "tereyağlı"
+      ]
+    },
+    {
+      "id": "tr_081",
+      "name": "Fırında Çıtır Kabak Mücveri",
+      "category": "kahvalti",
+      "thumbnailURL": "https://media.istockphoto.com/id/1409829413/tr/foto%C4%9Fraf/many-vegetable-flitters-in-the-plate-with-white-sauce-m%C3%BCcver-or-mucver.jpg?s=612x612&w=0&k=20&c=Jgku2zUKYq2jRe-fPXvBz0AkIdNv4KZfUL7tVCRTw4Y=",
+      "prepTime": 35,
+      "difficulty": "easy",
+      "tags": [
+        "mücver",
+        "kabak",
+        "kahvaltı",
+        "börek",
+        "hafif"
+      ]
+    },
+    {
+      "id": "tr_082",
+      "name": "Çıtır Çıtır Paçanga Böreği",
+      "category": "kahvalti",
+      "thumbnailURL": "https://media.istockphoto.com/id/519792444/tr/foto%C4%9Fraf/traditional-turkish-food.jpg?s=612x612&w=0&k=20&c=N7jFfrGwZ63mWYd0ZPRiaW3OHfn4Jl-pO7Z7w8y_C2M=",
+      "prepTime": 30,
+      "difficulty": "easy",
+      "tags": [
+        "börek",
+        "pastırma",
+        "kaşar",
+        "kahvaltı",
+        "çıtır"
       ]
     }
   ]

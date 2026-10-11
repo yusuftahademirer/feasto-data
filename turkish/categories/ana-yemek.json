@@ -1,14 +1,15 @@
 {
   "category": "ana-yemek",
-  "page": 1,
-  "totalPages": 1,
+  "categoryName": "Ana Yemek",
+  "categoryNameEn": "Main Course",
+  "cuisine": "turkish",
+  "totalRecipes": 38,
   "recipes": [
     {
       "id": "tr_001",
       "name": "Karnıyarık",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/2119170192/tr/foto%C4%9Fraf/traditional-turkish-cuisine-turkish-dish-eggplant-with-minced-meat-karniyarik.jpg?s=612x612&w=0&k=20&c=ECAujR2eYaY6zl0vceU60UKX4zKxQNjjaYU2FFzXwmI=",
       "prepTime": 50,
       "difficulty": "medium",
       "tags": [
@@ -22,8 +23,7 @@
       "id": "tr_002",
       "name": "İskender Kebabı",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/2175991896/tr/foto%C4%9Fraf/traditional-turkish-doner-kebab-also-known-iskender.jpg?s=612x612&w=0&k=20&c=PeS0G1tEkG1DdcBWawBMx7erXsfj14d9fTT9k_A2xPQ=",
       "prepTime": 45,
       "difficulty": "hard",
       "tags": [
@@ -37,8 +37,7 @@
       "id": "tr_003",
       "name": "Kayseri Mantısı",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1192936818/tr/foto%C4%9Fraf/k%C4%B1rm%C4%B1z%C4%B1-biber-domates-sosu-yo%C4%9Furt-ve-nane-ile-t%C3%BCrk-manti-geleneksel-t%C3%BCrk-yemekleri-taba%C4%9F%C4%B1.jpg?s=612x612&w=0&k=20&c=iOwSF9_p5hepa0cJk9MZYyBrtPorduuHG3WdGRxRayU=",
       "prepTime": 90,
       "difficulty": "hard",
       "tags": [
@@ -52,8 +51,7 @@
       "id": "tr_010",
       "name": "Adana Kebabı",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1596546088/tr/foto%C4%9Fraf/turkish-foods-turkish-pizza-lahmacun.jpg?s=612x612&w=0&k=20&c=_6scQMZfn-u2xSf55U50v9nCdaCaqYr4d6nq5Oster8=",
       "prepTime": 45,
       "difficulty": "hard",
       "tags": [
@@ -67,8 +65,7 @@
       "id": "tr_011",
       "name": "Hünkar Beğendi",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1472363341/tr/foto%C4%9Fraf/traditional-turkish-food-turkish-meatballs-turkish-name-akcaabat-kofte.jpg?s=612x612&w=0&k=20&c=ItMGpCJXgI3u3hWe5CJHMQDptTlv5NUmDYjg4o8RL0U=",
       "prepTime": 60,
       "difficulty": "medium",
       "tags": [
@@ -82,7 +79,6 @@
       "id": "tr_012",
       "name": "Kuzu Tandır",
       "category": "ana-yemek",
-      "area": "Turkish",
       "thumbnailURL": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=640&auto=format&fit=crop",
       "prepTime": 150,
       "difficulty": "medium",
@@ -97,8 +93,7 @@
       "id": "tr_013",
       "name": "Ali Nazik Kebabı",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1606851094655-b2593a9af63f?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1360850373/tr/foto%C4%9Fraf/top-view-of-turkish-dish-guvech-baked-meat-with-eggplant-and-traditionally-served-in.jpg?s=612x612&w=0&k=20&c=-hLXuerNj7SKLcNC6BAr3tW-MdYHUelbb4g3E0K5Mi8=",
       "prepTime": 45,
       "difficulty": "medium",
       "tags": [
@@ -112,8 +107,7 @@
       "id": "tr_014",
       "name": "Etli Kuru Fasulye",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/184853679/tr/foto%C4%9Fraf/dolma-stuffed-grape-leaves.jpg?s=612x612&w=0&k=20&c=sosLXeNcs0Oi4DC4kDwdEfhOIx2LB7XxZCWf9OjxQls=",
       "prepTime": 70,
       "difficulty": "easy",
       "tags": [
@@ -127,8 +121,7 @@
       "id": "tr_015",
       "name": "İçli Köfte",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1529042410759-befb1204b468?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/500252626/tr/foto%C4%9Fraf/turkey-in-oven.jpg?s=612x612&w=0&k=20&c=sWy1ud8lBYEqKcPJ0D2GKxe65UMz-6rn73w95tj69XQ=",
       "prepTime": 75,
       "difficulty": "hard",
       "tags": [
@@ -142,8 +135,7 @@
       "id": "tr_016",
       "name": "Çıtır Lahmacun",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/187030109/tr/foto%C4%9Fraf/turkish-pizza.jpg?s=612x612&w=0&k=20&c=c7VQgi1DNs6Q7sY1KSX6F6HyHaxBQNUzJRCgFvqbV-o=",
       "prepTime": 45,
       "difficulty": "medium",
       "tags": [
@@ -157,8 +149,7 @@
       "id": "tr_017",
       "name": "İnegöl Köfte",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1529042410759-befb1204b468?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1609939601/tr/foto%C4%9Fraf/imam-bayildi.jpg?s=612x612&w=0&k=20&c=7c00fntkFIjRBUzIPOdQDEK2rJiwh6qux2lYh4euWdU=",
       "prepTime": 40,
       "difficulty": "medium",
       "tags": [
@@ -172,8 +163,7 @@
       "id": "tr_018",
       "name": "Çökertme Kebabı",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/874804606/tr/foto%C4%9Fraf/tantuni.jpg?s=612x612&w=0&k=20&c=IcJ4Hx1cRPuY8L9izpY4V_uMbGBBGEw2zawbZQQa2Og=",
       "prepTime": 50,
       "difficulty": "medium",
       "tags": [
@@ -187,8 +177,7 @@
       "id": "tr_019",
       "name": "Güveçte Etli Türlü",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/856009070/tr/foto%C4%9Fraf/mercimek-%C3%A7orbas%C4%B1.jpg?s=612x612&w=0&k=20&c=-AT1E7g2xWAYAW6WK55eexpDTCX_EoqNdsfGI9Nsca0=",
       "prepTime": 80,
       "difficulty": "easy",
       "tags": [
@@ -202,8 +191,7 @@
       "id": "tr_020",
       "name": "Zeytinyağlı Yaprak Sarma",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1756593998/tr/foto%C4%9Fraf/traditional-delicious-turkish-foods-ezogelin-soup.jpg?s=612x612&w=0&k=20&c=Yu_DJPQaCKmed68aT7PxubjSPyeeqtiQPqlQCriuFAc=",
       "prepTime": 70,
       "difficulty": "hard",
       "tags": [
@@ -217,8 +205,7 @@
       "id": "tr_021",
       "name": "Fırında Sebzeli Tavuk",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/635912218/tr/foto%C4%9Fraf/turkish-yayla-or-yogurt-soup-with-mint-sauce.jpg?s=612x612&w=0&k=20&c=RiVYhh9T2qWFjsB3e1nDx0mCkRspzfH64mOO7nb82nM=",
       "prepTime": 50,
       "difficulty": "easy",
       "tags": [
@@ -232,8 +219,7 @@
       "id": "tr_022",
       "name": "Kıymalı Kaşarlı Pide",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1880387860/tr/foto%C4%9Fraf/tarhana-soup.jpg?s=612x612&w=0&k=20&c=MX2RJFL_rLK6JHNBa4QtpFkZ9tbC2LHHqMFDqAaMinM=",
       "prepTime": 60,
       "difficulty": "medium",
       "tags": [
@@ -247,8 +233,7 @@
       "id": "tr_023",
       "name": "İmam Bayıldı",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/2096360353/tr/foto%C4%9Fraf/tomato-soup-in-bowl-with-fresh-organic-tomatoes-on-table-healthy-homemade-traditional-soup.jpg?s=612x612&w=0&k=20&c=WlFlg5ecrguA1rUnRDNHpvgnlUGbRKJK-Gqa9qEWsHA=",
       "prepTime": 50,
       "difficulty": "easy",
       "tags": [
@@ -262,8 +247,7 @@
       "id": "tr_024",
       "name": "Mersin Tantuni",
       "category": "ana-yemek",
-      "area": "Turkish",
-      "thumbnailURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=640&auto=format&fit=crop",
+      "thumbnailURL": "https://media.istockphoto.com/id/1337110572/tr/foto%C4%9Fraf/creamy-chicken-soup-with-butter.jpg?s=612x612&w=0&k=20&c=uikokejosgBLQrgJkLZJhxFqbKjXr_6FEyQ8vek_Ywk=",
       "prepTime": 35,
       "difficulty": "easy",
       "tags": [
@@ -271,6 +255,306 @@
         "dürüm",
         "mersin",
         "sokak lezzeti"
+      ]
+    },
+    {
+      "id": "tr_055",
+      "name": "Kapadokya Testi Kebabı",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1448378933/tr/foto%25C4%259Fraf/authentic-turkish-testi-kebab-cooked-in-earthenware-waterjug-turkish-name-testi-kebabi.jpg?s=612x612&w=0&k=20&c=lUdpSN9xAWGGvEpCTYvoaaQQAR9SVKVxvpWU3n227LY=",
+      "prepTime": 90,
+      "difficulty": "hard",
+      "tags": [
+        "kebap",
+        "kuzu",
+        "testi",
+        "geleneksel",
+        "fırın"
+      ]
+    },
+    {
+      "id": "tr_056",
+      "name": "Erzurum Cağ Kebabı",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/480228344/tr/foto%25C4%259Fraf/erzurum-ca%25C4%259F-kebab%25C4%25B1.jpg?s=612x612&w=0&k=20&c=wPP8mssLcMkHa1oZlD0HvW99T6Ac_QMs-GGSYyd2Txw=",
+      "prepTime": 60,
+      "difficulty": "hard",
+      "tags": [
+        "kebap",
+        "kuzu",
+        "yatık döner",
+        "erzurum",
+        "odun ateşi"
+      ]
+    },
+    {
+      "id": "tr_057",
+      "name": "Toprak Kapta Kuzu Güveç",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1360850373/tr/foto%C4%9Fraf/top-view-of-turkish-dish-guvech-baked-meat-with-eggplant-and-traditionally-served-in.jpg?s=612x612&w=0&k=20&c=-hLXuerNj7SKLcNC6BAr3tW-MdYHUelbb4g3E0K5Mi8=",
+      "prepTime": 80,
+      "difficulty": "medium",
+      "tags": [
+        "kuzu",
+        "güveç",
+        "fırın",
+        "türlü",
+        "sebzeli et"
+      ]
+    },
+    {
+      "id": "tr_058",
+      "name": "Terbiyeli Sulu Köfte",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1366586150/tr/foto%C4%9Fraf/turkish-food-green-pea-stew-with-meatballs-kofte-or-kofta-bezelye.jpg?s=612x612&w=0&k=20&c=9IfdjMYzkOiw4AMWeRbqQT1PXyWOnbbo21S0_1xcyUI=",
+      "prepTime": 45,
+      "difficulty": "medium",
+      "tags": [
+        "köfte",
+        "sulu yemek",
+        "patates",
+        "ev yemeği",
+        "havuç"
+      ]
+    },
+    {
+      "id": "tr_059",
+      "name": "Fırında Patates Oturtma",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1327526539/tr/foto%C4%9Fraf/mincemeat-with-potato-patates-oturtma.jpg?s=612x612&w=0&k=20&c=qKV8J3ZLB5f1_lm4Az9YysYL08ArAhxbbH6tVg8UDnQ=",
+      "prepTime": 50,
+      "difficulty": "medium",
+      "tags": [
+        "patates",
+        "kıyma",
+        "fırın",
+        "oturtma",
+        "akşam yemeği"
+      ]
+    },
+    {
+      "id": "tr_060",
+      "name": "Anne Usulü Salçalı Patates Yemeği",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/2179738015/tr/foto%C4%9Fraf/from-traditional-turkish-cuisine-meat-and-potato-dish-turkish-name-etli-patates-yemegi.jpg?s=612x612&w=0&k=20&c=uftB9uKSUXRF4UeyhjTX7zigx-7I644UYQ9b-IhtFVg=",
+      "prepTime": 35,
+      "difficulty": "easy",
+      "tags": [
+        "patates",
+        "sulu yemek",
+        "tencere yemeği",
+        "ev yemeği",
+        "pratik"
+      ]
+    },
+    {
+      "id": "tr_061",
+      "name": "Zeytinyağlı Taze Fasulye",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1894216150/tr/foto%C4%9Fraf/traditional-delicious-turkish-food-green-beans-with-olive-oil-turkish-name-zeytinyagli.jpg?s=612x612&w=0&k=20&c=ok3AYuwfCyQDnK7fC1HTEDAPP2j-_ofYsHay2LhjzVI=",
+      "prepTime": 45,
+      "difficulty": "easy",
+      "tags": [
+        "zeytinyağlı",
+        "taze fasulye",
+        "ege",
+        "sağlıklı",
+        "soğuk"
+      ]
+    },
+    {
+      "id": "tr_062",
+      "name": "Fırında Kaşarlı Karnabahar",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1290730147/tr/foto%C4%9Fraf/ot-sosu-ve-baharat-ile-karnabahar-biftek-bitki-bazl%C4%B1-et-yerine.jpg?s=612x612&w=0&k=20&c=aBUp_3fs6p7hHkxOCpkksqnVfh3ssUG2tDsNNlfv0Pc=",
+      "prepTime": 40,
+      "difficulty": "easy",
+      "tags": [
+        "karnabahar",
+        "fırın",
+        "kaşar",
+        "sağlıklı",
+        "sebze"
+      ]
+    },
+    {
+      "id": "tr_063",
+      "name": "Kıymalı Girit Kabak Yemeği",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1028200434/tr/foto%C4%9Fraf/t%C3%BCrk-g%C3%BCve%C3%A7-yemekleri-kabak-dereotu-ve-domates-ile-pan.jpg?s=612x612&w=0&k=20&c=Zm0UlEPOlXfwt6Nv8SZwgK0aiQwi0TNeUn8z6_2sOPU=",
+      "prepTime": 40,
+      "difficulty": "easy",
+      "tags": [
+        "kabak",
+        "kıyma",
+        "tencere yemeği",
+        "sağlıklı",
+        "dereotu"
+      ]
+    },
+    {
+      "id": "tr_064",
+      "name": "Kıymalı Zeytinyağlı Pırasa",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/637369688/tr/foto%C4%9Fraf/leek-with-olive-oil-from-bodrum-turkey.jpg?s=612x612&w=0&k=20&c=nULntgJg_nRbev6vxrK62Ko3z_Ytm4MQ1TFE3OqrvvU=",
+      "prepTime": 45,
+      "difficulty": "easy",
+      "tags": [
+        "pırasa",
+        "havuç",
+        "kıyma",
+        "kış yemeği",
+        "sağlıklı"
+      ]
+    },
+    {
+      "id": "tr_065",
+      "name": "Tavuklu & Etli Nohut Yemeği",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/2184193297/tr/foto%C4%9Fraf/top-view-of-moroccan-chicken-tagine-with-eggplant-tomatoes-and-chickpeas.jpg?s=612x612&w=0&k=20&c=DujPnqa18cKlaJgwr58723iV7lTCRT4aBTuu7cyiFY4=",
+      "prepTime": 50,
+      "difficulty": "medium",
+      "tags": [
+        "nohut",
+        "tavuk",
+        "bakliyat",
+        "klasik",
+        "tencere yemeği"
+      ]
+    },
+    {
+      "id": "tr_066",
+      "name": "Geleneksel Kuru Patlıcan Dolması",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1216760899/tr/foto%C4%9Fraf/bilinen-patlican-dolmasi-olarak-pirin%C3%A7-dolmas%C4%B1-ile-kurutulmu%C5%9F-patl%C4%B1can.jpg?s=612x612&w=0&k=20&c=Jj_588kEsUUOwQi-YxMRYaylM6uCriuX8i0p-MBWQQc=",
+      "prepTime": 75,
+      "difficulty": "hard",
+      "tags": [
+        "dolma",
+        "kuru patlıcan",
+        "gaziantep",
+        "sumak",
+        "zeytinyağlı"
+      ]
+    },
+    {
+      "id": "tr_067",
+      "name": "Fırında Soslu Tavuk Baget",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/455238343/tr/foto%C4%9Fraf/roasted-marinated-chicken-drumsticks.jpg?s=612x612&w=0&k=20&c=3uJuEfE7J9EixkdTJL7KQa5Y9dcjXs2R81Zc_jwMpNk=",
+      "prepTime": 45,
+      "difficulty": "easy",
+      "tags": [
+        "tavuk",
+        "baget",
+        "fırın",
+        "marinasyon",
+        "patatesli"
+      ]
+    },
+    {
+      "id": "tr_068",
+      "name": "Beşamel Soslu Fırında Makarna",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1793382696/tr/foto%C4%9Fraf/pasta-casserole-bechamel-sauce-topped-with-melted-mozzarella-cheese-and-served-in-a-white.jpg?s=612x612&w=0&k=20&c=zaqIqsLmP-ifgoyqNVJocfIcoPvl3idsVmUJ0aN_AaI=",
+      "prepTime": 45,
+      "difficulty": "easy",
+      "tags": [
+        "makarna",
+        "fırın makarna",
+        "beşamel",
+        "kaşar",
+        "pratik"
+      ]
+    },
+    {
+      "id": "tr_069",
+      "name": "İzmir Usulü Baharatlı Kokoreç",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1816883731/tr/foto%C4%9Fraf/traditional-turkish-food-kokorec-izmir-kokorec.jpg?s=612x612&w=0&k=20&c=NMab4VYulbnZE0Ja_mqtJYJGGd6nGoYtsWGlh7DI8A0=",
+      "prepTime": 30,
+      "difficulty": "medium",
+      "tags": [
+        "sokak lezzeti",
+        "kokoreç",
+        "kekik",
+        "ekmek arası",
+        "baharatlı"
+      ]
+    },
+    {
+      "id": "tr_070",
+      "name": "Bol Malzemeli Ortaköy Kumpiri",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1471938181/tr/foto%C4%9Fraf/kumpir-turkish-baked-potato-with-cheese-corn-sausage-ketchup-mayonnaise-and-olives.jpg?s=612x612&w=0&k=20&c=IaaUEdOOT1qDAdcpCcjhdlkeVYE6W1wdZgAJD4xhV40=",
+      "prepTime": 60,
+      "difficulty": "easy",
+      "tags": [
+        "kumpir",
+        "sokak lezzeti",
+        "fırın patates",
+        "kaşarlı",
+        "zengin"
+      ]
+    },
+    {
+      "id": "tr_071",
+      "name": "Geleneksel Tereyağlı Pirinç Pilavı",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/2043305575/tr/foto%C4%9Fraf/traditional-delicious-turkish-food-turkish-style-rice-pilaf.jpg?s=612x612&w=0&k=20&c=_6VjaPdquh3evIJzYP27S4-3MBE_yALX-WEQPo5GdL4=",
+      "prepTime": 30,
+      "difficulty": "medium",
+      "tags": [
+        "pilav",
+        "şehriye",
+        "tereyağlı",
+        "tane tane",
+        "klasik"
+      ]
+    },
+    {
+      "id": "tr_072",
+      "name": "Meyhane Usulü Şehriyeli Bulgur Pilavı",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1178733966/tr/foto%C4%9Fraf/tabakta-domates-sause-ile-geleneksel-t%C3%BCrk-bulgur-pilav%C4%B1.jpg?s=612x612&w=0&k=20&c=mdtvnbde3UzHkiIlbzzTStDeCV7f0MiEUcCe6TdZrN4=",
+      "prepTime": 30,
+      "difficulty": "easy",
+      "tags": [
+        "bulgur",
+        "pilav",
+        "domatesli",
+        "biberli",
+        "anadolu"
+      ]
+    },
+    {
+      "id": "tr_073",
+      "name": "Karadeniz Usulü Hamsili Pilav",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1191264242/tr/foto%C4%9Fraf/hamsi-hamsi-bal%C4%B1kl%C4%B1-pilav-geleneksel-t%C3%BCrk-yemekleri-kapama-pilav-siyah-ah%C5%9Fap-masa-%C3%BCzerinde.jpg?s=612x612&w=0&k=20&c=pEPmKIv8Fsrsy49pqAFVer-9eCko_-Bd2AXIjqteZwU=",
+      "prepTime": 65,
+      "difficulty": "hard",
+      "tags": [
+        "hamsi",
+        "balık",
+        "karadeniz",
+        "fırın",
+        "özel lezzet"
+      ]
+    },
+    {
+      "id": "tr_074",
+      "name": "Saray Usulü Kestaneli İç Pilav",
+      "category": "ana-yemek",
+      "thumbnailURL": "https://media.istockphoto.com/id/1414065601/tr/foto%C4%9Fraf/traditional-delicious-turkish-food-chestnut-rice-pilaf.jpg?s=612x612&w=0&k=20&c=wpI5vdje9EUmrQr15scUft7DB_qzNkgRLwjgCPZx6kg=",
+      "prepTime": 45,
+      "difficulty": "medium",
+      "tags": [
+        "kestane",
+        "pilav",
+        "saray mutfağı",
+        "özel gün",
+        "baharatlı"
       ]
     }
   ]

@@ -1,0 +1,56 @@
+{
+  "id": "tr_071",
+  "name": "Geleneksel Tereyağlı Pirinç Pilavı",
+  "category": "ana-yemek",
+  "area": "Turkish",
+  "thumbnailURL": "https://media.istockphoto.com/id/2043305575/tr/foto%C4%9Fraf/traditional-delicious-turkish-food-turkish-style-rice-pilaf.jpg?s=612x612&w=0&k=20&c=_6VjaPdquh3evIJzYP27S4-3MBE_yALX-WEQPo5GdL4=",
+  "prepTime": 30,
+  "difficulty": "medium",
+  "tags": [
+    "pilav",
+    "şehriye",
+    "tereyağlı",
+    "tane tane",
+    "klasik"
+  ],
+  "ingredients": [
+    {
+      "name": "Baldo Pirinç",
+      "measure": "2 su bardağı"
+    },
+    {
+      "name": "Arpa Şehriye",
+      "measure": "3 yemek kaşığı"
+    },
+    {
+      "name": "Hakiki Tereyağı",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Sıvı Yağ",
+      "measure": "2 yemek kaşığı"
+    },
+    {
+      "name": "Sıcak Tavuk Suyu veya Su",
+      "measure": "3 su bardağı"
+    },
+    {
+      "name": "Limon Suyu",
+      "measure": "3 damla (Beyaz kalması için)"
+    },
+    {
+      "name": "Tuz",
+      "measure": "1 tatlı kaşığı"
+    }
+  ],
+  "instructions": [
+    "Pirinci ılık tuzlu suda 20 dakika bekletip nişastası tamamen akana kadar bol suyla yıkayıp süzün.",
+    "Pilav tenceresinde sıvı yağ ve tereyağında arpa şehriyeleri altın sarısı kahverengi olana kadar kavurun.",
+    "Süzülen pirinçleri ekleyip taneler şeffaflaşana kadar orta ateşte 4-5 dakika kavurun.",
+    "Sıcak tavuk suyunu, tuzu ve limon suyunu ekleyip bir kez karıştırın.",
+    "Tencerenin kapağını kapatıp kaynayana kadar orta, ardından en kısık ateşte suyunu çekene kadar pişirin.",
+    "Üzerine kağıt havlu örtüp kapağını kapatın ve 15 dakika demlendirip nazikçe harmanlayarak servis edin."
+  ],
+  "sourceURL": null,
+  "youtubeURL": null
+}
